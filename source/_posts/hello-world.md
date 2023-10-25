@@ -43,5 +43,5 @@ success ！！！
 ### 域名
 
 ``` bash 
-https://www.blog.wuyuxi.cn
+https://blog.wuyuxi.cn
 ```
