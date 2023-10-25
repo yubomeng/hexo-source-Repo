@@ -1077,8 +1077,8 @@ home_top:
 # 朋友圈配置
 friends_vue:
   enable: true
-  vue_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.1/friends/index.4f887d95.js
-  apiurl: # 朋友圈后端地址
+  vue_js: /js/friends.js
+  apiurl: https://friend.wuyuxi.cn/          # 朋友圈后端地址
   top_background: https://dogefs.s3.ladydaily.com/~/source/wallhaven/full/o5/wallhaven-o5l327.jpg?w=2560&h=1440&fmt=webp
 
 # 深色模式粒子效果canvas
@@ -1111,7 +1111,7 @@ comment_barrage_config:
   # 同时最多显示弹幕数
   maxBarrage: 1
   # 弹幕显示间隔时间ms
-  barrageTime: 2000
+  barrageTime: 5000
   # token，在控制台中获取
   accessToken: "212121d8f8a939b66e35794d8e19b748"
   # 博主邮箱md5值
