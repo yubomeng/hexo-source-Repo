@@ -13,6 +13,7 @@
     "version": "6.3.0"
   },
   "dependencies": {
+    "gulp": "^4.0.2",
     "hexo": "^6.3.0",
     "hexo-bilibili-bangumi": "^1.8.9",
     "hexo-butterfly-envelope": "^1.0.15",
