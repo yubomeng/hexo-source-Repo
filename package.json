@@ -2,6 +2,7 @@
   "name": "hexo-site",
   "version": "0.0.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "build": "hexo generate",
     "clean": "hexo clean",
@@ -14,6 +15,7 @@
   },
   "dependencies": {
     "gulp": "^4.0.2",
+    "gulp-htmlmin": "^5.0.1",
     "hexo": "^6.3.0",
     "hexo-bilibili-bangumi": "^1.8.9",
     "hexo-butterfly-envelope": "^1.0.15",
@@ -31,6 +33,17 @@
     "hexo-server": "^3.0.0",
     "hexo-theme-landscape": "^1.0.0",
     "hexo-wordcount": "^6.0.1",
-    "pwa-asset-generator": "^6.3.1"
+    "pwa-asset-generator": "^6.3.1",
+    "workbox-build": "^7.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.2",
+    "@babel/preset-env": "^7.23.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-fontmin": "^0.7.4",
+    "gulp-htmlclean": "^2.7.22",
+    "gulp-imagemin": "^8.0.0",
+    "gulp-uglify": "^3.0.2"
   }
 }
