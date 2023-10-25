@@ -1,0 +1,113 @@
+- class_name: 关于页
+  subtitle: 希望明天，像过往的那一刻🎉
+  avatarImg: https://cdnjson.com/images/2023/06/04/avatar.png
+  avatarSkills:
+    left:
+      - 🤖️ 数码科技爱好者
+      - 🔍 分享与热心帮助
+      - 🏠 智能家居小能手
+      - 🔨 设计开发一条龙
+    right:
+      - 专修交互与设计 🤝
+      - 脚踏实地行动派 🏃
+      - 团队小组发动机 🧱
+      - 壮汉人狠话不多 💢
+  name: Qing
+  description: 是一名 寻找希望的 Qing
+  aboutsiteTips:
+    tips: 追求
+    title1: 源于
+    title2: 热爱而去 感受
+    word:
+      - 学习
+      - 生活
+      - 程序
+      - 体验
+  helloAbout: Hello there!
+  skillsTips:
+    tips: 技能
+    title: 开启创造力
+  careers:
+    tips: 生涯
+    title: 无限进步
+    list:
+      - desc: EDU,计算机科学与技术专业
+        color: "#357ef5"
+    img: https://cdnjson.com/images/2023/04/15/6330e9bcc39cc.png
+  statistic:
+    link: /archives
+    text: 文章隧道
+    cover: https://bu.dusays.com/2023/05/01/644f4b037b930.jpg
+  map:
+    title: 我现在住在
+    StrengthenTitle: 中国，西安市
+    background: https://cdnjson.com/images/2023/10/24/local7499dd1c3588e2cb.jpg
+    backgroundDark: https://cdnjson.com/images/2023/10/24/local7499dd1c3588e2cb.jpg
+  selfInfo:
+    selfInfoTips1: 生于
+    selfInfoContentYear: 2000
+    selfInfoTips2: 逝于
+    selfInfoContent2: 20？？
+    selfInfoTips3: 现在
+    selfInfoContent3: 未知 🤡
+  personalities:
+    author_name: 快乐
+    personality_type: Depression and happiness
+    photo_url: https://cdnjson.com/images/2023/05/05/image413a85d03e5106e0.png
+    personality_img: https://cdnjson.com/images/2023/10/24/happy.png
+    name_url: https://www.who.int/zh/news-room/fact-sheets/detail/depression
+  maxim:
+    maxim_tips: Qing
+    maxim_top: 希望明天，
+    maxim_bottom: 像过往的那一刻。
+  buff:
+    buff_tips: 特长
+    buff_top: 黏人的 小鱼
+    buff_bottom: 黏人指数 MAX
+  game:
+    game_tips: 爱好游戏
+    game_title: 和平精英
+    game_uid: "呢称: 画情为仙"
+    game_bg: https://cdnjson.com/images/2023/10/24/peace.jpg
+  comic:
+    comic_tips: 爱好影片  
+    comic_title: 电影
+    comic_list:
+      - name: 肖申克的救赎
+        href: https://baike.baidu.com/item/%E8%82%96%E7%94%B3%E5%85%8B%E7%9A%84%E6%95%91%E8%B5%8E/30307
+        cover: https://cdnjson.com/images/2023/10/24/The-Shawshank-Redemption.jpg
+      - name: 阿甘正传
+        href: https://www.iqiyi.com/v_19rrk3u264.html
+        cover: https://cdnjson.com/images/2023/10/24/Forrest-Gump.jpg
+      - name: 霸王别姬
+        href: https://v.qq.com/x/cover/j3czmhisqin799r/z002615k57t.html?ptag=iqiyi
+        cover: https://cdnjson.com/images/2023/10/24/Farewell-My-Concubine.jpg
+      - name: 天空之城
+        href: https://www.iqiyi.com/v_19rrmgbgw8.html
+        cover: https://cdnjson.com/images/2023/10/24/iqiyi_1698158769309.png
+      - name: 猫和老鼠
+        href: https://www.iqiyi.com/v_2dmdjsl49co.html
+        cover: https://cdnjson.com/images/2023/10/24/cat.jpg
+  like:
+    like_tips: 关注偏好
+    like_title: 数码科技
+    like_bg: https://bu.dusays.com/2022/12/06/638f5f05ce1f7.jpg
+    like_bottom: 手机、电脑软硬件
+  music:
+    music_tips: 音乐偏好
+    music_title: 摩天大楼、消愁
+    music_bg: https://cdnjson.com/images/2023/10/24/skyscraper.jpg
+    music_link: /music
+
+############################################################################
+##      赞赏名单
+  # reward_list:
+  #   - name: 海阔蓝
+  #     amount: 8.8
+  #     datatime: 2023-03-28
+  #   - name: LK66
+  #     amount: 66.6
+  #     datatime: 2023-03-24
+  #   - name: 张时貳
+  #     amount: 6.6
+  #     datatime: 2023-01-22
