@@ -1,9 +1,9 @@
-import gulp from "gulp";
-import cleanCSS from "gulp-clean-css";
-import htmlmin from "gulp-htmlmin";
-import htmlclean from "gulp-htmlclean";
-import workbox from "workbox-build";
-import fontmin from "gulp-fontmin";
+const gulp  = require ("gulp");
+const cleanCSS = require ("gulp-clean-css");
+const htmlmin =  require ("gulp-htmlmin");
+const htmlclean = require ("gulp-htmlclean");
+const workbox = require ("workbox-build");
+const fontmin = require ("gulp-fontmin");
 
 // 若使用babel压缩js，则取消下方注释，并注释terser的代码
 var uglify = require('gulp-uglify');
