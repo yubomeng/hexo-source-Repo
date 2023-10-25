@@ -39,3 +39,9 @@ More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 
 ### 自动部署
 success ！！！
+
+### 域名
+
+``` bash 
+https://www.blog.wuyuxi.cn
+```
