@@ -104,3 +104,7 @@
     font-weight: 400;
 }
 
+/* 空调取消版权信息 */
+.copyright-box .copyright-p-1,.copyright-box p {
+    display: none !important; 
+}
