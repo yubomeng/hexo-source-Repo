@@ -5,6 +5,9 @@ tags:
     - vue
 categories: 
     - vue
+top_img: "https://cdnjson.com/images/2023/10/26/be9def1c7f058bfb323518bf24d3535b.png"
+cover: "https://cdnjson.com/images/2023/10/26/be9def1c7f058bfb323518bf24d3535b.png"
+
 ---
 
 ### 1.将Vue单页面转成pdf并下载

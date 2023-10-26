@@ -72,7 +72,6 @@
     color: #e0653f !important;
     margin-left: 3px !important;
     font-size: 12px !important;
-    font-family: "楷体";
 }
 
 /* twikoo 版权信息隐藏 */
@@ -117,4 +116,14 @@
     margin-top: 3px !important;
     margin-right: 10px !important;
 
+}
+
+
+/* 首页文章“未读”位置调整 */
+.recent-post-info-top-tips .unvisited-post {
+    position: relative;
+    left: 490px;
+    top: -20px;
+    font-size: 10px !important;
+    color: #e0653f !important;
 }
