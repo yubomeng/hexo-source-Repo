@@ -418,7 +418,7 @@ footer:
   owner:
     enable: true
     since: 2023
-  custom_text:
+  custom_text: 
   runtime:
     enable: false
     launch_time: 10/23/2023 00:00:00 # 网站上线时间
@@ -515,7 +515,7 @@ footer:
     enable: true
     authorLink: /
     cc:
-      enable: true
+      enable: false
       link: /copyright
     linkList:
       # - link: https://github.com/yubomeng/yubomeng.github.io
