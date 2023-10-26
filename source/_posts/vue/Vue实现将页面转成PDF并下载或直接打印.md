@@ -3,6 +3,8 @@ title: Vue实现将页面转成PDF并下载或直接打印
 date: 2023-10-26 21:47:27
 tags:
     - vue
+categories: 
+    - vue
 ---
 
 ### 1.将Vue单页面转成pdf并下载
