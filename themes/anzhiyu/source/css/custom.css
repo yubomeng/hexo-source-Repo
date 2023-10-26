@@ -108,3 +108,13 @@
 .copyright-box .copyright-p-1,.copyright-box p {
     display: none !important; 
 }
+
+/* 文章页字体调整 */
+.recent-post-info .recent-post-info-top .recent-post-info-top-tips .article-categories-original {
+    font-size: 10px !important;
+    font-weight: border !important;
+    font-family: "微软雅黑";
+    margin-top: 3px !important;
+    margin-right: 10px !important;
+
+}

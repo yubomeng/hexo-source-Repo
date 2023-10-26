@@ -47,9 +47,9 @@
 
   document.getElementById("ai-tag").addEventListener("click", onAiTagClick);
   aiTitleRefreshIcon.addEventListener("click", onAiTitleRefreshIconClick);
-  document.getElementById("go-tianli-blog").addEventListener("click", () => {
-    window.open(btnLink, "_blank");
-  });
+  // document.getElementById("go-tianli-blog").addEventListener("click", () => {
+  //   window.open(btnLink, "_blank");
+  // });
   aiReadAloudIcon.addEventListener("click", readAloud);
 
   async function readAloud() {
