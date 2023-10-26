@@ -1,6 +1,6 @@
 - class_name: 关于页
   subtitle: 希望明天，像过往的那一刻🎉
-  avatarImg: https://cdnjson.com/images/2023/06/04/avatar.png
+  avatarImg: https://blog.wuyuxi.cn/img/avatar.png
   avatarSkills:
     left:
       - 🤖️ 数码科技爱好者
@@ -23,7 +23,7 @@
       - 生活
       - 程序
       - 体验
-  helloAbout: Hello there!
+  helloAbout: 你侬我侬
   skillsTips:
     tips: 技能
     title: 开启创造力
@@ -33,7 +33,7 @@
     list:
       - desc: EDU,计算机科学与技术专业
         color: "#357ef5"
-    img: https://cdnjson.com/images/2023/04/15/6330e9bcc39cc.png
+    img: https://blog.wuyuxi.cn/img/about/zhuanye.png
   statistic:
     link: /archives
     text: 文章隧道
@@ -41,20 +41,20 @@
   map:
     title: 我现在住在
     StrengthenTitle: 中国，西安市
-    background: https://cdnjson.com/images/2023/10/24/local7499dd1c3588e2cb.jpg
-    backgroundDark: https://cdnjson.com/images/2023/10/24/local7499dd1c3588e2cb.jpg
+    background: https://blog.wuyuxi.cn/img/about/local.jpg
+    backgroundDark: https://blog.wuyuxi.cn/img/about/local.jpg
   selfInfo:
     selfInfoTips1: 生于
     selfInfoContentYear: 2000
     selfInfoTips2: 逝于
-    selfInfoContent2: 20？？
+    selfInfoContent2: 20 ？？
     selfInfoTips3: 现在
     selfInfoContent3: 未知 🤡
   personalities:
     author_name: 快乐
     personality_type: Depression and happiness
-    photo_url: https://cdnjson.com/images/2023/05/05/image413a85d03e5106e0.png
-    personality_img: https://cdnjson.com/images/2023/10/24/happy.png
+    photo_url: https://blog.wuyuxi.cn/img/about/people.webp
+    personality_img: https://blog.wuyuxi.cn/img/about/happy.png
     name_url: https://www.who.int/zh/news-room/fact-sheets/detail/depression
   maxim:
     maxim_tips: Qing
@@ -68,35 +68,35 @@
     game_tips: 爱好游戏
     game_title: 和平精英
     game_uid: "呢称: 画情为仙"
-    game_bg: https://cdnjson.com/images/2023/10/24/peace.jpg
+    game_bg: https://blog.wuyuxi.cn/img/about/peace.webp
   comic:
     comic_tips: 爱好影片  
     comic_title: 电影
     comic_list:
       - name: 肖申克的救赎
         href: https://baike.baidu.com/item/%E8%82%96%E7%94%B3%E5%85%8B%E7%9A%84%E6%95%91%E8%B5%8E/30307
-        cover: https://cdnjson.com/images/2023/10/24/The-Shawshank-Redemption.jpg
+        cover: https://blog.wuyuxi.cn/img/about/redemption.jpg
       - name: 阿甘正传
         href: https://www.iqiyi.com/v_19rrk3u264.html
-        cover: https://cdnjson.com/images/2023/10/24/Forrest-Gump.jpg
+        cover: https://blog.wuyuxi.cn/img/about/gump.jpg
       - name: 霸王别姬
         href: https://v.qq.com/x/cover/j3czmhisqin799r/z002615k57t.html?ptag=iqiyi
-        cover: https://cdnjson.com/images/2023/10/24/Farewell-My-Concubine.jpg
+        cover: https://blog.wuyuxi.cn/img/about/farewell .jpg
       - name: 天空之城
         href: https://www.iqiyi.com/v_19rrmgbgw8.html
-        cover: https://cdnjson.com/images/2023/10/24/iqiyi_1698158769309.png
+        cover: https://blog.wuyuxi.cn/img/about/thekey.png
       - name: 猫和老鼠
         href: https://www.iqiyi.com/v_2dmdjsl49co.html
-        cover: https://cdnjson.com/images/2023/10/24/cat.jpg
+        cover: https://blog.wuyuxi.cn/img/about/cat.jpg
   like:
     like_tips: 关注偏好
-    like_title: 数码科技
-    like_bg: https://bu.dusays.com/2022/12/06/638f5f05ce1f7.jpg
-    like_bottom: 手机、电脑软硬件
+    like_title: 未来
+    like_bg: https://blog.wuyuxi.cn/img/about/habby.webp
+    like_bottom: 人类、自然、地球
   music:
     music_tips: 音乐偏好
     music_title: 摩天大楼、消愁
-    music_bg: https://cdnjson.com/images/2023/10/24/skyscraper.jpg
+    music_bg: https://blog.wuyuxi.cn/img/about/skyscraper.jpg
     music_link: /music
 
 ############################################################################
