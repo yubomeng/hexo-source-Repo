@@ -8,14 +8,23 @@
 
 const urlFor = require("hexo-util").url_for.bind(hexo);
 
-const lazyload = htmlContent => {
-  const error_img = hexo.theme.config.error_img.post_page
+// const lazyload = htmlContent => {
+//   const error_img = hexo.theme.config.error_img.post_page
+//   const bg = hexo.theme.config.lazyload.placeholder
+//     ? urlFor(hexo.theme.config.lazyload.placeholder)
+//     : "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7";
+//   return htmlContent.replace(
+//     /(<img(?!.class[\t]*=[\t]*['"].*?nolazyload.*?['"]).*? src=)/gi,
+//     `$1 "${bg}" onerror="this.onerror=null,this.src=&quot;${error_img}&quot;" data-lazy-src=`
+//   );
+// }
+function lazyload(htmlContent) {
   const bg = hexo.theme.config.lazyload.placeholder
     ? urlFor(hexo.theme.config.lazyload.placeholder)
     : "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7";
   return htmlContent.replace(
-    /(<img(?!.class[\t]*=[\t]*['"].*?nolazyload.*?['"]).*? src=)/gi,
-    `$1 "${bg}" onerror="this.onerror=null,this.src=&quot;${error_img}&quot;" data-lazy-src=`
+    /(<img(?!.*?class[\t]*=[\t]*['"].*?nolazyload.*?['"]).*? src=)/gi,
+    `$1 "${bg}" data-lazy-src=`
   );
 }
 
