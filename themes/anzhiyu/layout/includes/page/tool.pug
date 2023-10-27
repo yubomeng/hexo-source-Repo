@@ -20,7 +20,7 @@
               each iten, indey in item.tool_list
                 .tool-item-content-item
                   .tool-item-content-item-cover
-                    img.tool-item-content-item-image(data-lazy-src=url_for(iten.image) onerror=`this.onerror=null;this.src='` + url_for(theme.error_img.flink) + `'` alt=iten.name)
+                    img.tool-item-content-item-image(data-lazy-src=url_for(iten.image) onerror=`this.onerror=null;this.src='` + url_for(theme.error_img.tool) + `'` alt=iten.name)
                   .tool-item-content-item-info
                     .tool-item-content-item-name(onclick=`rm.rightmenuCopyText("${iten.name}");anzhiyu.snackbarShow("${_p('Snackbar.copy_tool_name') + " 【" + iten.name + "】"}");` title=iten.name)= iten.name
                     .tool-item-content-item-specification= iten.specification
@@ -34,3 +34,4 @@
                         a.tool-item-content-item-link(href= iten.link, target='_blank') 查看文章
                         .bber-reply(onclick="rm.rightMenuCommentText(" + `'${iten.name + " " + iten.specification + " " + iten.description}'` + ")")
                           i.anzhiyufont.anzhiyu-icon-message
+

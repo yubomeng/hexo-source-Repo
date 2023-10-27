@@ -90,6 +90,7 @@
 .card-content .author-content-item-tips {
     font-weight: bord !important;
 }
+
 .goodthings-item .goodthings-title {
     margin-top: 30px !important;
 }
@@ -104,8 +105,9 @@
 }
 
 /* 空调取消版权信息 */
-.copyright-box .copyright-p-1,.copyright-box p {
-    display: none !important; 
+.copyright-box .copyright-p-1,
+.copyright-box p {
+    display: none !important;
 }
 
 /* 文章页字体调整 */
@@ -129,12 +131,12 @@
 }
 
 
-/* 博客主题背景颜色美化 */
-[data-theme="light"] #body-wrap {
+/* 博客文章背景颜色美化 */
+ .post{
     background: linear-gradient(-45deg,
-            #e8d8b9,
-            #eccec5,
-            #a3e9eb,
-            #bdbdf0,
-            #eec1ea);
+            #f7f1e8,
+            #fdf8f6,
+            #ddf1f1,
+            #f3f3fb,
+            #f1e7ed);
 }
