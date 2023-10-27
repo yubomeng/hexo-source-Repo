@@ -1104,7 +1104,7 @@ nav_music:
 # 评论匿名邮箱
 visitorMail:
   enable: true
-  mail: visitor@wuyuxi.cn
+  mail: visitor@blog.wuyuxi.cn
 
 # ptool 文章底部工具
 ptool:
