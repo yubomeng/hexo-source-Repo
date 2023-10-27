@@ -26,16 +26,16 @@
         - https://bu.dusays.com/2023/04/09/64329399db122.webp
         - https://bu.dusays.com/2023/04/09/64329399db2e1.webp
 
-- class_name: 我的日常
+- class_name: 日常
   path_name: /dailyPhoto
   type: 1
   description: 这里存放的是有关我自己的一些沙雕生活与有趣的事情。
   top_link: /album
   top_btn_text: 返回
-  top_background: https://bu.dusays.com/2023/04/09/64329399cea5a.webp
-  cover: https://bu.dusays.com/2023/04/09/64329399cea5a.webp
+  top_background: https://cdnjson.com/images/2023/10/27/1.webp
+  cover: https://cdnjson.com/images/2023/10/27/D809C3F9B610D4DE28AB3BA7A3B80285.jpg
   album_list:
     - date: 2022-10-24
-      content: 老妹的画
+      content: 画
       image:
         - https://bu.dusays.com/2023/04/09/643293997b92b.jpeg

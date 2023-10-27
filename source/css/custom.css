@@ -127,3 +127,14 @@
     font-size: 10px !important;
     color: #e0653f !important;
 }
+
+
+/* 博客主题背景颜色美化 */
+[data-theme="light"] #body-wrap {
+    background: linear-gradient(-45deg,
+            #e8d8b9,
+            #eccec5,
+            #a3e9eb,
+            #bdbdf0,
+            #eec1ea);
+}

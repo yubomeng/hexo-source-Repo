@@ -1,0 +1,71 @@
+- class_name: 效率
+  description: 在线工具推荐
+  tip: 跟 Qing 一起高效的数字生活
+  top_background: https://blog.wuyuxi.cn/img/tool/tool.webp
+  buttonText: 未知
+  buttonLink: https://apple.com.cn/
+  good_tool:
+    - title: AI工具
+      description: 让人工智能帮助你完成枯燥的工作
+      tool_list:
+        - name: ChatGPT
+          specification: 文字 AI 巅峰
+          description: ""
+          image: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/56/81/da/5681dafe-46b9-5ae0-9150-99ce9e2cf60e/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/246x0w.webp
+          link: https://chat.openai.com/
+        - name: Midjourney
+          specification: 超级方便的 AI 绘画工具
+          description: ""
+          image: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/f7/d1/a8f7d1da-2979-bf76-9bf7-143d45a04100/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.webp
+          link: https://www.midjourney.com/home/
+
+
+    - title: 媒体工具
+      description: 优秀的在线下载和处理
+      tool_list:
+        - name: 无损生活
+          specification: 全网无损音乐下载
+          description: ""
+          image: https://flac.life/logo.png
+          link: https://flac.life/
+        - name: 音乐解锁
+          specification: 加密格式解锁
+          description: ""
+          image: https://p.zhheo.com/dR4URl22390481618819763351.png!cover_mini
+          link: https://api.zhheo.com/unlockmusic/
+        - name: ParseVideo
+          specification: B站等全能视频解析下载
+          description: ""
+          image: https://p.zhheo.com/57e22257a05764d87c03814366eaf5fd0bb0d904.png!cover_mini
+          link: https://www.parsevideo.com/
+        - name: 微信视频
+          specification: 下载公众号文章内插入的视频
+          description: ""
+          image: https://p.zhheo.com/406cb32e91bca1bcb4601896ddd1625046c1a308.png!cover_mini
+          link: http://www.15um.com/tools/weixin_v.php
+        - name: TED演讲
+          specification: 多语言TED视频及字幕下载，建议迅雷
+          description: ""
+          image: https://p.zhheo.com/e0c4e69fdf8128868da58bab1de257fb335a3529.png!cover_mini
+          link: https://ted2srt.org/
+        - name: B站封面
+          specification: 提取bilibili的视频封面图片
+          description: ""
+          image: https://p.zhheo.com/a1b13b3927c2e2d8bed1254e6c68b8549275d938.png!cover_mini
+          link: https://bilicover.magecorn.com/
+        - name: 油管字幕
+          specification: srt字幕下载工具
+          description: ""
+          image: https://p.zhheo.com/8c26fe6f9b50c279b7b004dfc0b299f95dbe7217.png!cover_mini
+          link: https://downsub.com/
+        - name: 网易见外
+          specification: 免费视频生成字幕
+          description: ""
+          image: https://p.zhheo.com/40a37bbf7874b419228814c86ca56e005f4ba620.png!cover_mini
+          link: https://jianwai.youdao.com/
+        - name: 字幕转换
+          specification: srt/lrc字幕转换成fcpxml
+          description: ""
+          image: https://p.zhheo.com/49d51dc8989b5838809823bfc0a74f4002696f24.png!cover_mini
+          link: https://crossub.xiaowude.com/
+        
