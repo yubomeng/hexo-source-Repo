@@ -7,7 +7,7 @@
     "clean": "hexo clean",
     "deploy": "hexo deploy",
     "server": "hexo server",
-    "dev": "hexo clean && hexo g && hexo server"
+    "dev": "hexo clean && hexo g && hexo algolia && hexo server"
   },
   "hexo": {
     "version": "6.3.0"
@@ -16,6 +16,7 @@
     "gulp": "^4.0.2",
     "gulp-htmlmin": "^5.0.1",
     "hexo": "^6.3.0",
+    "hexo-algoliasearch": "^1.0.0",
     "hexo-bilibili-bangumi": "^1.8.9",
     "hexo-butterfly-envelope": "^1.0.15",
     "hexo-deployer-git": "^4.0.0",

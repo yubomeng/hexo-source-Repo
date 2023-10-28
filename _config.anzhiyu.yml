@@ -4,9 +4,9 @@ menu:
     全部分类: /categories/ || anzhiyu-icon-shapes
     全部标签: /tags/ || anzhiyu-icon-tags
   专栏:
-    # 在线工具: /tool/ || icon-gongju-
+    在线工具: /tool/ || icon-gongju
     音乐馆: /music/ || anzhiyu-icon-music
-    追番页: /bangumis/ || anzhiyu-icon-bilibili
+    # 追番页: /bangumis/ || anzhiyu-icon-bilibili
     相册集: /album/ || anzhiyu-icon-images
     游戏世界: /games/ || icon-youxi
   友链:
@@ -129,9 +129,13 @@ author_status:
 
 # Algolia search
 algolia_search:
-  enable: false
+  enable: true
   hits:
     per_page: 6
+  labels:
+    input_placeholder: Search for Posts
+    hits_empty: "我们没有找到任何搜索结果: ${query}"
+    hits_stats: "找到${hits}条结果（用时${time} ms）"
   tags:
     # - 前端
     # - Hexo
@@ -149,7 +153,7 @@ docsearch:
 
 # Local search
 local_search:
-  enable: true
+  enable: false
   preload: true
   CDN:
 
@@ -559,7 +563,7 @@ footer:
       # - link: https://image.anheyu.com
       #   text: 图床
       - link: https://beian.miit.gov.cn/
-        text: 晴ICP备-0000001号
+        text: 晴 ICP 备-0000001号
     subTitle:
       enable: true
       # Typewriter Effect (打字效果)
@@ -663,7 +667,7 @@ theme_color:
   dark_main: "#e9b9ab"
   paginator: "#eccec4"
   button_hover: "#FF7242"
-  text_selection: "#a4e8ea"
+  text_selection: "#ae2e2e"
   link_color: "#99a9bf"
   meta_color: "#858585"
   hr_color: "#ce6358"
@@ -1005,7 +1009,7 @@ note:
 
 # icon图标
 icons:
-  ali_iconfont_js: https://at.alicdn.com/t/c/font_4298533_y8pomkxslt9.js?spm=a313x.manage_type_myprojects.i1.10.4bf43a81rIC0r4&file=font_4298533_y8pomkxslt9.js # 阿里图标symbol 引用链接，主题会进行加载 symbol 引用
+  ali_iconfont_js: https://at.alicdn.com/t/c/font_4298533_qpba9iyal3d.js?spm=a313x.manage_type_myprojects.i1.10.4bf43a81YmXfvr&file=font_4298533_qpba9iyal3d.js  # 阿里图标symbol 引用链接，主题会进行加载 symbol 引用
   fontawesome: false #是否启用fontawesome6图标
   fontawesome_animation_css: https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@1.0.17/lib/assets/font-awesome-animation.min.css
   #fontawesome_animation 如果有就会加载，示例值：https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@1.0.17/lib/assets/font-awesome-animation.min.css

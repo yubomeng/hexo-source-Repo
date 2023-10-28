@@ -173,3 +173,18 @@
     background-position: left bottom;
     background-size: 100% 2px;
 } */
+
+
+/* algolia 取消logo */
+#algolia-info .algolia-poweredBy {
+    display: none !important;
+}
+
+/* 在线工具调整标题距离 */
+#page .page-title {
+    text-align: center;
+    color: #e9b9ab;
+}
+.flink .flink-name  {
+    margin-top: 20px;
+}

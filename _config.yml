@@ -15,7 +15,7 @@ timezone: ''
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: http://blog.wuyuxi.cn
 permalink: :year/:month/:day/:title/   
-# permalink: posts/:abbrlink.html
+# permalink: :title-:hash/
 # abbrlink:
 #   alg: crc32
 #   rep: hex
@@ -167,3 +167,22 @@ bangumi: # 追番设置
 aplayer:
   meting: true
   asset_inject: false
+
+
+
+# algolia搜索: https://github.com/LouisBarranqueiro/hexo-algoliasearch
+algolia:
+  appId: "HQKXX6RBSM"
+  apiKey: "3e6ecda540507ba9092029237200a013"
+  adminApiKey: "7c5f92d670a386b3bea6f67895945f65"
+  chunkSize: 5000
+  indexName: "Yubo"
+  fields:
+    - content:strip:truncate,0,200
+    - excerpt:strip
+    - gallery
+    - permalink
+    - photos
+    - slug
+    - tags
+    - title
