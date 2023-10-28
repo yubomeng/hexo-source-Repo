@@ -35,45 +35,16 @@ nav:
         - name: 博客
           link: https://blog.wuyuxi.cn
           icon: https://blog.wuyuxi.cn/img/avatar.png
-    - title: 效率
+
+    - title: 设计优秀的网站
       item:
-        - name: ChatGPT
-          link: https://chat.openai.com/
-          icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/56/81/da/5681dafe-46b9-5ae0-9150-99ce9e2cf60e/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/246x0w.webp
-        - name: Midjourney
-          link: https://www.midjourney.com/home/
-          icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/f7/d1/a8f7d1da-2979-bf76-9bf7-143d45a04100/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.webp
-        - name: 无损音乐
-          link: https://flac.life/
-          icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5a/7a/d8/5a7ad872-726f-791e-8b0e-8f51341a500d/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
-        - name: ParseVideo
-          link: https://www.parsevideo.com/
-          icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4a/aa/c3/4aaac391-a23f-df03-d343-32bff087a661/logo_youtube_color-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
-        - name: 微信视频
-          link: http://www.15um.com/tools/weixin_v.php
-          icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/98/34/21/983421ca-84e0-a4b2-c415-b86c4130dbd4/AppIcon-0-1x_U007emarketing-0-4-0-sRGB-0-85-220.png/512x512bb.jpg
-        - name: B站封面
-          link: https://bilicover.magecorn.com/
-          icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d7/00/0a/d7000af3-521f-e708-b428-ce87e22dd6de/AppIcon-inter-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
-        - name: 网易见外
-          link: https://jianwai.youdao.com/
-          icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/da/ef/d7/daefd7c9-7845-205e-f827-72d447f24f9a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
-    - title: 设计素材
-      item:
-        - name: 应用图标库
-          link: https://icon.zhheo.com/
-          icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/05/7f/50/057f5014-74d0-ee25-152c-b16cb6c588a6/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg
-        - name: App图标下载
-          link: https://api.zhheo.com/icon-finder/#!/
-          icon: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3b/6d/40/3b6d4094-1e48-6be6-39c2-f8b6a66bf646/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
-    - title: 开发工具
-      item:
-        - name: 路过图床
-          link: https://unsplash.com/
-          icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/74/8e/f8/748ef81a-1e95-d5ac-02b6-00014562212e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
-        - name: 熊猫图片压缩
-          link: https://tinypng.com/
-          icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/34/f5/eb/34f5eba0-77a8-fd9f-05bc-d4af6e675c0e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+        - name: Apple
+          link: https://www.apple.com.cn/
+          icon: https://cdnjson.com/images/2023/10/29/apple-fill.png
+        - name: Github
+          link: https://github.com/
+          icon: https://cdnjson.com/images/2023/10/29/github.png
+
 
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
 # 注意： 仅网站首页变灰，其他页面正常显示
@@ -179,11 +150,11 @@ katex:
 # --------------------------------------
 
 # Favicon（网站图标）
-favicon: /favicon.ico
+favicon: https://blog.wuyuxi.cn/favicon.ico
 
 # Avatar (头像)
 avatar:
-  img: /img/avatar.png
+  img: https://blog.wuyuxi.cn/img/avatar.png
   effect: false
 
 # Disable all banner image
@@ -205,20 +176,20 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (当没有设置cover时，默认的封面显示)
   default_cover:
-    - /img/autumn.png
-    - /img/play.png
-    - /img/flower.png
+    - https://blog.wuyuxi.cn/img/autumn.png
+    - https://blog.wuyuxi.cn/img/play.png
+    - https://blog.wuyuxi.cn/img/flower.png
 
 # Replace Broken Images (替换无法显示的图片)
 error_img:
-  flink: /img/friend_404.gif
-  post_page: /img/404.jpg
+  flink: https://blog.wuyuxi.cn/img/friend_404.gif
+  post_page: https://blog.wuyuxi.cn/img/404.jpg
 
 # A simple 404 page
 error_404:
   enable: true
   subtitle: "请尝试站内搜索寻找文章"
-  background: /img/error_404.gif
+  background: https://blog.wuyuxi.cn/img/error_404.gif
 
 post_meta:
   page: # Home Page
@@ -379,7 +350,7 @@ valine:
   guest_info: nick,mail,link # valine comment header info (nick/mail/link)
   recordIP: false # Record reviewer IP
   serverURLs: # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
-  bg: /img/comment_bg.png # valine background
+  bg: https://blog.wuyuxi.cn/img/comment_bg.png # valine background
   emojiCDN: //i0.hdslb.com/bfs/emote/ # emoji CDN
   enableQQ: true # enable the Nickname box to automatically get QQ Nickname and QQ Avatar
   requiredFields: nick,mail # required fields (nick/mail)
@@ -488,7 +459,7 @@ footer:
         message: 本站采用知识共享署名-非商业性使用-相同方式共享4.0国际许可协议进行许可
   socialBar:
     enable: true
-    centerImg: /img/1.gif # 页脚头像
+    centerImg: https://blog.wuyuxi.cn/img/1.gif   # 页脚头像
     left:
       - title: email
         link: mailto:898581578@qq.com
@@ -840,7 +811,7 @@ preloader:
   source: 3
   # pace theme (see https://codebyzach.github.io/pace/)
   pace_css_url:
-  avatar: /img/avatar.png # 自定加载动画义头像
+  avatar: https://blog.wuyuxi.cn/img/avatar.png # 自定加载动画义头像
 
 # aside (侧边栏)
 # --------------------------------------
@@ -1068,11 +1039,11 @@ pwa:
   startup_image_enable: true
   manifest: /manifest.json
   theme_color: var(--anzhiyu-main)
-  mask_icon: /img/siteicon/apple-icon-180.png
-  apple_touch_icon: /img/siteicon/apple-icon-180.png
-  bookmark_icon: /img/siteicon/apple-icon-180.png
-  favicon_32_32: /img/siteicon/32.png
-  favicon_16_16: /img/siteicon/16.png
+  mask_icon: https://blog.wuyuxi.cn/img/siteicon/apple-icon-180.png
+  apple_touch_icon: https://blog.wuyuxi.cn/img/siteicon/apple-icon-180.png
+  bookmark_icon: https://blog.wuyuxi.cn/img/siteicon/apple-icon-180.png
+  favicon_32_32: https://blog.wuyuxi.cn/img/siteicon/32.png
+  favicon_16_16: https://blog.wuyuxi.cn/img/siteicon/16.png
 
 # Open graph meta tags
 # https://developers.facebook.com/docs/sharing/webmasters/
@@ -1112,7 +1083,7 @@ home_top:
   banner: # 首页右侧轮播图
     tips: 你侬我侬
     title: Qing-Xiao
-    image: /img/banner.webp # https://bu.dusays.com/2023/05/13/645fa3cf90d70.webp
+    image: https://blog.wuyuxi.cn/img/banner.webp # https://bu.dusays.com/2023/05/13/645fa3cf90d70.webp
     link: /album # https://docs.anheyu.com/
 
 # 朋友圈配置
