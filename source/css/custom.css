@@ -151,8 +151,25 @@
 .back-home-button .anzhiyu-icon-bars {
     color: #b63836 !important;
 }
+/* nav 图标卡片添加毛玻璃效果 */
+.back-home-button .back-menu-list-groups {
+     background-color: rgba(255, 255, 255, 0.9);
+    
+}
 
 /* 右下角按钮隐藏 */
 #rightside {
     display: none;
 }
+
+/* 博客文章字体下划线移入动画 */
+/* #article-container p { 
+    background: linear-gradient(to right, #d4716c, #eaa5a2, #e9b9ab, #f1e7ed) no-repeat right bottom;
+    background-size: 0px 2px;
+    transition: background-size 1s;
+}
+
+#article-container p:hover {
+    background-position: left bottom;
+    background-size: 100% 2px;
+} */

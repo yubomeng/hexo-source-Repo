@@ -24,7 +24,7 @@ menu:
 # nav相关配置
 nav:
   enable: true
-  travelling: false
+  travelling: true
   clock: false # 是否启用 nav 左侧和风天气
   menu:  # 移动端侧栏
     - title: 博客
