@@ -1,8 +1,8 @@
 - class_name: 开启创造力
   creativity_list:
-    - name: Java
+    - name: Apple Music
       color: "#fff"
-      icon: https://bu.dusays.com/2023/04/09/643293b1184e9.jpg
+      icon: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5a/7a/d8/5a7ad872-726f-791e-8b0e-8f51341a500d/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
     - name: Docker
       color: "#57b6e6"
       icon: https://bu.dusays.com/2023/04/09/643293b0f0abe.png

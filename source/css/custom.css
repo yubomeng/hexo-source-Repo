@@ -6,6 +6,7 @@
 /* 博客名称美化 */
 #blog_name .title {
     color: #e9b9ab;
+    font-family: "阿里妈妈方圆体 VF Regular";
 }
 
 /* local西安地理位置调整 */
@@ -139,4 +140,19 @@
             #ddf1f1,
             #f3f3fb,
             #f1e7ed);
+}
+
+/* ai样式美化 */
+.post-ai-description .ai-title i,
+.post-ai-description .ai-title .ai-title-text {
+    color: #ae2e2e !important;
+}
+/* nav 图标美化 */
+.back-home-button .anzhiyu-icon-bars {
+    color: #b63836 !important;
+}
+
+/* 右下角按钮隐藏 */
+#rightside {
+    display: none;
 }
