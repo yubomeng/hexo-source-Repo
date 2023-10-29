@@ -3,8 +3,8 @@ title: "在线工具推荐"
 date: 2023-10-27 15:16:02
 aside: false
 comments: false
-top_bg: "https://blog.wuyuxi.cn/img/tool/tool.webp"
 ---
+
 {% flink %}
 
 - class_name: AI工具

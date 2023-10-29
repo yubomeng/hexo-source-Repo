@@ -33,16 +33,16 @@
     list:
       - desc: EDU,计算机科学与技术专业
         color: "#357ef5"
-    img: https://blog.wuyuxi.cn/img/about/zhuanye.png
+    img:     https://cdnjson.com/images/2023/10/29/zhuanye.png
   statistic:
     link: /archives
     text: 文章隧道
-    cover: https://bu.dusays.com/2023/05/01/644f4b037b930.jpg
+    cover: https://cdnjson.com/images/2023/10/29/access.webp
   map:
     title: 我现在住在
     StrengthenTitle: 中国，西安市
-    background: https://blog.wuyuxi.cn/img/about/local.jpg
-    backgroundDark: https://blog.wuyuxi.cn/img/about/local.jpg
+    background: https://cdnjson.com/images/2023/10/29/local.jpg
+    backgroundDark: https://cdnjson.com/images/2023/10/29/local.jpg
   selfInfo:
     selfInfoTips1: 生于
     selfInfoContentYear: 2000
@@ -53,8 +53,8 @@
   personalities:
     author_name: 快乐
     personality_type: Depression and happiness
-    photo_url: https://blog.wuyuxi.cn/img/about/people.webp
-    personality_img: https://blog.wuyuxi.cn/img/about/happy.png
+    photo_url: https://cdnjson.com/images/2023/10/29/people.webp
+    personality_img: https://cdnjson.com/images/2023/10/29/happy.png
     name_url: https://www.who.int/zh/news-room/fact-sheets/detail/depression
   maxim:
     maxim_tips: Qing
@@ -68,35 +68,35 @@
     game_tips: 爱好游戏
     game_title: 和平精英
     game_uid: "呢称: 画情为仙"
-    game_bg: https://blog.wuyuxi.cn/img/about/peace.webp
+    game_bg: https://cdnjson.com/images/2023/10/29/peace.jpg
   comic:
     comic_tips: 爱好影片  
     comic_title: 电影
     comic_list:
       - name: 肖申克的救赎
         href: https://baike.baidu.com/item/%E8%82%96%E7%94%B3%E5%85%8B%E7%9A%84%E6%95%91%E8%B5%8E/30307
-        cover: https://blog.wuyuxi.cn/img/about/redemption.jpg
+        cover: https://cdnjson.com/images/2023/10/29/redemption.jpg
       - name: 阿甘正传
         href: https://www.iqiyi.com/v_19rrk3u264.html
-        cover: https://blog.wuyuxi.cn/img/about/gump.jpg
+        cover: https://cdnjson.com/images/2023/10/29/gump.jpg
       - name: 霸王别姬
         href: https://v.qq.com/x/cover/j3czmhisqin799r/z002615k57t.html?ptag=iqiyi
-        cover: https://blog.wuyuxi.cn/img/about/farewell .jpg
+        cover: https://cdnjson.com/images/2023/10/29/farewell.jpg
       - name: 天空之城
         href: https://www.iqiyi.com/v_19rrmgbgw8.html
-        cover: https://blog.wuyuxi.cn/img/about/thekey.png
+        cover: https://cdnjson.com/images/2023/10/29/thekey.png
       - name: 猫和老鼠
         href: https://www.iqiyi.com/v_2dmdjsl49co.html
-        cover: https://blog.wuyuxi.cn/img/about/cat.jpg
+        cover: https://cdnjson.com/images/2023/10/29/cat.jpg
   like:
     like_tips: 关注偏好
     like_title: 未来
-    like_bg: https://blog.wuyuxi.cn/img/about/habby.webp
+    like_bg: https://cdnjson.com/images/2023/10/29/habby.webp
     like_bottom: 人类、自然、地球
   music:
     music_tips: 音乐偏好
     music_title: 摩天大楼、消愁
-    music_bg: https://blog.wuyuxi.cn/img/about/skyscraper.jpg
+    music_bg: https://cdnjson.com/images/2023/10/29/skyscraper.jpg
     music_link: /music
 
 ############################################################################

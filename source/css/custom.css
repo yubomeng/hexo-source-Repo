@@ -151,11 +151,6 @@
 .back-home-button .anzhiyu-icon-bars {
     color: #b63836 !important;
 }
-/* nav 图标卡片添加毛玻璃效果 */
-.back-home-button .back-menu-list-groups {
-     background-color: rgba(255, 255, 255, 0.9);
-    
-}
 
 /* 右下角按钮隐藏 */
 #rightside {
@@ -187,4 +182,9 @@
 }
 .flink .flink-name  {
     margin-top: 20px;
+}
+
+/* 取消导航栏随机前往一个项目网站 */
+#nav-right #travellings_button {
+    display: none;
 }

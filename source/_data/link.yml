@@ -25,31 +25,21 @@
       color: speed
       tag: 生活
       recommend: true
-
-    - name: 安知鱼
-      link: https://blog.anheyu.com/
-      avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
-      descr: 生活明朗，万物可爱
-      siteshot: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.6/img/blog.anheyu.com.jpg
-      color: vip
-      tag: 技术
-
     - name: 杜老师说
       avatar: https://cdn.dusays.com/avatar.png
       link:  https://dusays.com
       siteshot: https://cdn.dusays.com/avatar.png
-
     - name: 张洪Heo
       link: https://blog.zhheo.com/
       avatar: https://bu.dusays.com/2022/12/28/63ac2812183aa.png
       descr: 分享设计与科技生活
-    
+      color: vip
+      tag: 技术
     - name: 御网尚书的日记本
       link: https://hack-gov.com.cn
       avatar: https://websitecssjs.oss-cn-beijing.aliyuncs.com/links/favicon.ico
       siteshot: https://pic.rmb.bdstatic.com/bjh/a5db82a406a7d2e696e438090b22e2896685.png
       descr: 愿以赤子之心，共建网络空间安全
-
     - name: iMaeGoo’s Blog
       link: https://www.imaegoo.com
       avatar: https://www.imaegoo.com/images/avatar.jpg
@@ -61,11 +51,6 @@
   flink_style: anzhiyu
   hundredSuffix: ""
   link_list:
-    - name: 安知鱼
-      link: https://blog.anheyu.com/
-      avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
-      descr: 生活明朗，万物可爱
-      recommend: true  # 【可选】快捷选项，等于color:"" + tag: "荐"
     - name: 煮雪话河山`Blog
       link: https://blog.cent1pedee.top/
       avatar: https://img.cent1pedee.top/img/wechat.jpg
@@ -76,6 +61,7 @@
       avatar: https://bu.dusays.com/2022/05/02/626f92e193879.jpg
       descr: 古今之成大事者，不惟有超世之才，亦必有坚忍不拔之志
       screenshot: https://bu.dusays.com/2023/07/16/64b400bf8e546.jpg
+      recommend: true  # 【可选】快捷选项，等于color:"" + tag: "荐"
     - name: Leonus
       link: https://blog.leonus.cn/
       avatar: https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5
