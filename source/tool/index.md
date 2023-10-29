@@ -147,6 +147,10 @@ comments: false
   class_desc: 好用的开发相关网站
   flink_style: anzhiyu
   link_list:
+    - name: compress
+      link: https://freecompress.com/zh-cn/
+      avatar: https://freecompress.com/images/freecompress-homepage-header-image.webp
+      descr: 随时随地压缩文件
     - name: 路过图床
       link: https://unsplash.com/
       avatar: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/74/8e/f8/748ef81a-1e95-d5ac-02b6-00014562212e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
