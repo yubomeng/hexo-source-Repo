@@ -31,19 +31,22 @@ nav:
       item:
         - name: 主页
           link: https://wuyuxi.cn
-          icon:  https://blog.wuyuxi.cn/favicon.ico
+          icon: /favicon.ico
         - name: 博客
           link: https://blog.wuyuxi.cn
-          icon: https://blog.wuyuxi.cn/img/avatar.png
+          icon: /img/avatar.png
+        - name: 我的音乐
+          link: https://music.wuyuxi.cn
+          icon: /img/music.png
 
     - title: 设计优秀的网站
       item:
         - name: Apple
           link: https://www.apple.com.cn/
-          icon: https://blog.wuyuxi.cn/img/apple.png
+          icon: /img/apple.png
         - name: Github
           link: https://github.com/
-          icon: https://blog.wuyuxi.cn/img/github.png
+          icon: /img/github.png
 
 
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
@@ -150,11 +153,11 @@ katex:
 # --------------------------------------
 
 # Favicon（网站图标）
-favicon: https://blog.wuyuxi.cn/favicon.ico
+favicon: /favicon.ico
 
 # Avatar (头像)
 avatar:
-  img: https://blog.wuyuxi.cn/img/avatar.png
+  img: /img/avatar.png
   effect: false
 
 # Disable all banner image
@@ -176,20 +179,20 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (当没有设置cover时，默认的封面显示)
   default_cover:
-    - https://blog.wuyuxi.cn/img/autumn.png
-    - https://blog.wuyuxi.cn/img/play.png
-    - https://blog.wuyuxi.cn/img/flower.png
+    - /img/autumn.png
+    - /img/play.png
+    - /img/flower.png
 
 # Replace Broken Images (替换无法显示的图片)
 error_img:
-  flink: https://blog.wuyuxi.cn/img/friend_404.gif
-  post_page: https://blog.wuyuxi.cn/img/404.jpg
+  flink: /img/friend_404.gif
+  post_page: /img/404.jpg
 
 # A simple 404 page
 error_404:
   enable: true
   subtitle: "请尝试站内搜索寻找文章"
-  background: https://blog.wuyuxi.cn/img/error_404.gif
+  background: /img/error_404.gif
 
 post_meta:
   page: # Home Page
@@ -350,7 +353,7 @@ valine:
   guest_info: nick,mail,link # valine comment header info (nick/mail/link)
   recordIP: false # Record reviewer IP
   serverURLs: # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
-  bg: https://blog.wuyuxi.cn/img/comment_bg.png # valine background
+  bg: /img/comment_bg.png # valine background
   emojiCDN: //i0.hdslb.com/bfs/emote/ # emoji CDN
   enableQQ: true # enable the Nickname box to automatically get QQ Nickname and QQ Avatar
   requiredFields: nick,mail # required fields (nick/mail)
@@ -459,7 +462,7 @@ footer:
         message: 本站采用知识共享署名-非商业性使用-相同方式共享4.0国际许可协议进行许可
   socialBar:
     enable: true
-    centerImg: https://blog.wuyuxi.cn/img/1.gif   # 页脚头像
+    centerImg: /img/1.gif   # 页脚头像
     left:
       - title: email
         link: mailto:898581578@qq.com
@@ -811,7 +814,7 @@ preloader:
   source: 3
   # pace theme (see https://codebyzach.github.io/pace/)
   pace_css_url:
-  avatar: https://blog.wuyuxi.cn/img/avatar.png # 自定加载动画义头像
+  avatar: /img/avatar.png # 自定加载动画义头像
 
 # aside (侧边栏)
 # --------------------------------------
@@ -1039,11 +1042,11 @@ pwa:
   startup_image_enable: true
   manifest: /manifest.json
   theme_color: var(--anzhiyu-main)
-  mask_icon: https://blog.wuyuxi.cn/img/siteicon/apple-icon-180.png
-  apple_touch_icon: https://blog.wuyuxi.cn/img/siteicon/apple-icon-180.png
-  bookmark_icon: https://blog.wuyuxi.cn/img/siteicon/apple-icon-180.png
-  favicon_32_32: https://blog.wuyuxi.cn/img/siteicon/32.png
-  favicon_16_16: https://blog.wuyuxi.cn/img/siteicon/16.png
+  mask_icon: /img/siteicon/apple-icon-180.png
+  apple_touch_icon: /img/siteicon/apple-icon-180.png
+  bookmark_icon: /img/siteicon/apple-icon-180.png
+  favicon_32_32: /img/siteicon/32.png
+  favicon_16_16: /img/siteicon/16.png
 
 # Open graph meta tags
 # https://developers.facebook.com/docs/sharing/webmasters/
@@ -1083,7 +1086,7 @@ home_top:
   banner: # 首页右侧轮播图
     tips: 你侬我侬
     title: Qing-Xiao
-    image: https://blog.wuyuxi.cn/img/banner.webp # https://bu.dusays.com/2023/05/13/645fa3cf90d70.webp
+    image: /img/banner.webp # https://bu.dusays.com/2023/05/13/645fa3cf90d70.webp
     link: /album # https://docs.anheyu.com/
 
 # 朋友圈配置
