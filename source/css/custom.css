@@ -125,7 +125,7 @@
 /* 首页文章“未读”位置调整 */
 .recent-post-info-top-tips .unvisited-post {
     position: relative;
-    left: 490px;
+    left: 400px;
     top: -20px;
     font-size: 10px !important;
     color: #e0653f !important;
@@ -188,3 +188,4 @@
 #nav-right #travellings_button {
     display: none;
 }
+

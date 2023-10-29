@@ -1,16 +1,16 @@
 ---
 title: Vue实现将页面转成PDF并下载或直接打印
-date: 2023-10-26 21:47:27
-aside: false
 tags:
-    - vue
-categories: 
-    - vue
-top_img: "https://cdnjson.com/images/2023/10/26/be9def1c7f058bfb323518bf24d3535b.png"
-cover: "https://cdnjson.com/images/2023/10/26/be9def1c7f058bfb323518bf24d3535b.png"
-# abbrlink:
-ai: 
-   - 在Vue单页面中实现预览打印效果，可以通过调用浏览器的打印功能来实现。用户可以点击页面上的打印按钮，然后选择打印机并进行打印操作。另外，还可以使用第三方库将Vue单页面转换为PDF格式，并提供下载功能。用户可以点击页面上的PDF按钮，将当前页面转换为PDF文件并下载。
+  - vue
+categories:
+  - vue
+top_img: 'https://cdnjson.com/images/2023/10/26/be9def1c7f058bfb323518bf24d3535b.png'
+cover: 'https://cdnjson.com/images/2023/10/26/be9def1c7f058bfb323518bf24d3535b.png'
+ai:
+  - >-
+    在Vue单页面中实现预览打印效果，可以通过调用浏览器的打印功能来实现。用户可以点击页面上的打印按钮，然后选择打印机并进行打印操作。另外，还可以使用第三方库将Vue单页面转换为PDF格式，并提供下载功能。用户可以点击页面上的PDF按钮，将当前页面转换为PDF文件并下载。
+abbrlink: d60d5b9e
+date: 2023-10-26 21:47:27
 ---
 
 ### 1.将Vue单页面转成pdf并下载

@@ -984,7 +984,7 @@ note:
 # icon图标
 icons:
   ali_iconfont_js: https://at.alicdn.com/t/c/font_4298533_qpba9iyal3d.js?spm=a313x.manage_type_myprojects.i1.10.4bf43a81YmXfvr&file=font_4298533_qpba9iyal3d.js  # 阿里图标symbol 引用链接，主题会进行加载 symbol 引用
-  fontawesome: false #是否启用fontawesome6图标
+  fontawesome: true  #是否启用fontawesome6图标
   fontawesome_animation_css: https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@1.0.17/lib/assets/font-awesome-animation.min.css
   #fontawesome_animation 如果有就会加载，示例值：https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@1.0.17/lib/assets/font-awesome-animation.min.css
 
@@ -1085,7 +1085,7 @@ home_top:
     swiper_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.js #swiper js依赖
   banner: # 首页右侧轮播图
     tips: 你侬我侬
-    title: Qing-Xiao
+    title: 旅思秋光，黯黯长安路。
     image: /img/banner.webp # https://bu.dusays.com/2023/05/13/645fa3cf90d70.webp
     link: /album # https://docs.anheyu.com/
 
@@ -1228,7 +1228,7 @@ rightClickMenu:
 
 # 首页随便逛逛people模式 而非技能点模式，关闭后为技能点模式需要配置creativity.yml
 peoplecanvas:
-  enable: true
+  enable: false
   img: https://upload-bbs.miyoushe.com/upload/2023/09/03/125766904/ee23df8517f3c3e3efc4145658269c06_5714860933110284659.png
 
 # 动效
@@ -1245,6 +1245,7 @@ inject:
     # 自定义css
     # - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
     - <link rel="stylesheet" href="/css/custom.css">
+    - <link rel="stylesheet" href="/css/windmill.css">  # 引入标题风车效果
   bottom:
     # 自定义js
     # - <script src="/js/xxx"></script>

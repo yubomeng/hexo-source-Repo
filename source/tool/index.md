@@ -151,6 +151,10 @@ comments: false
       link: https://freecompress.com/zh-cn/
       avatar: https://freecompress.com/images/freecompress-homepage-header-image.webp
       descr: 随时随地压缩文件
+    - name: 在线代码格式化
+      link: https://tool.oschina.net/codeformat/js
+      avatar: https://p.zhheo.com/bf506a5660424c19452e26730918528424533335.png!cover_mini
+      descr: 将被压缩的代码变为标准格式
     - name: 路过图床
       link: https://unsplash.com/
       avatar: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/74/8e/f8/748ef81a-1e95-d5ac-02b6-00014562212e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
@@ -179,10 +183,6 @@ comments: false
       link: https://cubic-bezier.com/#.17,.67,.83,.67
       avatar: https://p.zhheo.com/966b1def2cd065614bf013f5fec9cd0fe8a3c429.png!cover_mini
       descr: 自定义动画加速度的时序曲线
-    - name: JS代码格式化
-      link: https://tool.oschina.net/codeformat/js
-      avatar: https://p.zhheo.com/bf506a5660424c19452e26730918528424533335.png!cover_mini
-      descr: 将被压缩的js代码变为标准格式
     - name: Editor
       link: https://pandao.github.io/editor.md/
       avatar: https://p.zhheo.com/a55518572eaf042905b911d3ed1ce091c9075424.png!cover_mini

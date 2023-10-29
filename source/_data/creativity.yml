@@ -9,24 +9,24 @@
     - name: Photoshop
       color: "#4082c3"
       icon: https://bu.dusays.com/2022/12/15/639aa3a5c240e.png
-    - name: Node
-      color: "#333"
-      icon: https://npm.elemecdn.com/anzhiyu-blog@2.1.1/img/svg/node-logo.svg
-    - name: Webpack
-      color: "#2e3a41"
-      icon: https://bu.dusays.com/2023/04/09/643293b68026c.png
-    - name: Pinia
-      color: "#fff"
-      icon: https://npm.elemecdn.com/anzhiyu-blog@2.0.8/img/svg/pinia-logo.svg
-    - name: Python
-      color: "#fff"
-      icon: https://bu.dusays.com/2023/04/09/643293b1230f7.png
+    - name: FinalCutPro
+      color: "#ffffff"
+      icon: https://p.zhheo.com/20233e777652412247dd57fd9b48cf997c01070702.png!cover
+    - name: Swift
+      color: "#eb6840"
+      icon: https://p.zhheo.com/202328bbee0b314297917b327df4a704db5c072402.png!cover  
+    - name: AfterEffects
+      color: "#989bf8"
+      icon: https://p.zhheo.com/20239df3f66615b532ce571eac6d14ff21cf072602.png!cover
+    - name: illustrator
+      color: "#f29e39"
+      icon: https://p.zhheo.com/20237359d71b45ab77829cee5972e36f8c30073902.png!cover
     - name: Vite
       color: "#937df7"
       icon: https://npm.elemecdn.com/anzhiyu-blog@2.0.8/img/svg/vite-logo.svg
-    - name: Flutter
-      color: "#4499e4"
-      icon: https://bu.dusays.com/2023/04/09/643293b1055c2.png
+    - name: Rhino
+      color: "#1f1f1f"
+      icon: https://p.zhheo.com/20231ca53fa0b09a3ff1df89acd7515e9516173302.png!cover
     - name: Vue
       color: "#b8f0ae"
       icon: https://bu.dusays.com/2023/04/09/643293b6788bd.png
@@ -38,13 +38,13 @@
       icon: https://bu.dusays.com/2022/12/15/639aa3a5c251e.png
     - name: JS
       color: "#f7cb4f"
-      icon: https://bu.dusays.com/2023/04/09/643293b121f02.png
+      icon: https://p.zhheo.com/2023786e7fc488f453d5fb2be760c96185c0075502.png!cover
     - name: HTML
       color: "#e9572b"
       icon: https://bu.dusays.com/2022/12/15/639aa3a5c241c.png
     - name: Git
       color: "#df5b40"
-      icon: https://bu.dusays.com/2023/04/09/643293b10ccdd.webp
+      icon: https://p.zhheo.com/2023ffa5707c4e25b6beb3e6a3d286ede4c6071102.png!cover
     - name: Apifox
       color: "#e65164"
       icon: https://bu.dusays.com/2022/11/19/6378d6458c6b6.png
