@@ -1,23 +1,32 @@
-- class_name: 世界各地夕阳与风景
+- class_name: 世界各地风景
   path_name: /wordScenery
   type: 2
-  description: 因为到不了世界各地，所以请网友们发来了各地的夕阳与风景🌇。
-  cover: https://bu.dusays.com/2023/04/09/64329399d1175.jpg
-  top_background: https://bu.dusays.com/2023/06/30/649e546ada7dd.webp
+  description: 因为到不了世界各地，所以请随手摘下风景🌇。
+  cover: https://cdnjson.com/images/2023/10/30/9.webp
+  top_background: https://cdnjson.com/images/2023/10/30/10.webp
   rowHeight: 220
   limit: 10
   lazyload: true
   btnLazyload: false
-  url: false
+  url: false  # 【可选】仅当 type 为 2 时有效，可以加载远程的 json 数据。
   top_link: /album
   top_btn_text: 返回
-  album_list:
+  album_list: 
     - date: 2022/10/26 01:00:00
-      content: 湘潭的一角。
-      address: 湖南湘潭
-      from: 再吃一口就减肥
+      content: 未知名的地方
+      address: 世界各地
+      from: yubo  # 【可选】当前图片的创建人，未填写则不显示
       image:
-        - https://bu.dusays.com/2023/04/09/64329399db122.webp
+        - https://www4.bing.com//th?id=OHR.MoselleRiver_ZH-CN1283415242_UHD.jpg
+        - https://www4.bing.com//th?id=OHR.CooperChapel_ZH-CN1150924688_UHD.jpg
+        - https://www4.bing.com//th?id=OHR.CastelmazzanoSunrise_ZH-CN6733875019_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp
+        - https://www4.bing.com//th?id=OHR.BridgeNorway_ZH-CN9063814637_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp
+        - https://www4.bing.com//th?id=OHR.GothicRuins_ZH-CN8317467997_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp
+        - https://www4.bing.com//th?id=OHR.TaorminaSquare_ZH-CN0273325652_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp
+        - https://www4.bing.com//th?id=OHR.CamelsAbove_ZH-CN1389810021_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp
+        - https://www4.bing.com//th?id=OHR.SkogafossWaterfall_ZH-CN4763253095_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp
+        - https://www4.bing.com//th?id=OHR.KitsAspen_ZH-CN2160526845_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp
+
     - date: 2022-10-25
       content: 洛阳暴雨后的天空。
       address: 河南洛阳
@@ -28,14 +37,66 @@
 
 - class_name: 日常
   path_name: /dailyPhoto
-  type: 1
+  type: 2
   description: 这里存放的是有关我自己的一些沙雕生活与有趣的事情。
+  rowHeight: 220
+  limit: 10
+  lazyload: true
+  btnLazyload: false
+  url: false  
   top_link: /album
   top_btn_text: 返回
   top_background: https://cdnjson.com/images/2023/10/27/1.webp
   cover: https://cdnjson.com/images/2023/10/27/D809C3F9B610D4DE28AB3BA7A3B80285.jpg
   album_list:
     - date: 2022-10-24
-      content: 画
+      content: 动物
+      address: 各地
+      from: yubo1
       image:
-        - https://bu.dusays.com/2023/04/09/643293997b92b.jpeg
+        - https://pic.netbian.com/uploads/allimg/231006/184010-16965888103766.jpg
+        - https://pic.netbian.com/uploads/allimg/230912/210354-1694523834b1b8.jpg
+        - https://pic.netbian.com/uploads/allimg/230130/003956-16750103960871.jpg
+        - https://pic.netbian.com/uploads/allimg/221225/002246-1671898966dd1a.jpg
+        - https://pic.netbian.com/uploads/allimg/221217/233220-16712911400818.jpg 
+        - https://pic.netbian.com/uploads/allimg/221215/151740-167108866053d0.jpg 
+        - https://pic.netbian.com/uploads/allimg/221225/002028-1671898828b946.jpg
+        - https://pic.netbian.com/uploads/allimg/221209/181033-16705806330d54.jpg
+        - https://pic.netbian.com/uploads/allimg/221119/000315-16687873954a62.jpg 
+        - https://pic.netbian.com/uploads/allimg/220702/195226-165676274668dd.jpg
+        - https://pic.netbian.com/uploads/allimg/220702/192630-1656761190c710.jpg
+        - https://pic.netbian.com/uploads/allimg/221203/230342-16700798220aaa.jpg
+        - https://pic.netbian.com/uploads/allimg/210308/224421-1615214661a839.jpg
+         
+
+
+- class_name: 4K美女
+  path_name: /animeBeauty
+  type: 2
+  description: 可爱、性感、清纯、成熟、卡哇伊
+  rowHeight: 220
+  limit: 10
+  lazyload: true
+  btnLazyload: false
+  url: false  # 【可选】仅当 type 为 2 时有效，可以加载远程的 json 数据。
+  top_link: /album
+  top_btn_text: 返回
+  top_background: https://pic.netbian.com/uploads/allimg/231023/084140-16980217000f2c.jpg
+  cover: https://pic.netbian.com/uploads/allimg/230813/221347-16919360279c09.jpg
+  album_list:
+    - date: 2023/10/30 22:45:00
+      content: Beauty
+      address: 未知
+      from: yubo2  # 【可选】当前图片的创建人，未填写则不显示
+      image:
+        - https://pic.netbian.com/uploads/allimg/231026/001756-169825067614fe.jpg
+        - https://pic.netbian.com/uploads/allimg/231023/170908-169805214802a1.jpg
+        - https://pic.netbian.com/uploads/allimg/231019/203744-1697719064cef3.jpg
+        - https://pic.netbian.com/uploads/allimg/231019/203401-1697718841cefa.jpg
+        - https://pic.netbian.com/uploads/allimg/231016/222058-1697466058faed.jpg 
+        - https://pic.netbian.com/uploads/allimg/231015/232143-1697383303d76c.jpg
+        - https://pic.netbian.com/uploads/allimg/231012/200615-1697112375eae9.jpg
+        - https://pic.netbian.com/uploads/allimg/231011/210256-1697029376283c.jpg
+        - https://pic.netbian.com/uploads/allimg/231011/210154-1697029314c638.jpg
+        - https://pic.netbian.com/uploads/allimg/231011/210006-1697029206966d.jpg
+        - https://pic.netbian.com/uploads/allimg/231003/212519-1696339519be44.jpg
