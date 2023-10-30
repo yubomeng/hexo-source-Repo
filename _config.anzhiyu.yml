@@ -24,7 +24,7 @@ menu:
 # nav相关配置
 nav:
   enable: true
-  travelling: true
+  travelling: false
   clock: false # 是否启用 nav 左侧和风天气
   menu:  # 移动端侧栏
     - title: 博客
@@ -207,7 +207,7 @@ post_meta:
     categories: true # true or false 文章页是否显示分类
     tags: true # true or false 文章页是否显示标籤
     label: true # true or false 显示描述性文字
-    unread: true # true or false 文章未读功能
+    unread: false # true or false 文章未读功能
 
 # 主色调相关配置
 mainTone:
@@ -263,12 +263,12 @@ post_copyright:
 
 # Sponsor/reward
 reward:
-  enable: false
+  enable: true
   QR_code:
-    - img: https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/qrcode-weichat.png
+    - img: https://upload.cc/i1/2023/10/30/PR7XQ6.png
       link:
       text: 微信
-    - img: https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/qrcode-alipay.png
+    - img: https://upload.cc/i1/2023/10/30/ydncAi.jpg
       link:
       text: 支付宝
 
@@ -1058,26 +1058,26 @@ css_prefix: true
 # 首页顶部相关配置
 home_top:
   enable: true # 开关
-  timemode: date #date/updated
-  title: 你侬我侬
-  subTitle: 忒煞情多。
+  timemode: updated #date/updated
+  title: 希望我们能像， 
+  subTitle: 对方一样勇敢。
   siteText: Qing
   category:
-    - name: 前端
-      path: /categories/前端开发/
+    - name: 科技前沿
+      path: /categories/科技前沿/
       shadow: var(--anzhiyu-shadow-blue)
       class: blue
-      icon: anzhiyu-icon-dove
-    - name: 大学
-      path: /categories/大学生涯/
+      icon: anzhiyu-icon-plant-fill
+    - name: 文学世界
+      path: /categories/文学世界/
       shadow: var(--anzhiyu-shadow-red)
       class: red
-      icon: anzhiyu-icon-fire
-    - name: 生活
-      path: /categories/生活日常/
+      icon: anzhiyu-icon-book
+    - name: 健康生活
+      path: /categories/健康生活/
       shadow: var(--anzhiyu-shadow-green)
       class: green
-      icon: anzhiyu-icon-book
+      icon: anzhiyu-icon-book-hand-heart-fill
   default_descr: 再怎么看我也不知道怎么描述它的啦！
   swiper:
     enable: false

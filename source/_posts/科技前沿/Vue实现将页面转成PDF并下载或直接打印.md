@@ -1,9 +1,9 @@
 ---
 title: Vue实现将页面转成PDF并下载或直接打印
 tags:
-  - vue
+  - Vue转PDF
 categories:
-  - vue
+  - 科技前沿
 top_img: 'https://cdnjson.com/images/2023/10/26/be9def1c7f058bfb323518bf24d3535b.png'
 cover: 'https://cdnjson.com/images/2023/10/26/be9def1c7f058bfb323518bf24d3535b.png'
 ai:

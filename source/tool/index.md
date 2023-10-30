@@ -163,6 +163,10 @@ comments: false
       link: https://tinypng.com/
       avatar: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/34/f5/eb/34f5eba0-77a8-fd9f-05bc-d4af6e675c0e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
       descr: 热门的图片压缩工具
+    - name: 沉浸式翻译
+      link: https://immersivetranslate.com/
+      avatar: https://immersivetranslate.com/img/logo.png
+      descr: 最受欢迎的双语对照网页翻译插件
     - name: BgRemover
       link: https://www.aigei.com/bgremover/
       avatar: https://cdn-sqn.aigei.com/assets/site/img/tool/demo-bgremover-old.png

@@ -123,13 +123,13 @@
 
 
 /* 首页文章“未读”位置调整 */
-.recent-post-info-top-tips .unvisited-post {
+/* .recent-post-info-top-tips .unvisited-post {
     position: relative;
     left: 400px;
     top: -20px;
     font-size: 10px !important;
     color: #e0653f !important;
-}
+} */
 
 
 /* 博客文章背景颜色美化 */
