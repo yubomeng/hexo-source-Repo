@@ -7,19 +7,19 @@
       description: 提升自己生产效率的硬件设备
       equipment_list:
         - name: MacBook Pro 2023 16 英寸
-          specification: M2 Max 96G / 8TB
+          specification: M3 Max 128G / 8TB
           description: 屏幕显示效果好、色彩准确、对比度强、性能强劲、续航优秀。可以用来开发和设计。
-          image: https://cdnjson.com/images/2023/10/29/macbookpro.png
-          link:  https://www.apple.com.cn/shop/buy-mac/macbook-pro/MNWA3CH/A
+          image: https://cdnjson.com/images/2023/10/31/macbookpro.png
+          link:  https://www.apple.com.cn/shop/buy-mac/macbook-pro/MUW63CH/A
         - name: iPad Pro
           specification: 银色 / 1 TB
           description: 事事玩得转，买前生产力，买后爱奇艺。
-          image: https://cdnjson.com/images/2023/10/29/iPad-pro.jpg
+          image: https://cdnjson.com/images/2023/10/31/ipad.png
           link: https://www.apple.com.cn/shop/buy-ipad/ipad-pro
         - name:  iPhone 15 Pro Max
           specification: 白色 / 1 TB
           description: iPhone 15 Pro 是首款在设计中采用航空级钛金属的 iPhone，这种合金也被用在执行火星探测任务的航天器中。
-          image: https://cdnjson.com/images/2023/10/29/iphone.jpg
+          image: https://cdnjson.com/images/2023/10/31/iphone15.png
           link: https://www.apple.com.cn/shop/buy-iphone/iphone-15-pro
         - name: AirPods Pro (第二代)
           specification: Pro
