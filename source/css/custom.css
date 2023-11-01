@@ -123,7 +123,7 @@
 
 
 /* 博客文章背景颜色美化 */
- [data-theme="light"] .post{
+[data-theme="light"] .post {
     background: linear-gradient(-45deg,
             #f7f1e8,
             #fdf8f6,
@@ -137,6 +137,7 @@
 .post-ai-description .ai-title .ai-title-text {
     color: #ae2e2e !important;
 }
+
 /* nav 图标美化 */
 .back-home-button .anzhiyu-icon-bars {
     color: #b63836 !important;
@@ -170,7 +171,8 @@
     text-align: center;
     color: #e9b9ab;
 }
-.flink .flink-name  {
+
+.flink .flink-name {
     margin-top: 20px;
 }
 
@@ -180,3 +182,18 @@
 }
 
 
+/* 随即前往一个文章 图标旋转 */
+.anzhiyu-icon-fan {
+    display: inline-block;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
