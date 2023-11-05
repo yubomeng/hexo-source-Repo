@@ -40,7 +40,7 @@ body[data-type="album"] #page .page-title {
   list-style: none;
   position: relative;
   display: flex;
-  width: calc(100% / 4 - 10px);
+  width: calc(100% / 3 - 10px);
   padding: 10px;
 }
 #album .card-album .card:hover {
