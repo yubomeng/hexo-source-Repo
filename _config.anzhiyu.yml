@@ -1,5 +1,5 @@
 menu:
-  文库:
+  文库: 
     文章列表: /archives/ || anzhiyu-icon-box-archive
     全部分类: /categories/ || anzhiyu-icon-shapes
     全部标签: /tags/ || anzhiyu-icon-tags
@@ -1086,7 +1086,8 @@ home_top:
   banner: # 首页右侧轮播图
     tips: 你侬我侬
     title: 旅思秋光，黯黯长安路。
-    image: /img/banner.webp # https://bu.dusays.com/2023/05/13/645fa3cf90d70.webp
+    # image: /img/banner.webp # https://bu.dusays.com/2023/05/13/645fa3cf90d70.webp
+    image: http://aginnov-hk.oss-cn-hongkong.aliyuncs.com/ada887f9-8838-464f-b806-7df25688aba8.png  # https://bu.dusays.com/2023/05/13/645fa3cf90d70.webp
     link: /album # https://docs.anheyu.com/
 
 # 朋友圈配置
