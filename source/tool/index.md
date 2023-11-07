@@ -45,6 +45,26 @@ comments: false
       avatar: https://p.zhheo.com/aa134db0ac1c2b6ddffa67a573983e781152d856.png!cover_mini
       descr: windows操作系统下载
 
+- class_name: 在线测试
+  class_desc: 测试性能的网站
+  flink_style: anzhiyu
+  link_list:
+    - name: 网站性能测试
+      link: https://developers.google.com/speed/pagespeed/insights/?utm_source=devtools
+      avatar: https://p.zhheo.com/9586ca1447421c5a816e5d2d5d26b30fa1ca0900.png!cover_mini
+      descr: 谷歌的网站测速，前端优化必备
+    - name: 国内延迟测试  
+      link: https://www.boce.com/
+      avatar: https://p.zhheo.com/41b50e22087aca58efe17408f4c086230572a025.png!cover_mini
+      descr: 测试全国各地访问网站的延迟
+    - name: 网速测试
+      link: https://www.speedtest.net/
+      avatar: https://p.zhheo.com/f948b407a35a4d8071101940d7f3a7b879508a38.png!cover_mini
+      descr: 极致的速度测试
+    - name: 刷新率测试
+      link: https://www.testufo.com/
+      avatar: https://p.zhheo.com/9783a1276b250065da4fff3411ec4b760c26f238.png!cover_mini
+      descr: 国际著名的UFO测试网站
 
 - class_name: 素材生成
   class_desc: 优秀的素材在线生成
