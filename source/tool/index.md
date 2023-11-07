@@ -44,6 +44,38 @@ comments: false
       link: https://msdn.itellyou.cn/
       avatar: https://p.zhheo.com/aa134db0ac1c2b6ddffa67a573983e781152d856.png!cover_mini
       descr: windows操作系统下载
+    - name: 种子下载神器
+      link: https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases
+      avatar: https://avatars.githubusercontent.com/u/93049556?v=4
+      descr: 订阅并自动更新Tracker地址
+    - name: File Convert万能格式转换神器
+      link: https://file-converter.org/
+      avatar: https://file-converter.org/images/application-icon.png
+      descr: File Convert是一个功能强大的轻量级的万能格式转换工具。
+    - name: 免费版IDM 最佳替代软件
+      link: https://www.neatdownloadmanager.com/index.php/en/
+      avatar: https://www.neatdownloadmanager.com/templates/neat/images/icon.png
+      descr: NDM 是一款免费、简单、轻量的网络下载工具
+    - name: .KCleaner
+      link: https://www.kcsoftwares.com/?download
+      avatar: https://www.kcsoftwares.com/images/kclogo.png
+      descr: KCleaner是一个轻量级的系统清理工具  
+    - name: DISM++
+      link: https://github.com/Chuyu-Team/Dism-Multi-language
+      avatar: https://avatars.githubusercontent.com/u/19919835?s=48&v=4
+      descr: DISM++，是一款轻量级的系统优化工具
+    - name: HWiNFO
+      link: https://www.hwinfo.com/
+      avatar: https://www.hwinfo.com/wp-content/uploads/2018/06/logo-white.png
+      descr: HWiNFO 是一款电脑软硬件检测工具
+    - name: PShutDown
+      link: https://code.google.com/archive/p/pshutdown/downloads
+      avatar: https://storage.googleapis.com/google-code-archive/v2/code.google.com/pshutdown/logo.png
+      descr: 是一个轻量级但是功能强大的电脑开关机管理工具。
+    - name: Geek Uninstall 软件卸载神器
+      link: https://geekuninstaller.com/
+      avatar: https://geekuninstaller.com/assets/images/icon_geek_32.png
+      descr: 能够帮助我们卸载电脑上的程序，并且清理其在注册表留下的信心
 
 - class_name: 在线测试
   class_desc: 测试性能的网站
