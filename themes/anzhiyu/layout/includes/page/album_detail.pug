@@ -6,7 +6,7 @@
     - let album_detail_top_link = i.top_link
     - let album_detail_top_btn_text = i.top_btn_text
     if (path_name && i.album_list)
-      .author-content.author-content-item.album.single(style=`${album_detail_background ? `background: url(${album_detail_background}) top / cover no-repeat;` : ""}`)
+      .author-content.author-content-item.album.single(style = `background: url(${i.background}) left 28% / cover no-repeat !important;`)
         .card-content
           .author-content-item-tips 相册集
           span.author-content-item-title=i.class_name

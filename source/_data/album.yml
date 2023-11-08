@@ -4,6 +4,7 @@
   description: 因为到不了世界各地，所以请随手摘下风景🌇。
   cover: https://cdnjson.com/images/2023/10/30/9.webp
   top_background: https://cdnjson.com/images/2023/10/30/10.webp
+  background: https://dogefs.s3.ladydaily.com/~/source/unsplash/photo-1694081683120-17e1d5b308df?ixid=M3w0MjI2NjN8MHwxfHRvcGljfHxxUFlzRHp2Sk9ZY3x8fHx8Mnx8MTY5ODE5ODcyMnw&ixlib=rb-4.0.3&w=2560&h=1440&fmt=webp
   rowHeight: 220
   limit: 10
   lazyload: true

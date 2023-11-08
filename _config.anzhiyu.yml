@@ -263,12 +263,12 @@ post_copyright:
 
 # Sponsor/reward
 reward:
-  enable: true
+  enable: false
   QR_code:
-    - img: https://upload.cc/i1/2023/10/30/PR7XQ6.png
+    - img: https://cdnjson.com/images/2023/11/08/wechatpay.png
       link:
       text: 微信
-    - img: https://upload.cc/i1/2023/10/30/ydncAi.jpg
+    - img: https://cdnjson.com/images/2023/11/08/alipay.jpg
       link:
       text: 支付宝
 
@@ -920,8 +920,9 @@ translate:
 readmode: true
 
 # 中控台
-centerConsole: true
-
+# centerConsole: true
+centerConsole:
+enable: true
 # dark mode
 darkmode:
   enable: true
@@ -1094,6 +1095,7 @@ home_top:
 friends_vue:
   enable: true
   vue_js: /js/friends.js
+  top_tips:
   apiurl: https://friend.wuyuxi.cn/ # 朋友圈后端地址
   top_background: https://dogefs.s3.ladydaily.com/~/source/wallhaven/full/o5/wallhaven-o5l327.jpg?w=2560&h=1440&fmt=webp
 
@@ -1108,6 +1110,10 @@ bubble:
 #  控制台打印信息
 console:
   enable: false
+
+# 相册主页面头图
+album:
+  top_background: https://dogefs.s3.ladydaily.com/~/source/unsplash/photo-1694081683120-17e1d5b308df?ixid=M3w0MjI2NjN8MHwxfHRvcGljfHxxUFlzRHp2Sk9ZY3x8fHx8Mnx8MTY5ODE5ODcyMnw&ixlib=rb-4.0.3&w=2560&h=1440&fmt=webp
 
 # 51a统计配置
 LA:
@@ -1247,6 +1253,7 @@ inject:
     # - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
     - <link rel="stylesheet" href="/css/custom.css">
     - <link rel="stylesheet" href="/css/windmill.css">  # 引入标题风车效果
+    - <link rel="stylesheet" href="/css/home.css">     # 首页文章卡片擦亮效果
   bottom:
     # 自定义js
     # - <script src="/js/xxx"></script>
