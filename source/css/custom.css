@@ -197,3 +197,8 @@
         transform: rotate(360deg);
     }
 }
+
+/* loading加载动画 效果改变 */
+.loading-bg .loading-image-dot {
+    background-color: #e9b9ab !important;
+}
