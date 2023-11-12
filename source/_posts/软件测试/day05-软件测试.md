@@ -4,8 +4,8 @@ abbrlink: b151e7ab
 date: 2023-11-05 23:32:13
 tags: 软件测试
 categories: 软件测试
-top_img: "https://www4.bing.com//th?id=OHR.Fawn_ZH-CN2172152960_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp&w=360&h=202"
-cover: "https://www4.bing.com//th?id=OHR.Fawn_ZH-CN2172152960_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp&w=360&h=202"
+top_img: "https://pic.imgdb.cn/item/6550ba33c458853aef192627.png"
+cover: "https://pic.imgdb.cn/item/6550ba33c458853aef192627.png"
 ---
 
 ### 今天目标

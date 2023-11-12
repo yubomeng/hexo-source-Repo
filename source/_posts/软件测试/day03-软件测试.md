@@ -4,8 +4,8 @@ abbrlink: 4993ac1d
 date: 2023-11-05 23:31:56
 tags: 软件测试
 categories: 软件测试
-top_img: "https://www4.bing.com//th?id=OHR.AtlanticPuffin_ZH-CN8523220989_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp&w=360&h=202"
-cover: "https://www4.bing.com//th?id=OHR.AtlanticPuffin_ZH-CN8523220989_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp&w=360&h=202"
+top_img: "https://pic.imgdb.cn/item/6550bcf0c458853aef22f039.png"
+cover: "https://pic.imgdb.cn/item/6550bcf0c458853aef22f039.png"
 ---
 
 ### 今天目标

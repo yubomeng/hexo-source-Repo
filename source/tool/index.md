@@ -215,6 +215,10 @@ comments: false
       link: https://tinypng.com/
       avatar: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/34/f5/eb/34f5eba0-77a8-fd9f-05bc-d4af6e675c0e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
       descr: 热门的图片压缩工具
+    - name: remove
+      link: https://www.remove.bg
+      avatar: https://apps.apple.com/us/app/picsart-ai-photo-editor/id587366035?uo=4AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+      descr: 在线抠图软件_图片去除背景
     - name: 沉浸式翻译
       link: https://immersivetranslate.com/
       avatar: https://immersivetranslate.com/img/logo.png

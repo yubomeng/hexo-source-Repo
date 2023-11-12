@@ -4,8 +4,8 @@ abbrlink: 2c5e06dd
 date: 2023-11-05 23:32:06
 tags: 软件测试
 categories: 软件测试
-top_img: "https://www4.bing.com//th?id=OHR.BucerosBicornis_ZH-CN7795050230_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp&w=360&h=202"
-cover: "https://www4.bing.com//th?id=OHR.BucerosBicornis_ZH-CN7795050230_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp&w=360&h=202"
+top_img: "https://pic.imgdb.cn/item/6550bcf1c458853aef22f184.png"
+cover: "https://pic.imgdb.cn/item/6550bcf1c458853aef22f184.png"
 ---
 
 ### 今天目标

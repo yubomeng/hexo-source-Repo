@@ -47,6 +47,12 @@ nav:
         - name: Github
           link: https://github.com/
           icon: /img/github.png
+    
+    - title: 服务
+      item:
+        - name: 应用图标库
+          link: https://icon.zhheo.com/#!/
+          icon: https://p.zhheo.com/202300b4b458642ccff4f63554897fffbb83075702.png!cover_mini
 
 
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
@@ -207,7 +213,7 @@ post_meta:
     categories: true # true or false 文章页是否显示分类
     tags: true # true or false 文章页是否显示标籤
     label: true # true or false 显示描述性文字
-    unread: false # true or false 文章未读功能
+    unread: true  # true or false 文章未读功能
 
 # 主色调相关配置
 mainTone:
@@ -824,7 +830,7 @@ aside:
   hide: false
   button: true
   mobile: true # display on mobile
-  position: left # left or right
+  position: right # left or right
   display: # 控制对应详情页面是否显示侧边栏
     archive: true
     tag: true
@@ -921,8 +927,7 @@ readmode: true
 
 # 中控台
 # centerConsole: true
-centerConsole:
-enable: true
+centerConsole: true
 # dark mode
 darkmode:
   enable: true

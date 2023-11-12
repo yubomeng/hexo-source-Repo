@@ -4,8 +4,8 @@ tags:
   - Vue转PDF
 categories:
   - 科技前沿
-top_img: 'https://cdnjson.com/images/2023/10/26/be9def1c7f058bfb323518bf24d3535b.png'
-cover: 'https://cdnjson.com/images/2023/10/26/be9def1c7f058bfb323518bf24d3535b.png'
+top_img: 'https://pic.imgdb.cn/item/6550c6bac458853aef4ad0de.png'
+cover: 'https://pic.imgdb.cn/item/6550c6bac458853aef4ad0de.png'
 ai:
   - >-
     在Vue单页面中实现预览打印效果，可以通过调用浏览器的打印功能来实现。用户可以点击页面上的打印按钮，然后选择打印机并进行打印操作。另外，还可以使用第三方库将Vue单页面转换为PDF格式，并提供下载功能。用户可以点击页面上的PDF按钮，将当前页面转换为PDF文件并下载。

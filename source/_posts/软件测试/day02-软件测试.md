@@ -4,8 +4,8 @@ abbrlink: d49c4d6b
 date: 2023-11-05 23:31:16
 tags: 软件测试
 categories: 软件测试
-top_img: "https://www4.bing.com//th?id=OHR.HalloweenCuteAI_ZH-CN1079713117_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp&w=360&h=202"
-cover: "https://www4.bing.com//th?id=OHR.HalloweenCuteAI_ZH-CN1079713117_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp&w=360&h=202"
+top_img: "https://pic.imgdb.cn/item/6550bcf0c458853aef22ef2f.png"
+cover: "https://pic.imgdb.cn/item/6550bcf0c458853aef22ef2f.png"
 ---
 
 ![image-20211024093736975](img/image-20211024093736975.png)
