@@ -73,12 +73,6 @@
 
 }
 
-/* 文章未读功能调整 */
-.recent-post-info .recent-post-info-top .unvisited-post {
-    margin-top: 3.5px;
-    font-size: 12px;
-    color: #f8cce9 !important;
-}
 
 /* 博客文章背景颜色美化 */
 [data-theme="light"] .post {

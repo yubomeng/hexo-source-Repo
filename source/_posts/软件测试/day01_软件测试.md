@@ -64,7 +64,6 @@ cover: "https://pic.imgdb.cn/item/6550bcf0c458853aef22ee41.png"
 
 > 代码可见度：代码可见的程度上划分
 
-![image-20211023111320224](img/image-20211023111320224.png)
 
 ```
 黑盒测试：主要针对功能（阶段划分->系统测试）
@@ -95,7 +94,6 @@ cover: "https://pic.imgdb.cn/item/6550bcf0c458853aef22ee41.png"
 
 > 说明：质量模型能告诉我们，测试时应该考虑的方面
 
-![image-20211023114918391](img/image-20211023114918391.png)
 
 ```
 重点：功能、性能、兼容、易用性、安全
@@ -104,7 +102,6 @@ cover: "https://pic.imgdb.cn/item/6550bcf0c458853aef22ee41.png"
 
 ### 四、测试流程
 
-![image-20211023143542384](img/image-20211023143542384.png)
 
 - 需求分析（评审）
 
@@ -162,7 +159,6 @@ cover: "https://pic.imgdb.cn/item/6550bcf0c458853aef22ee41.png"
 
 - 生活中的用例：
 
-  ![image-20211023153145014](img/image-20211023153145014.png)
 
 - 用例的作用
 
@@ -173,13 +169,10 @@ cover: "https://pic.imgdb.cn/item/6550bcf0c458853aef22ee41.png"
 
 - 用例模板
 
-  ![image-20211223170142537](img/image-20211223170142537.png)
 
-  ![image-20211223170214567](img/image-20211223170214567.png)
 
 - 八大要素编写规范
 
-  ![image-20211023161306406](img/image-20211023161306406.png)
 
 - 练习案例
 
@@ -190,11 +183,9 @@ cover: "https://pic.imgdb.cn/item/6550bcf0c458853aef22ee41.png"
   	3、失败（内容为空）
   ```
 
-  ![image-20211023172649260](img/image-20211023172649260.png)
 
   
 
-  ![image-20211023174504198](img/image-20211023174504198.png)
 
 ### 六、用例设计方法
 
@@ -215,7 +206,6 @@ cover: "https://pic.imgdb.cn/item/6550bcf0c458853aef22ee41.png"
 
 - 介绍：
 
-  ![image-20211223165451571](img/image-20211223165451571.png)
 
 - 案例1（qq程序）
 
@@ -223,9 +213,7 @@ cover: "https://pic.imgdb.cn/item/6550bcf0c458853aef22ee41.png"
   要求:6~10位自然数
   ```
 
-  ![image-20211223165623505](img/image-20211223165623505.png)
 
-  ![image-20211223165637739](img/image-20211223165637739.png)
 
 - 案例2（电话）
 
@@ -236,8 +224,5 @@ cover: "https://pic.imgdb.cn/item/6550bcf0c458853aef22ee41.png"
   3. 后缀码:四位数字
   ```
 
-  ![image-20211223165723688](img/image-20211223165723688.png)     ![image-20211223165749559](img/image-20211223165749559.png)
 
 ### 七、作业
-
-![image-20211023180718805](img/image-20211023180718805.png)

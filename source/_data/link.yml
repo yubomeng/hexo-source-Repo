@@ -19,9 +19,9 @@
   link_list:
     - name: Qing
       link: https://blog.wuyuxi.cn/
-      avatar: https://blog.wuyuxi.cn/img/avatar.png
+      avatar: https://cdnjson.com/images/2023/06/04/avatar.png
       descr: 你侬我侬，忒煞情多
-      siteshot: https://blog.wuyuxi.cn/img/site.jpg
+      siteshot: https://cdnjson.com/images/2023/11/13/image254ba6fbd7eaeb6b.png
       color: speed
       tag: 生活
       recommend: true
@@ -87,21 +87,6 @@
       avatar: https://satera.cn/img/logo.png
       descr: SNTube Studio
       siteshot: https://bu.dusays.com/2023/09/16/65052aa7c13c9.png
-    - name: YYSのBlog
-      link: https://blog.wfqyys.cn
-      avatar: https://blog.wfqyys.cn/images/favicon.jpg
-      descr: Be the change that you wish to see in the world.
-      siteshot: https://blog.wfqyys.cn/images/favicon.jpg
-    - name: YYSの小窝
-      link: https://wfqyys.cn
-      avatar: https://blog.wfqyys.cn/images/favicon.jpg
-      descr: May all the beauty be blessed.
-      siteshot: https://blog.wfqyys.cn/images/favicon.jpg
-    - name: Sunday
-      link: https://blog.wyun521.top/
-      avatar: https://mysource-hexo.wyun521.top/img/avatar/7.jpg
-      descr: 代码改变世界
-      siteshot: https://mysource-hexo.wyun521.top/img/avatar/7.jpg
     - name: 贰猹的小窝
       link: https://noionion.top/
       avatar: https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg
@@ -122,3 +107,25 @@
       avatar: https://www.zenghui.vip/logo.png
       descr: 乘风破浪逐水流，一路晴空月参差。
       siteshot: https://www.zenghui.vip/logo.png
+
+
+- class_name: 失联
+  class_desc: 站点头像未显示或不能打开的站点
+  flink_style: anzhiyu
+  hundredSuffix: ""
+  link_list:
+    - name: YYSのBlog
+      link: https://blog.wfqyys.cn
+      avatar: https://blog.wfqyys.cn/images/favicon.jpg
+      descr: Be the change that you wish to see in the world.
+      siteshot: https://blog.wfqyys.cn/images/favicon.jpg
+    - name: YYSの小窝
+      link: https://wfqyys.cn
+      avatar: https://blog.wfqyys.cn/images/favicon.jpg
+      descr: May all the beauty be blessed.
+      siteshot: https://blog.wfqyys.cn/images/favicon.jpg
+    - name: Sunday
+      link: https://blog.wyun521.top/
+      avatar: https://mysource-hexo.wyun521.top/img/avatar/7.jpg
+      descr: 代码改变世界
+      siteshot: https://mysource-hexo.wyun521.top/img/avatar/7.jpg

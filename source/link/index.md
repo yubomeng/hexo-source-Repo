@@ -17,9 +17,9 @@ ai:
 ```yml
 - name: Qing
   link: https://blog.wuyuxi.cn/
-  avatar: https://blog.wuyuxi.cn/img/avatar.png
+  avatar: https://cdnjson.com/images/2023/06/04/avatar.png
   descr: 你侬我侬，忒煞情多
-  siteshot: https://blog.wuyuxi.cn/img/site.jpg
+  siteshot: https://cdnjson.com/images/2023/11/13/image254ba6fbd7eaeb6b.png
 ```
 
 <!-- endtab --> 
@@ -29,9 +29,9 @@ ai:
 ```json
 {
   "title": "Qing",
-  "screenshot": "https://blog.wuyuxi.cn/img/site.jpg",
+  "screenshot": "https://cdnjson.com/images/2023/11/13/image254ba6fbd7eaeb6b.png",
   "url": "https://blog.wuyuxi.cn/",
-  "avatar": "https://blog.wuyuxi.cn/img/avatar.png",
+  "avatar": "https://cdnjson.com/images/2023/06/04/avatar.png",
   "description": "你侬我侬，忒煞情多",
   "keywords": "Qing"
 }
@@ -44,9 +44,9 @@ ai:
 | 名称       | 数值                                                         |
 | :--------- | :----------------------------------------------------------- |
 | 站点名称   | Qing                                                  |
-| 站点截图   | https://blog.wuyuxi.cn/img/site.jpg |
+| 站点截图   | https://cdnjson.com/images/2023/11/13/image254ba6fbd7eaeb6b.png |
 | 站点链接   | https://blog.wuyuxi.cn/                                          |
-| 站长头像   | https://blog.wuyuxi.cn/img/avatar.png |
+| 站长头像   | https://cdnjson.com/images/2023/06/04/avatar.png |
 | 站点描述   | 你侬我侬，忒煞情多                                           |
 | 站点关键词 | Qing, 个人博客， 生活                                      |
 
@@ -59,7 +59,7 @@ ai:
     title: "Qing",
     intro: "你侬我侬，忒煞情多",
     link: "https://blog.wuyuxi.cn/",
-    image: "https://blog.wuyuxi.cn/img/avatar.png",
+    image: "https://cdnjson.com/images/2023/06/04/avatar.png",
   }
 ```
 
@@ -70,8 +70,8 @@ ai:
 ```yml
 {
   "title": "Qing",
-  "avatar": "https://blog.wuyuxi.cn/img/avatar.png",
-  "screenshot": "https://blog.wuyuxi.cn/img/site.jpg",
+  "avatar": "https://cdnjson.com/images/2023/06/04/avatar.png",
+  "screenshot": "https://cdnjson.com/images/2023/11/13/image254ba6fbd7eaeb6b.png",
   "url": "https://blog.wuyuxi.cn/",
   "description": "你侬我侬，忒煞情多",
   "group": ,#根据你的博客来定义
@@ -175,8 +175,8 @@ a(href='https://blog.wuyuxi.cn/' rel="external nofollow") Qing
 1. 我的名称: `Qing`
 2. 网站地址: `https://blog.wuyuxi.cn/`
 3. 描述: `你侬我侬，忒煞情多`
-4. 头像: `https://blog.wuyuxi.cn/img/avatar.png`
-5. 站点截图: `https://blog.wuyuxi.cn/img/site.jpg`
+4. 头像: `https://cdnjson.com/images/2023/06/04/avatar.png`
+5. 站点截图: `https://cdnjson.com/images/2023/11/13/image254ba6fbd7eaeb6b.png`
 
 参照以下格式留言 📋 即可。
 
@@ -193,9 +193,9 @@ a(href='https://blog.wuyuxi.cn/' rel="external nofollow") Qing
 ```yml
 昵称：Qing
 网站地址：https://blog.wuyuxi.cn/
-头像图片url：https://blog.wuyuxi.cn/img/avatar.png
+头像图片url：https://cdnjson.com/images/2023/06/04/avatar.png
 描述：你侬我侬，忒煞情多
-站点截图:(可选)：https://blog.wuyuxi.cn/img/site.jpg
+站点截图:(可选)：https://cdnjson.com/images/2023/11/13/image254ba6fbd7eaeb6b.png
 ```
 
 {% tip faa-horizontal animated %}

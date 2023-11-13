@@ -27,11 +27,9 @@ cover: "https://pic.imgdb.cn/item/6550bcf0c458853aef22f039.png"
 
 > 说明：执行结果与用例的期望结果不一致（含义），为缺陷。
 
-![image-20211027093138826](img/image-20211027093138826.png)
 
 - 执行失败的用例
 
-![image-20211027095615336](img/image-20211027095615336.png)
 
 ```
 提示：用例执行不通过为缺陷，需要进行缺陷管理
@@ -66,7 +64,6 @@ cover: "https://pic.imgdb.cn/item/6550bcf0c458853aef22f039.png"
 
 #### 3.4 缺陷的生命周期
 
-![image-20211027103536357](img/image-20211027103536357.png)
 
 ```
 1、回归测试：
@@ -77,11 +74,9 @@ cover: "https://pic.imgdb.cn/item/6550bcf0c458853aef22f039.png"
 
 #### 3.5 缺陷核心要素
 
-![image-20211027110033840](img/image-20211027110033840.png)
 
 #### 3.6 缺陷提交要素
 
-![image-20211027110024249](img/image-20211027110024249.png)
 
 #### 3.7 缺陷类型
 
@@ -113,11 +108,9 @@ cover: "https://pic.imgdb.cn/item/6550bcf0c458853aef22f039.png"
 
 #### 3.1 excel示例
 
-![image-20211027144614178](img/image-20211027144614178.png)
 
 #### 3.2 缺陷跟踪流程
 
-![image-20211027144711475](img/image-20211027144711475.png)
 
 ```
 提示：知道测试和开发流程中涉及的工作即可。
@@ -125,7 +118,6 @@ cover: "https://pic.imgdb.cn/item/6550bcf0c458853aef22f039.png"
 
 #### 3.3 提交注意事项
 
-![image-20211027144811825](img/image-20211027144811825.png)
 
 ```
 面试题：发现缺陷后，首先会怎么办？--确定Bug可复现、确定是Bug。
@@ -145,31 +137,24 @@ cover: "https://pic.imgdb.cn/item/6550bcf0c458853aef22f039.png"
 
 - 特点：
 
-  ![image-20211027150242321](img/image-20211027150242321.png)
 
 - 使用流程图
 
-  ![image-20211027150226237](img/image-20211027150226237.png)
 
 - 使用禅道管理缺陷
 
   - 登录
 
-  ![wecom-temp-733fc2924637799dc61c23b4020656c9](img/wecom-temp-733fc2924637799dc61c23b4020656c9.png)
 
   - 创建缺陷
 
-  ![wecom-temp-6478a8fb72f4e88ff091ba184a3ec432](img/wecom-temp-6478a8fb72f4e88ff091ba184a3ec432.png)
 
-  ![wecom-temp-e7efbcedba952aadb5a83e9b76ab65e0](img/wecom-temp-e7efbcedba952aadb5a83e9b76ab65e0.png)
 
   - 关闭缺陷
 
-  ![wecom-temp-ead870780da1b3c9fbdc704a51706b3b](img/wecom-temp-ead870780da1b3c9fbdc704a51706b3b.png)
 
 #### 3.6 缺陷标题扩展
 
-![image-20211027170926652](img/image-20211027170926652.png)
 
 
 
@@ -183,11 +168,9 @@ cover: "https://pic.imgdb.cn/item/6550bcf0c458853aef22f039.png"
 
 ### 作业讲解（day02）
 
-![image-20211027121130395](img/image-20211027121130395.png)
 
 ### 今晚作业
 
-![image-20211027182846022](img/image-20211027182846022.png)
 
 ```
 将以上测试点/功能点，转为用例。

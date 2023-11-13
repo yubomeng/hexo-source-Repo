@@ -12,7 +12,7 @@ ai:
   - iMac 2023壁纸呈现出令人陶醉的视觉享受，融合了先进技术和艺术美感。独特的色彩搭配和高清纹理展现了令人惊叹的图像品质，为用户创造了独特的数字工作与娱乐环境。
 ---
 
-{% tip info %}Apple 在 2023.10.31 08:00 发布了 全新的 MacBook Pro 以及 iMac{% endtip %}
+{% tip info %}Apple 在 2023.10.31 08:00 发布了 全新的 MacBook Pro 以及 iMac。{% endtip %}
 - MacBook Pro 预览
   {% image https://www.apple.com.cn/v/macbook-pro/ai/images/overview/closer-look/3d_viewer_pf_16__b8iq7yl5sewi_large.jpg, alt=全新深空黑色 MacBook Pro 的正面视图，设备呈打开状态。 %}
   {% image https://www.apple.com.cn/macbook-pro/images/overview/closer-look/3d_viewer_pt_open__dr7t682bocia_large.jpg, alt=MacBook Pro 的俯视图，展示带有触控 ID 的内置妙控键盘和触控板。 %}

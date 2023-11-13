@@ -203,13 +203,13 @@ error_404:
 post_meta:
   page: # Home Page
     date_type: created # created or updated or both 主页文章日期是创建日或者更新日或都显示
-    date_format: relative # date/relative/simple 显示日期还是相对日期 或者 简单日期
+    date_format: simple # date/relative/simple 显示日期还是相对日期 或者 简单日期
     categories: true # true or false 主页是否显示分类
     tags: true # true or false 主页是否显示标籤
-    label: true # true or false 显示描述性文字
+    label: false # true or false 显示描述性文字
   post:
     date_type: both # created or updated or both 文章页日期是创建日或者更新日或都显示
-    date_format: relative # date/relative 显示日期还是相对日期
+    date_format: date # date/relative 显示日期还是相对日期
     categories: true # true or false 文章页是否显示分类
     tags: true # true or false 文章页是否显示标籤
     label: true # true or false 显示描述性文字
@@ -307,7 +307,7 @@ photofigcaption: true
 # 3: 只有下一篇，并且只在文章滚动到评论区时显示下一篇文章(旧文章)
 # 4: 只有下一篇，并且只在文章滚动到评论区时显示下一篇文章(旧文章) 显示图片cover
 # false: disable pagination
-post_pagination: 4
+post_pagination: 2
 
 # Displays outdated notice for a post (文章过期提醒)
 noticeOutdate:
