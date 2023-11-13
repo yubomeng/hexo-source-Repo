@@ -135,7 +135,7 @@
 
 
 /* 随即前往一个文章 图标旋转 */
-.anzhiyu-icon-fan {
+#nav-right .nav-button .site-page .anzhiyu-icon-fan {
     display: inline-block;
     animation: spin 1s linear infinite;
 }

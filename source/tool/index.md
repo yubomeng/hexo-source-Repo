@@ -1,10 +1,24 @@
 ---
-title: "在线工具推荐"
-date: 2023-10-27 15:16:02
+title: 在线工具
+date: 2023-11-13 20:24:30
 aside: false
+top_img: false
+type: "tool"
 comments: false
 ---
+<div id="page">
+  <div class="author-content author-content-item toolPage single">
+  <div class="card-content">
+  <div class="author-content-item-tips">效率</div>
+    <span class="author-content-item-title">在线工具推荐</span>
+    <div class="content-bottom">
+    <div class="tips">跟 Qing 一起高效的数字生活</div>
+    </div>
+    </div>
+  </div>
+</div>
 
+<div class="flink" id="article-container">
 {% flink %}
 
 - class_name: AI工具
@@ -217,7 +231,7 @@ comments: false
       descr: 热门的图片压缩工具
     - name: remove
       link: https://www.remove.bg
-      avatar: https://apps.apple.com/us/app/picsart-ai-photo-editor/id587366035?uo=4AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+      avatar: https://static.remove.bg/uploader-examples/animal/6_thumbnail.jpg
       descr: 在线抠图软件_图片去除背景
     - name: 沉浸式翻译
       link: https://immersivetranslate.com/
@@ -263,6 +277,13 @@ comments: false
       link: https://pullimage.passerma.com/
       avatar: https://p.zhheo.com/U6uEp922190681655801181818.jpg!cover_mini
       descr: Docker在线打包成tar下载
+    - name: ToolTT在线工具箱
+      link: https://tooltt.com/art-ascii/
+      avatar: https://tooltt.com/static/tool.ico
+      descr: 在线ASCII Banner艺术字生成工具
 
 
 {% endflink %}
+</div>
+
+
