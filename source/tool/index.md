@@ -111,6 +111,10 @@ comments: false
       link: https://www.testufo.com/
       avatar: https://p.zhheo.com/9783a1276b250065da4fff3411ec4b760c26f238.png!cover_mini
       descr: 国际著名的UFO测试网站
+    - name: itdog
+      link: https://www.itdog.cn/
+      avatar: https://www.itdog.cn/favicon.ico
+      descr: 在线ping_在线tcping_网站测速_HTTP测速_API测速_路由追踪
 
 - class_name: 素材生成
   class_desc: 优秀的素材在线生成

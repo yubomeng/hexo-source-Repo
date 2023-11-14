@@ -154,3 +154,9 @@
 .loading-bg .loading-image-dot {
     background-color: #e9b9ab !important;
 }
+
+/* 相关文章推荐 */
+.relatedPosts .headline i {
+    padding-right: 7px !important;
+    color: #e9b9ab;
+}
