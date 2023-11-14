@@ -1,24 +1,8 @@
-/* 版权信息位置调整 */
-.post-copyright-info {
-    margin-top: 12px !important;
-}
 
 /* 博客名称美化 */
 #blog_name .title {
     color: #e9b9ab;
     font-family: "阿里妈妈方圆体 VF Regular";
-}
-
-/* local西安地理位置调整 */
-.anzhiyu-icon-location-dot {
-    margin-right: 3px !important;
-}
-
-
-/* 文章页--“最新”样式调整 */
-.recent-post-info .recent-post-info-top-tips .newPost {
-    font-size: 12px !important;
-    color: #e9b9ab !important;
 }
 
 .article-meta-wrap .twikoo-count {
@@ -32,12 +16,6 @@
     display: none !important;
 }
 
-/* 装备页 */
-/* .equipment-item-content .equipment-item-content-item .equipment-item-content-item-cover .equipment-item-content-item-image {
-    width: 100% !important;
-    height: 100% !important;
-    background-size: cover !important;
-} */
 
 /* 装备页字体 */
 .card-content .author-content-item-tips {
