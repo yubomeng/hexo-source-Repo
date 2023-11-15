@@ -5,7 +5,7 @@
   buttonLink: /about/
   limit: 30
   home_essay: true
-  top_background: https://blog.wuyuxi.cn/img/essay/essay.webp
+  top_background: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/essay.webp
   essay_list:
     - content: 在岁月的长河中，有一种奇妙的力量，
                 它能让万物焕发新生的光芒。

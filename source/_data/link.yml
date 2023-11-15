@@ -97,11 +97,7 @@
       avatar: https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg
       descr: 用这生命中的每一秒，给自己一个不后悔的未来
       siteshot: https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/noionion.top.png
-    - name: 摘星怪’ blog
-      link: https://www.hlsiyy.love/
-      avatar: https://a.www.hlsiyy.love/logo/%E5%8D%9A%E5%AE%A2%E5%A4%B4%E5%83%8F.jpg
-      descr: 时光荏苒，流年似水
-      siteshot: https://a.www.hlsiyy.love/logo/%E5%8D%9A%E5%AE%A2%E5%A4%B4%E5%83%8F.jpg
+    
     - name: 夜雨柠檬
       link: https://blog.yeyulemon.top/
       avatar: https://imgbed.yeyulemon.top/uploads/652404e068dd8.png
@@ -112,25 +108,24 @@
       avatar: https://www.zenghui.vip/logo.png
       descr: 乘风破浪逐水流，一路晴空月参差。
       siteshot: https://www.zenghui.vip/logo.png
-
+    - name: 葱苓Ciraos
+      link: https://blog.ciraos.top/
+      avatar: https://img01.anheyu.com/useruploads/222/2023/10/16/652cbfc482491.jpg
+      descr: 乘风破浪逐水流，一路晴空月参差。
+      siteshot: https://img01.anheyu.com/useruploads/222/2023/10/16/652cbfc482491.jpg
+    - name: Sunday
+      link: https://blog.wyun521.top/
+      avatar: https://mysource-hexo.wyun521.top/img/avatar/7.jpg
+      descr: 代码改变世界
+      siteshot: https://mysource-hexo.wyun521.top/img/avatar/7.jpg
 
 - class_name: 失联
   class_desc: 站点头像未显示或不能打开的站点
   flink_style: anzhiyu
   hundredSuffix: ""
   link_list:
-    - name: YYSのBlog
-      link: https://blog.wfqyys.cn
-      avatar: https://blog.wfqyys.cn/images/favicon.jpg
-      descr: Be the change that you wish to see in the world.
-      siteshot: https://blog.wfqyys.cn/images/favicon.jpg
-    - name: YYSの小窝
-      link: https://wfqyys.cn
-      avatar: https://blog.wfqyys.cn/images/favicon.jpg
-      descr: May all the beauty be blessed.
-      siteshot: https://blog.wfqyys.cn/images/favicon.jpg
-    - name: Sunday
-      link: https://blog.wyun521.top/
-      avatar: https://mysource-hexo.wyun521.top/img/avatar/7.jpg
-      descr: 代码改变世界
-      siteshot: https://mysource-hexo.wyun521.top/img/avatar/7.jpg
+    - name: 摘星怪’ blog
+      link: https://www.hlsiyy.love/
+      avatar: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/apple.svg
+      descr: 时光荏苒，流年似水
+      siteshot: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/apple.svg
