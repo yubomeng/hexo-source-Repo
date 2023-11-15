@@ -548,6 +548,8 @@ footer:
       #   text: 图床
       - link: https://beian.miit.gov.cn/
         text: 晴 ICP 备-0000001号
+        
+        
     subTitle:
       enable: true
       # Typewriter Effect (打字效果)
