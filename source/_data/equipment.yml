@@ -1,7 +1,7 @@
 - class_name: 好物
   description: 实物装备推荐
   tip: 跟 Qing 一起享受科技带来的乐趣
-  top_background: https://cdnjson.com/images/2023/10/29/banner.jpg
+  top_background: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/202311152047392.jpg
   good_things:
     - title: 生产力
       description: 提升自己生产效率的硬件设备

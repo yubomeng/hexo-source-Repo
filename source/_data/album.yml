@@ -3,8 +3,8 @@
   type: 2
   description: 因为到不了世界各地，所以请随手摘下风景🌇。
   cover: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/wordScenery.png
-  top_background: https://cdnjson.com/images/2023/10/30/10.webp
-  background: https://cdnjson.com/images/2023/10/30/10.webp
+  top_background: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/202311152105662.png
+  background: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/202311152105662.png
   rowHeight: 220
   limit: 10
   lazyload: true

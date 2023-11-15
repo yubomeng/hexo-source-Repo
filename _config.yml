@@ -119,8 +119,8 @@ deploy:
 envelope_comment:
   enable: true #控制开关
   custom_pic:
-    cover: https://cdnjson.com/images/2023/10/24/xinyuanb378ccda08e2495c.png #信笺头部图片
-    line: https://cdnjson.com/images/2023/10/24/xinbottomf08a81b380d09959.png #信笺底部图片
+    cover: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/202311152031707.png #信笺头部图片
+    line: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/202311152032297.png #信笺底部图片
     beforeimg: https://npm.elemecdn.com/hexo-butterfly-envelope/lib/before.png # 信封前半部分
     afterimg: https://npm.elemecdn.com/hexo-butterfly-envelope/lib/after.png # 信封后半部分
   message: #信笺正文，多行文本，写法如下

@@ -1,6 +1,6 @@
 - class_name: 关于页
   subtitle: 希望明天，像过往的那一刻🎉
-  avatarImg: https://cdnjson.com/images/2023/06/04/avatar.png
+  avatarImg: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/avatar.svg
   avatarSkills:
     left:
       - 🤖️ 数码科技爱好者
@@ -33,11 +33,11 @@
     list:
       - desc: EDU,计算机科学与技术专业
         color: "#357ef5"
-    img:     https://cdnjson.com/images/2023/10/29/zhuanye.png
+    img:     https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/202311152035591.png
   statistic:
     link: /archives
     text: 文章隧道
-    cover: https://cdnjson.com/images/2023/10/29/access.webp
+    cover: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/202311152035135.png
   map:
     title: 我现在住在
     StrengthenTitle: 中国，西安市
@@ -53,8 +53,8 @@
   personalities:
     author_name: 快乐
     personality_type: Depression and happiness
-    photo_url: https://cdnjson.com/images/2023/10/29/people.webp
-    personality_img: https://cdnjson.com/images/2023/10/29/happy.png
+    photo_url: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/202311152036300.png
+    personality_img: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/202311152037906.png
     name_url: https://www.who.int/zh/news-room/fact-sheets/detail/depression
   maxim:
     maxim_tips: Qing

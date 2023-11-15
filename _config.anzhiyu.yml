@@ -31,10 +31,10 @@ nav:
       item:
         - name: 主页
           link: https://wuyuxi.cn
-          icon: /favicon.ico
+          icon: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/avatar.svg
         - name: 博客
           link: https://blog.wuyuxi.cn
-          icon: /img/avatar.png
+          icon: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/avatar.svg
         - name: 我的音乐
           link: https://music.wuyuxi.cn
           icon: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/music.svg
@@ -166,7 +166,7 @@ favicon: /favicon.ico
 
 # Avatar (头像)
 avatar:
-  img: /img/avatar.png
+  img: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/avatar.svg
   effect: false
 
 # Disable all banner image
@@ -275,10 +275,10 @@ post_copyright:
 reward:
   enable: false
   QR_code:
-    - img: https://cdnjson.com/images/2023/11/08/wechatpay.png
+    - img: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/wechatpay.png
       link:
       text: 微信
-    - img: https://cdnjson.com/images/2023/11/08/alipay.jpg
+    - img: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/alipay.jpg
       link:
       text: 支付宝
 
@@ -826,7 +826,7 @@ preloader:
   source: 3
   # pace theme (see https://codebyzach.github.io/pace/)
   pace_css_url:
-  avatar: /img/avatar.png # 自定加载动画义头像
+  avatar: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/avatar.svg    # 自定加载动画义头像
 
 # aside (侧边栏)
 # --------------------------------------
@@ -1126,7 +1126,7 @@ console:
 
 # 相册主页面头图
 album:
-  top_background: https://dogefs.s3.ladydaily.com/~/source/unsplash/photo-1694081683120-17e1d5b308df?ixid=M3w0MjI2NjN8MHwxfHRvcGljfHxxUFlzRHp2Sk9ZY3x8fHx8Mnx8MTY5ODE5ODcyMnw&ixlib=rb-4.0.3&w=2560&h=1440&fmt=webp
+  top_background: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/202311152103599.webp
 
 # 51a统计配置
 LA:

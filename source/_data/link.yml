@@ -19,9 +19,9 @@
   link_list:
     - name: Qing
       link: https://blog.wuyuxi.cn/
-      avatar: https://cdnjson.com/images/2023/06/04/avatar.png
+      avatar: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/avatar.png
       descr: 恰沐春风共同游，终只叹，木已舟。 
-      siteshot: https://cdnjson.com/images/2023/11/13/image254ba6fbd7eaeb6b.png
+      siteshot: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/202311152051683.png
       color: speed
       tag: 生活
       recommend: true

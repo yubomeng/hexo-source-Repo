@@ -17,9 +17,9 @@ ai:
 ```yml
 - name: Qing
   link: https://blog.wuyuxi.cn/
-  avatar: https://cdnjson.com/images/2023/06/04/avatar.png
+  avatar: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/avatar.png
   descr: 恰沐春风共同游，终只叹，木已舟。
-  siteshot: https://cdnjson.com/images/2023/11/13/image254ba6fbd7eaeb6b.png
+  siteshot: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/202311152051683.png
 ```
 
 <!-- endtab --> 
@@ -29,9 +29,9 @@ ai:
 ```json
 {
   "title": "Qing",
-  "screenshot": "https://cdnjson.com/images/2023/11/13/image254ba6fbd7eaeb6b.png",
+  "screenshot": "https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/202311152051683.png",
   "url": "https://blog.wuyuxi.cn/",
-  "avatar": "https://cdnjson.com/images/2023/06/04/avatar.png",
+  "avatar": "https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/avatar.png",
   "description": "恰沐春风共同游，终只叹，木已舟。",
   "keywords": "Qing"
 }
@@ -44,9 +44,9 @@ ai:
 | 名称       | 数值                                                         |
 | :--------- | :----------------------------------------------------------- |
 | 站点名称   | Qing                                                  |
-| 站点截图   | https://cdnjson.com/images/2023/11/13/image254ba6fbd7eaeb6b.png |
+| 站点截图   | https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/202311152051683.png |
 | 站点链接   | https://blog.wuyuxi.cn/                                          |
-| 站长头像   | https://cdnjson.com/images/2023/06/04/avatar.png |
+| 站长头像   | https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/avatar.png |
 | 站点描述   | 恰沐春风共同游，终只叹，木已舟。                                           |
 | 站点关键词 | Qing, 个人博客， 生活                                      |
 
@@ -59,7 +59,7 @@ ai:
     title: "Qing",
     intro: "恰沐春风共同游，终只叹，木已舟。",
     link: "https://blog.wuyuxi.cn/",
-    image: "https://cdnjson.com/images/2023/06/04/avatar.png",
+    image: "https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/avatar.png",
   }
 ```
 
@@ -70,8 +70,8 @@ ai:
 ```yml
 {
   "title": "Qing",
-  "avatar": "https://cdnjson.com/images/2023/06/04/avatar.png",
-  "screenshot": "https://cdnjson.com/images/2023/11/13/image254ba6fbd7eaeb6b.png",
+  "avatar": "https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/avatar.png",
+  "screenshot": "https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/202311152051683.png",
   "url": "https://blog.wuyuxi.cn/",
   "description": "恰沐春风共同游，终只叹，木已舟。",
   "group": ,#根据你的博客来定义
@@ -175,8 +175,8 @@ a(href='https://blog.wuyuxi.cn/' rel="external nofollow") Qing
 1. 我的名称: `Qing`
 2. 网站地址: `https://blog.wuyuxi.cn/`
 3. 描述: `恰沐春风共同游，终只叹，木已舟。`
-4. 头像: `https://cdnjson.com/images/2023/06/04/avatar.png`
-5. 站点截图: `https://cdnjson.com/images/2023/11/13/image254ba6fbd7eaeb6b.png`
+4. 头像: `https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/avatar.png`
+5. 站点截图: `https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/202311152051683.png`
 
 参照以下格式留言 📋 即可。
 
@@ -193,9 +193,9 @@ a(href='https://blog.wuyuxi.cn/' rel="external nofollow") Qing
 ```yml
 昵称：Qing
 网站地址：https://blog.wuyuxi.cn/
-头像图片url：https://cdnjson.com/images/2023/06/04/avatar.png
+头像图片url：https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/avatar.png
 描述：恰沐春风共同游，终只叹，木已舟。
-站点截图:(可选)：https://cdnjson.com/images/2023/11/13/image254ba6fbd7eaeb6b.png
+站点截图:(可选)：https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/202311152051683.png
 ```
 
 {% tip faa-horizontal animated %}
