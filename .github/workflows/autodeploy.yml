@@ -57,7 +57,7 @@ jobs:
       - name: 部署到Github
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          token: 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
+          token: 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
           repository-name: yubomeng/yubomeng.github.io
           branch: main
           folder: public
