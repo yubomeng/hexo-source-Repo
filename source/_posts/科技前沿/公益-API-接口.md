@@ -6,8 +6,8 @@ tags:
   - API
 categories:
   - 科技前沿
-top_img: 'https://telegraph-image-7gh.pages.dev/file/4f8840e58fc981c9b4efa.png'
-cover: 'https://telegraph-image-7gh.pages.dev/file/4f8840e58fc981c9b4efa.png'
+top_img: 'https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/202311152229054.png'
+cover: 'https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/202311152229054.png'
 ai:
   - 致力于为用户提供稳定、快速的免费API数据接口服务。公益API接口为社会服务提供数据支持，包括慈善机构信息、捐赠统计等，促进公益信息传递与分享，推动社会公益事业发展。
 ---
