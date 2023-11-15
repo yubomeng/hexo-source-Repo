@@ -92,16 +92,6 @@
     display: none !important;
 }
 
-/* 在线工具调整标题距离 */
-#page .page-title {
-    text-align: center;
-    color: #e9b9ab;
-}
-
-.flink .flink-name {
-    margin-top: 20px;
-}
-
 /* 取消导航栏随机前往一个项目网站 */
 #nav-right #travellings_button {
     display: none;
@@ -122,15 +112,4 @@
     100% {
         transform: rotate(360deg);
     }
-}
-
-/* loading加载动画 效果改变 */
-.loading-bg .loading-image-dot {
-    background-color: #e9b9ab !important;
-}
-
-/* 相关文章推荐 */
-.relatedPosts .headline i {
-    padding-right: 7px !important;
-    color: #e9b9ab;
 }
