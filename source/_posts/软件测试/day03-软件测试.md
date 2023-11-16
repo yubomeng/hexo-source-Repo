@@ -4,8 +4,8 @@ abbrlink: 4993ac1d
 date: 2023-11-05 23:31:56
 tags: 软件测试
 categories: 软件测试
-top_img: "https://pic.imgdb.cn/item/6550bcf0c458853aef22f039.png"
-cover: "https://pic.imgdb.cn/item/6550bcf0c458853aef22f039.png"
+top_img: "https://s3.qjqq.cn/37/6555b06c1799e.webp!color"
+cover: "https://s3.qjqq.cn/37/6555b06c1799e.webp!color"
 ---
 
 ### 今天目标

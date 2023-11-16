@@ -33,16 +33,16 @@
     list:
       - desc: EDU,计算机科学与技术专业
         color: "#357ef5"
-    img:     https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/202311152035591.png
+    img: https://s3.qjqq.cn/37/6555a56316cd7.webp!color
   statistic:
     link: /archives
     text: 文章隧道
-    cover: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/202311152035135.png
+    cover: https://s3.qjqq.cn/37/6555a586447f6.webp!color
   map:
     title: 我现在住在
     StrengthenTitle: 中国，西安市
-    background: https://cdnjson.com/images/2023/10/29/local.jpg
-    backgroundDark: https://cdnjson.com/images/2023/10/29/local.jpg
+    background: https://s3.qjqq.cn/37/6555c1610b836.webp!color
+    backgroundDark: https://s3.qjqq.cn/37/6555c1610b836.webp!color
   selfInfo:
     selfInfoTips1: 生于
     selfInfoContentYear: 2000
@@ -53,8 +53,8 @@
   personalities:
     author_name: 快乐
     personality_type: Depression and happiness
-    photo_url: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/202311152218071.png
-    personality_img: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/202311152037906.png
+    photo_url: https://s3.qjqq.cn/37/6555a610bfe3f.webp!color
+    personality_img: https://s3.qjqq.cn/37/6555a9f92370c.webp!color
     name_url: https://www.who.int/zh/news-room/fact-sheets/detail/depression
   maxim:
     maxim_tips: Qing
@@ -68,46 +68,46 @@
     game_tips: 爱好游戏
     game_title: 和平精英
     game_uid: "呢称: 画情为仙"
-    game_bg: https://cdnjson.com/images/2023/10/29/peace.jpg
+    game_bg: https://s3.qjqq.cn/37/6555a74e7d678.webp!color
   comic:
     comic_tips: 爱好影片  
     comic_title: 电影
     comic_list:
       - name: 肖申克的救赎
         href: https://baike.baidu.com/item/%E8%82%96%E7%94%B3%E5%85%8B%E7%9A%84%E6%95%91%E8%B5%8E/30307
-        cover: https://cdnjson.com/images/2023/10/29/redemption.jpg
+        cover: https://s3.qjqq.cn/37/6555a82a6c08f.webp!color
       - name: 阿甘正传
         href: https://www.iqiyi.com/v_19rrk3u264.html
-        cover: https://cdnjson.com/images/2023/10/29/gump.jpg
+        cover: https://s3.qjqq.cn/37/6555a8286296e.webp!color
       - name: 霸王别姬
         href: https://v.qq.com/x/cover/j3czmhisqin799r/z002615k57t.html?ptag=iqiyi
-        cover: https://cdnjson.com/images/2023/10/29/farewell.jpg
+        cover: https://s3.qjqq.cn/37/6555a828915f9.webp!color
       - name: 天空之城
         href: https://www.iqiyi.com/v_19rrmgbgw8.html
-        cover: https://cdnjson.com/images/2023/10/29/thekey.png
+        cover: https://s3.qjqq.cn/37/6555a82a7b72f.webp!color
       - name: 猫和老鼠
         href: https://www.iqiyi.com/v_2dmdjsl49co.html
-        cover: https://cdnjson.com/images/2023/10/29/cat.jpg
+        cover: https://s3.qjqq.cn/37/6555a8288095c.webp!color
   like:
     like_tips: 关注偏好
     like_title: 未来
-    like_bg: https://cdnjson.com/images/2023/10/29/habby.webp
+    like_bg: https://s3.qjqq.cn/37/6555a8afefb3c.webp!color
     like_bottom: 人类、自然、地球
   music:
     music_tips: 音乐偏好
     music_title: 摩天大楼、消愁
-    music_bg: https://cdnjson.com/images/2023/10/29/skyscraper.jpg
+    music_bg: https://s3.qjqq.cn/37/6555a82aa9fbe.webp!color
     music_link: /music
 
 ############################################################################
-##      赞赏名单
-  # reward_list:
-  #   - name: 海阔蓝
-  #     amount: 8.8
-  #     datatime: 2023-03-28
-  #   - name: LK66
-  #     amount: 66.6
-  #     datatime: 2023-03-24
-  #   - name: 张时貳
-  #     amount: 6.6
-  #     datatime: 2023-01-22
+#      赞赏名单
+  reward_list:
+    - name: 游客1
+      amount: 0.00
+      datatime: 2023-11-01
+    - name: 游客2
+      amount: 0.00
+      datatime: 2023-11-02
+    - name: 游客3
+      amount: 0.00
+      datatime: 2023-11-03

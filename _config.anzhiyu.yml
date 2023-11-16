@@ -188,20 +188,19 @@ cover:
   position: left
   # When cover is not set, the default cover is displayed (当没有设置cover时，默认的封面显示)
   default_cover:
-    - https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/default01.jpg
-    - https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/default02.jpg
-    - https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/default03.webp
+    - https://s3.qjqq.cn/37/6555b6d6e94ee.webp!color
+    - https://s3.qjqq.cn/37/6555b6d7a43db.webp!color
 
 # Replace Broken Images (替换无法显示的图片)
 error_img:
-  flink: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/friend_404.gif
-  post_page: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/404.svg
+  flink: https://s3.qjqq.cn/37/6555b6fb682ed.gif!color
+  post_page: https://s3.qjqq.cn/37/6555b7656b9e7.webp!color
 
 # A simple 404 page
 error_404:
   enable: true
   subtitle: "请尝试站内搜索寻找文章"
-  background: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/error_404.gif
+  background: https://s3.qjqq.cn/37/6555b7931e82c.gif!color
 
 post_meta:
   page: # Home Page
@@ -275,10 +274,10 @@ post_copyright:
 reward:
   enable: false
   QR_code:
-    - img: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/wechatpay.png
+    - img: https://s3.qjqq.cn/37/6555b378c621f.webp!color
       link:
       text: 微信
-    - img: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/alipay.jpg
+    - img: https://s3.qjqq.cn/37/6555b378ca0df.webp!color
       link:
       text: 支付宝
 
@@ -363,7 +362,7 @@ valine:
   guest_info: nick,mail,link # valine comment header info (nick/mail/link)
   recordIP: false # Record reviewer IP
   serverURLs: # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
-  bg: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/comment_bg.png  # valine background
+  bg: https://s3.qjqq.cn/37/6555b7da7f16d.webp!color  # valine background
   emojiCDN: //i0.hdslb.com/bfs/emote/ # emoji CDN
   enableQQ: true # enable the Nickname box to automatically get QQ Nickname and QQ Avatar
   requiredFields: nick,mail # required fields (nick/mail)
@@ -472,7 +471,7 @@ footer:
         message: 本站采用知识共享署名-非商业性使用-相同方式共享4.0国际许可协议进行许可
   socialBar:
     enable: true
-    centerImg: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/footer.gif  # 页脚头像
+    centerImg: https://s3.qjqq.cn/37/6555b7f078281.gif!color  # 页脚头像
     left:
       - title: email
         link: mailto:898581578@qq.com
@@ -1099,7 +1098,8 @@ home_top:
     tips: 逆风而行
     title: 旅思秋光，黯黯长安路。
     # image: /img/banner.webp # https://bu.dusays.com/2023/05/13/645fa3cf90d70.webp
-    image: http://aginnov-hk.oss-cn-hongkong.aliyuncs.com/ada887f9-8838-464f-b806-7df25688aba8.png  # https://bu.dusays.com/2023/05/13/645fa3cf90d70.webp
+    image: https://s3.qjqq.cn/37/655595891b420.webp!color
+          # https://bu.dusays.com/2023/05/13/645fa3cf90d70.webp
           #  https://pic.imgdb.cn/item/65521f45c458853aef14c665.jpg
           #  https://pic.imgdb.cn/item/65521f5ac458853aef152e13.jpg
     link: /album # https://docs.anheyu.com/
@@ -1110,7 +1110,7 @@ friends_vue:
   vue_js: /js/friends.js
   top_tips:
   apiurl: https://friend.wuyuxi.cn/ # 朋友圈后端地址
-  top_background: https://dogefs.s3.ladydaily.com/~/source/wallhaven/full/o5/wallhaven-o5l327.jpg?w=2560&h=1440&fmt=webp
+  top_background: https://s3.qjqq.cn/37/6555a1006c743.webp!color
 
 # 深色模式粒子效果canvas
 universe:
@@ -1126,7 +1126,7 @@ console:
 
 # 相册主页面头图
 album:
-  top_background: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/202311152103599.webp
+  top_background: https://s3.qjqq.cn/37/65559832bc910.webp!color
 
 # 51a统计配置
 LA:

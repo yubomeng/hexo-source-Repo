@@ -6,8 +6,8 @@ tags:
   - Mac
 categories:
   - 科技前沿
-top_img: 'https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/202311152005521.png'
-cover: 'https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/202311152005521.png'
+top_img: 'https://s3.qjqq.cn/37/6555affb31402.webp!color'
+cover: 'https://s3.qjqq.cn/37/6555affb31402.webp!color'
 ai: 
   - iMac 2023壁纸呈现出令人陶醉的视觉享受，融合了先进技术和艺术美感。独特的色彩搭配和高清纹理展现了令人惊叹的图像品质，为用户创造了独特的数字工作与娱乐环境。
 ---

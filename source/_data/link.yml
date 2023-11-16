@@ -19,9 +19,9 @@
   link_list:
     - name: Qing
       link: https://blog.wuyuxi.cn/
-      avatar: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/avatar.png
+      avatar: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/avatar.svg
       descr: 恰沐春风共同游，终只叹，木已舟。 
-      siteshot: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/202311152051683.png
+      siteshot: https://s3.qjqq.cn/37/6555b8e007d48.webp!color
       color: speed
       tag: 生活
       recommend: true
@@ -115,9 +115,9 @@
       siteshot: https://img01.anheyu.com/useruploads/222/2023/10/16/652cbfc482491.jpg
     - name: Sunday
       link: https://blog.wyun521.top/
-      avatar: https://mysource-hexo.wyun521.top/img/avatar/7.jpg
+      avatar: https://s3.qjqq.cn/37/6555ba1caee65.webp!color
       descr: 代码改变世界
-      siteshot: https://mysource-hexo.wyun521.top/img/avatar/7.jpg
+      siteshot: https://s3.qjqq.cn/37/6555b9dd22a57.webp!color
 
 - class_name: 失联
   class_desc: 站点头像未显示或不能打开的站点

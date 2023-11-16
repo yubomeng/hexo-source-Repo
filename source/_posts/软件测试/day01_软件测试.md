@@ -4,8 +4,8 @@ abbrlink: 5e635fc1
 date: 2023-11-05 23:25:58
 tags: 软件测试
 categories: 软件测试
-top_img: "https://pic.imgdb.cn/item/6550bcf0c458853aef22ee41.png"
-cover: "https://pic.imgdb.cn/item/6550bcf0c458853aef22ee41.png"
+top_img: "https://s3.qjqq.cn/37/6555b06c0667d.webp!color"
+cover: "https://s3.qjqq.cn/37/6555b06c0667d.webp!color"
 ---
 
 ### 阶段目标

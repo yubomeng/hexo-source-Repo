@@ -2,9 +2,9 @@
   path_name: /wordScenery
   type: 2
   description: 因为到不了世界各地，所以请随手摘下风景🌇。
-  cover: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/wordScenery.png
-  top_background: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/202311152105662.png
-  background: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/202311152105662.png
+  cover: https://s3.qjqq.cn/37/65559a197e9a8.webp!color
+  top_background: https://s3.qjqq.cn/37/65559ac7c116c.webp!color
+  background: https://s3.qjqq.cn/37/65559ac7c116c.webp!color
   rowHeight: 220
   limit: 10
   lazyload: true
@@ -47,9 +47,9 @@
   url: false  
   top_link: /album
   top_btn_text: 返回
-  top_background: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/dailyphoto.png
-  cover: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/202311151655088.png
-  background: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/dailyphoto.png
+  cover: https://s3.qjqq.cn/37/65559d64d1c29.webp!color
+  top_background: https://s3.qjqq.cn/37/65559deb9ec68.webp!color
+  background: https://s3.qjqq.cn/37/65559deb9ec68.webp!color
   album_list:
     - date: 2022-10-24
       content: 动物
@@ -83,9 +83,9 @@
   url: false  # 【可选】仅当 type 为 2 时有效，可以加载远程的 json 数据。
   top_link: /album
   top_btn_text: 返回
-  top_background: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/animeBeauty.png
-  cover: https://pic.netbian.com/uploads/allimg/230813/221347-16919360279c09.jpg
-  background: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/animeBeauty.png
+  cover: https://s3.qjqq.cn/37/65559e75c2604.webp!color
+  top_background: https://s3.qjqq.cn/37/65559fa6b626f.webp!color
+  background: https://s3.qjqq.cn/37/65559fa6b626f.webp!color
   album_list:
     - date: 2023/10/30 22:45:00
       content: Beauty

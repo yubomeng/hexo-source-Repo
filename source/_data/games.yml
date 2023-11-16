@@ -1,29 +1,29 @@
 - class_name: 游戏世界
   description: 我的游戏世界
   tip: 跟 Qing 一起探索世界
-  top_background: https://th.bing.com/th/id/R.13a97ef4830efa5e0b87134d622719f3?rik=G7RaJFpxg5PtkA&riu=http%3a%2f%2fupload.techweb.com.cn%2fs%2f640%2f2019%2f0530%2f1559208230699.jpg&ehk=j1G8rMX98TRX52EkLgI5jW1p7lIQp4I8Si1nqEggFRs%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1
+  top_background: https://s3.qjqq.cn/37/6555bdc0105b0.webp!color
   buttonText: Steam
   buttonLink: https://steamcommunity.com/
   good_games:
     - title: 风景一绝
       description: 不会错过的风景
       games_list:
-        - name: 怪物猎人：世界
-          specification: CAPCOM Co., Ltd.
-          description: "在新建构的「Monster Hunter: World」中, 可以体验到你一直期盼的极致猎人生活。"
-          image: https://cdn.max-c.com/heybox/dailynews/img/94376ca41326836587a137d5999733e5.jpg
-          link: https://www.xiaoheihe.cn/games/detail/582010
-        - name: GTA:5
-          specification: Rockstar Games
-          description: 谁还在买GTA5
-          image: https://imgheybox.max-c.com/heybox/game/header/271590_dXCCk.jpg
-          link: https://www.xiaoheihe.cn/games/detail/271590
+        - name: Arizona Sunshine® 2
+          specification: Vertigo Games 系列 
+          description: "是时候与你的老朋友打个招呼了，也就是那些丧尸们。在Arizona Sunshine® 2——这个备受粉丝喜爱的VR末日世界的全新续作中，将带来更多爽快血腥且华丽的丧尸动作体验！有什么好得过勇闯这破世界的末日？那就是和你的新朋友——巴迪一起求生。"
+          image: https://s3.qjqq.cn/37/6555beb34d670.webp!color
+          link: https://store.steampowered.com/app/1540210/Arizona_Sunshine_2/
+        - name: 塔罗斯的法则2
+          specification:  Croteam Official 系列
+          description: "《塔罗斯的法则2》是激发思考的第一人称解谜游戏，大幅拓展了第一代游戏的哲学主题及令人叹为观止的环境，加入解谜难度越来越高的挑战。"
+          image: https://s3.qjqq.cn/37/6555bf868c3a9.webp!color
+          link: https://store.steampowered.com/app/835960/2/
 
     - title: 我的最爱
       description: 我不能没有它了
       games_list:
-        - name: GTA:5
-          specification: Rockstar Games
-          description: 谁还在买GTA5
-          image: https://imgheybox.max-c.com/heybox/game/header/271590_dXCCk.jpg
-          link: https://www.xiaoheihe.cn/games/detail/271590
+        - name: 遗迹2
+          specification: 动作游戏 
+          description: "《Remnant II》是畅销游戏《Remnant: From the Ashes》的续作。在本作中，人类幸存者将再次深陷可怕的世界，对抗新的邪恶怪物和神一般的敌人头目。"
+          image: https://s3.qjqq.cn/37/6555c04a45c46.webp!color
+          link: https://store.steampowered.com/app/1282100/2/

@@ -1,7 +1,7 @@
 - class_name: 好物
   description: 实物装备推荐
   tip: 跟 Qing 一起享受科技带来的乐趣
-  top_background: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/202311152047392.jpg
+  top_background: https://s3.qjqq.cn/37/6555a198c525f.webp!color
   good_things:
     - title: 生产力
       description: 提升自己生产效率的硬件设备
@@ -9,27 +9,27 @@
         - name: MacBook Pro 2023 16 英寸
           specification: M3 Max 128G / 8TB
           description: 屏幕显示效果好、色彩准确、对比度强、性能强劲、续航优秀。可以用来开发和设计。
-          image: https://cdnjson.com/images/2023/10/31/macbookpro.png
+          image: https://s3.qjqq.cn/37/6555a23e88acb.webp!color
           link:  https://www.apple.com.cn/shop/buy-mac/macbook-pro/MUW63CH/A
         - name: iPad Pro
           specification: 银色 / 1 TB
           description: 事事玩得转，买前生产力，买后爱奇艺。
-          image: https://cdnjson.com/images/2023/10/31/ipad.png
+          image: https://s3.qjqq.cn/37/6555a3792131b.webp!color
           link: https://www.apple.com.cn/shop/buy-ipad/ipad-pro
         - name:  iPhone 15 Pro Max
           specification: 白色 / 1 TB
           description: iPhone 15 Pro 是首款在设计中采用航空级钛金属的 iPhone，这种合金也被用在执行火星探测任务的航天器中。
-          image: https://cdnjson.com/images/2023/10/31/iphone15.png
+          image: https://s3.qjqq.cn/37/6555a37b9ceff.webp!color
           link: https://www.apple.com.cn/shop/buy-iphone/iphone-15-pro
         - name: AirPods Pro (第二代)
           specification: Pro
           description: 单次充电聆听时间最长可达 6 小时 (在启用空间音频和头部追踪功能时最长可达 5.5 小时)
-          image: https://cdnjson.com/images/2023/10/29/airpods.png
+          image: https://s3.qjqq.cn/37/6555a37990104.webp!color
           link: https://www.apple.com.cn/shop/product/MTJV3CH/A
         - name: HomePod mini
           specification: 标准版
           description: HomePod mini采用圆形设计，外观小巧可爱。它具有网格状的织物外壳，提供多种颜色选择，如白色、空间灰色等，以适应不同的家居风格。
-          image: https://cdnjson.com/images/2023/10/29/homepod.png
+          image: https://s3.qjqq.cn/37/6555a3794f73f.webp!color
           link: https://www.apple.com.cn/shop/buy-homepod/homepod-mini/MHY53CH/A
     - title: 出行
       description: 用来出行的实物及设备
@@ -37,15 +37,15 @@
         - name: Apple Watch Ultra 2
           specification: 白色
           description: 始终为我的健康放哨，深夜弹出站立提醒，不过确实有效的提高了我的运动频率，配合apple全家桶还是非常棒的产品，缺点依然是续航。
-          image: https://cdnjson.com/images/2023/10/29/watch.jpg
+          image: https://s3.qjqq.cn/37/6555a3c5905f2.webp!color
           link: https://www.apple.com.cn/shop/buy-watch/apple-watch-ultra/49mm-cellular-titanium-white-ocean-band-onesize
         - name: SOFT POLOCHON POUCH 包饰与钥匙扣
           specification: 深棕色
           description: SOFT POLOCHON POUCH包饰和钥匙扣配有皮革细节，如皮革手柄和皮革拉链头，增加了豪华感和舒适度
-          image: https://cdnjson.com/images/2023/10/29/pouch.webp
+          image: https://s3.qjqq.cn/37/6555a3c8184b1.webp!color
           link: https://www.louisvuitton.cn/zhs-cn/products/soft-polochon-pouch-key-holder-and-bag-charm-s00-nvprod4540082v/M01401
-        - name: 路易威登-montsouris
-          specification: 深棕色
-          description: MONTSOURIS双肩包是法国品牌路易威登（Louis Vuitton）推出的一款经典背包。该款背包以其简洁而时尚的设计，以及高品质的材料和精湛的工艺而闻名。
-          image: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/202311152232560.png
-          link: https://www.louisvuitton.cn/zhs-cn/products/montsouris-backpack-a05-nvprod4480142v/M23099
+        - name: KEEPALL 旅行袋
+          specification: 深灰色
+          description: KEEPALL BANDOULIÈRE 50是路易威登（Louis Vuitton）的一个经典旅行袋款式。它是一款时尚、实用的大号旅行包，非常适合长途旅行或短期出行使用。这款旅行袋采用了路易威登标志性的帆布材质制成，配有经典的LV图案，展现出品牌的奢华与优雅。
+          image:  https://s3.qjqq.cn/37/6555a3c5a2a31.webp!color
+          link: https://www.louisvuitton.cn/zhs-cn/products/keepall-bandouliere-50-monogram-shadow-leather-nvprod2140050v/M44810
