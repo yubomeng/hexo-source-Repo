@@ -4,15 +4,20 @@
   link_list:
     - name: Hexo
       link: https://hexo.io/zh-tw/
-      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      avatar: https://s3.qjqq.cn/37/6555f9f7050cb.webp!color
       descr: 快速、简单且强大的网站框架
 
     - name: anzhiyu主题
       link: https://blog.anheyu.com/
-      avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
+      avatar: https://s3.qjqq.cn/37/6555fa438a5d1.webp!color
       descr: 生活明朗，万物可爱
-      siteshot: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.6/img/blog.anheyu.com.jpg
+      siteshot: https://s3.qjqq.cn/37/6555fa43c5dbb.webp!color
 
+    - name: 风记星辰
+      link: https://www.thyuu.com/
+      avatar: https://s3.qjqq.cn/37/65560a8ce5436.webp!color
+      descr: 热爱你来过的每度温暖
+      siteshot: https://s3.qjqq.cn/37/65560aaaead34.webp!color
 - class_name: 推荐
   flink_style: telescopic
   hundredSuffix: ""
@@ -25,25 +30,33 @@
       color: speed
       tag: 生活
       recommend: true
+    - name: 青桔气球
+      link: https://blog.qjqq.cn/
+      avatar: https://s3.qjqq.cn/37/6555fa6ec69d2.webp!color
+      descr: 分享网络安全与科技生活
+      siteshot: https://s3.qjqq.cn/37/6555f4e394105.webp!color
+      color: vip
+      tag: 生活
+      recommend: true
     - name: 杜老师说
-      avatar: https://cdn.dusays.com/avatar.png
+      avatar: https://s3.qjqq.cn/37/6555fa8ae6118.webp!color
       link:  https://dusays.com
-      siteshot: https://cdn.dusays.com/avatar.png
+      siteshot: https://s3.qjqq.cn/37/6555fa8ae6118.webp!color
     - name: 张洪Heo
       link: https://blog.zhheo.com/
-      avatar: https://bu.dusays.com/2022/12/28/63ac2812183aa.png
+      avatar: https://s3.qjqq.cn/37/6555faf0ec0ef.webp!color
       descr: 分享设计与科技生活
       color: vip
       tag: 技术
     - name: 御网尚书的日记本
       link: https://hack-gov.com.cn
-      avatar: https://websitecssjs.oss-cn-beijing.aliyuncs.com/links/favicon.ico
-      siteshot: https://pic.rmb.bdstatic.com/bjh/a5db82a406a7d2e696e438090b22e2896685.png
+      avatar: https://api.qjqq.cn/api/MiYouShe
+      siteshot: https://s3.qjqq.cn/37/6555fb0fc6a3e.webp!color
       descr: 愿以赤子之心，共建网络空间安全
     - name: iMaeGoo’s Blog
       link: https://www.imaegoo.com
-      avatar: https://www.imaegoo.com/images/avatar.jpg
-      siteshot: https://www.imaegoo.com/images/avatar.jpg
+      avatar: https://s3.qjqq.cn/37/6555fb2d1db9b.webp!color
+      siteshot: https://s3.qjqq.cn/37/6555fb2d1db9b.webp!color
       descr: 虹墨空间站
 
 - class_name: 小伙伴
@@ -53,71 +66,153 @@
   link_list:
     - name: 煮雪话河山`Blog
       link: https://blog.cent1pedee.top/
-      avatar: https://img.cent1pedee.top/img/wechat.jpg
+      avatar: https://s3.qjqq.cn/37/6555fb593fe87.webp!color
       descr: 如月之恒，如日之升。
-      siteshot: https://img.cent1pedee.top/img/siteshot.png
+      siteshot: https://s3.qjqq.cn/37/6555fb5a6ccd8.webp!color
     - name: 理随`Blog
       link: https://lisui.top/
-      avatar: https://s3.qjqq.cn/3/64de148060f7b.webp!color
+      avatar: https://s3.qjqq.cn/37/6555f5b262e5f.webp!color
       descr: 生而无畏，战至终章。
-      siteshot: https://img.cent1pedee.top/img/siteshot.png
+      siteshot: https://s3.qjqq.cn/37/6555f5b262e5f.webp!color
     - name: Ethan.Tzy
       link: https://fe32.top/
-      avatar: https://bu.dusays.com/2022/05/02/626f92e193879.jpg
+      avatar: https://s3.qjqq.cn/37/6555fbb01f241.webp!color
       descr: 古今之成大事者，不惟有超世之才，亦必有坚忍不拔之志
-      screenshot: https://bu.dusays.com/2023/07/16/64b400bf8e546.jpg
+      screenshot: https://s3.qjqq.cn/37/6555fbb04d4e9.webp!color
       recommend: true  # 【可选】快捷选项，等于color:"" + tag: "荐"
     - name: Leonus
       link: https://blog.leonus.cn/
-      avatar: https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5
+      avatar: https://s3.qjqq.cn/37/6555fc1dc4cfc.webp!color
       descr: 进一寸有进一寸的欢喜。
       rss: /atom.xml
     - name: 铭心石刻
       link: https://blog.kouseki.cn/
-      avatar: https://blog.kouseki.cn/imgs/avatar.webp
+      avatar: https://s3.qjqq.cn/37/6555fc2174f3f.webp!color
       descr: 愿岁并谢，与友长兮
-      siteshot: https://blog.kouseki.cn/imgs/siteshot.webp
+      siteshot: https://s3.qjqq.cn/37/6555fc1e760ea.webp!color
     - name: Tianli
       descr: 自知之明是最可贵的知识！
-      avatar: https://q2.qlogo.cn/headimg_dl?dst_uin=507249007&spec=640
+      avatar: https://s3.qjqq.cn/37/6555fc207f1e2.webp!color
       link: https://tianli-blog.club
-      siteshot: https://q2.qlogo.cn/headimg_dl?dst_uin=507249007&spec=640
+      siteshot: https://s3.qjqq.cn/37/6555fc207f1e2.webp!color
     - name: 琅環书生
       link: https://www.zhuangzhi.love
-      avatar: https://z1.ax1x.com/2023/10/20/piFQxN8.jpg
+      avatar: https://s3.qjqq.cn/37/6555f6a719b0b.webp!color
       descr: 无远弗届，皆有可能
-      siteshot: https://z1.ax1x.com/2023/10/24/piEv3Qg.jpg
+      siteshot: https://s3.qjqq.cn/37/6555f6c4d379f.webp!color
     - name: 小旦
       link: https://satera.cn
-      avatar: https://satera.cn/img/logo.png
+      avatar: https://s3.qjqq.cn/37/6555f6f02f544.webp!color
       descr: SNTube Studio
-      siteshot: https://bu.dusays.com/2023/09/16/65052aa7c13c9.png
+      siteshot: https://s3.qjqq.cn/37/6555f6f34bd6c.webp!color
     - name: 贰猹的小窝
       link: https://noionion.top/
-      avatar: https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg
+      avatar: https://s3.qjqq.cn/37/6555f7141a79d.webp!color
       descr: 用这生命中的每一秒，给自己一个不后悔的未来
-      siteshot: https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/noionion.top.png
-    
+      siteshot: https://s3.qjqq.cn/37/6555f715dab1c.webp!color
     - name: 夜雨柠檬
       link: https://blog.yeyulemon.top/
-      avatar: https://imgbed.yeyulemon.top/uploads/652404e068dd8.png
+      avatar: https://s3.qjqq.cn/37/6555f737b75e0.webp!color
       descr: 生于忧患，死于安乐。
-      siteshot: https://imgbed.yeyulemon.top/uploads/6524bbe719a3a.png
+      siteshot: https://s3.qjqq.cn/37/6555f73847939.webp!color
     - name: 辉辉博客
       link: https://www.zenghui.vip/
-      avatar: https://www.zenghui.vip/logo.png
+      avatar: https://s3.qjqq.cn/37/6555f750c87e7.webp!color
       descr: 乘风破浪逐水流，一路晴空月参差。
-      siteshot: https://www.zenghui.vip/logo.png
+      siteshot: https://s3.qjqq.cn/37/6555f750c87e7.webp!color
     - name: 葱苓Ciraos
       link: https://blog.ciraos.top/
-      avatar: https://img01.anheyu.com/useruploads/222/2023/10/16/652cbfc482491.jpg
+      avatar: https://s3.qjqq.cn/37/6555f76dc70c4.webp!color
       descr: 乘风破浪逐水流，一路晴空月参差。
-      siteshot: https://img01.anheyu.com/useruploads/222/2023/10/16/652cbfc482491.jpg
+      siteshot: https://s3.qjqq.cn/37/6555f76dc70c4.webp!color
     - name: Sunday
       link: https://blog.wyun521.top/
       avatar: https://s3.qjqq.cn/37/6555ba1caee65.webp!color
       descr: 代码改变世界
       siteshot: https://s3.qjqq.cn/37/6555b9dd22a57.webp!color
+    - name: 偷闲小站
+      link: https://blog.andypang.cc/
+      avatar: https://s3.qjqq.cn/37/655601483e61a.webp!color
+      descr: 跨越山海，终见曙光
+      siteshot: https://s3.qjqq.cn/37/6556014b6dd63.webp!color
+    - name: 技术云
+      link: https://blog.svipwing.xyz
+      avatar: https://s3.qjqq.cn/37/6556040f06eb0.webp!color
+      descr: 本人正在努力学习java
+      siteshot: https://s3.qjqq.cn/37/6556040f06eb0.webp!color
+    - name: 小冰博客
+      link: https://zfe.one
+      avatar: https://s3.qjqq.cn/37/655610cb3bad9.webp!color
+      descr: 做个有梦想的人！
+    - name: 贰猹的小窝
+      link: https://noionion.top/
+      avatar: https://s3.qjqq.cn/37/6555f7141a79d.webp!color
+      descr: 用这生命中的每一秒，给自己一个不后悔的未来
+    - name: Adil
+      link: https://blog.adil.com.cn
+      avatar: https://s3.qjqq.cn/37/65560cb46e7d4.webp!color
+      descr: BW/HANA顾问,BI工程师,数据分析师,数据科学家。
+    - name: Black Flies
+      link: https://www.yyyzyyyz.cn/
+      avatar: https://s3.qjqq.cn/37/65560d03a80de.webp!color
+      descr: When nothing goes right,just go left.
+    - name: Ganzhe
+      link: https://ganzhe2028.github.io/
+      avatar: https://s3.qjqq.cn/37/65560d484dbf8.webp!color
+      descr: 顺其自然，持之以恒
+    - name: 小橙子
+      link: https://anorange.icu
+      avatar: https://s3.qjqq.cn/37/65560d761a8fe.webp!color
+      descr: 日落归山海，山海藏深意。
+    - name: 半方池水半方田
+      link: https://uuanqin.top/
+      avatar: https://s3.qjqq.cn/37/65560f0526d43.webp!color
+      descr: 技术分享及生活分享
+    - name: 困困鱼
+      link: https://0206.ink/
+      avatar: https://s3.qjqq.cn/37/65560f052a40e.webp!color
+      descr: 喜欢捣鼓的博主
+    - name: Harris’s Blog
+      link: https://blog.harriswong.top/
+      avatar: https://s3.qjqq.cn/37/65560dfc9a3a5.webp!color
+      descr: 时不我待，只争朝夕
+    - name: Chenli
+      link: https://Chenli.cn/
+      avatar: https://s3.qjqq.cn/37/65560f227a189.webp!color
+      descr: 分享牛肉,记录牛肉
+    - name: 墨尘的生活小站
+      link: https://mnchen.cn/
+      avatar: https://s3.qjqq.cn/37/655611aa812ae.webp!color
+      descr: 虽多尘色染，犹见墨痕浓
+    - name: Ame
+      link: http://486916.xyz/
+      avatar: https://s3.qjqq.cn/37/655611aa8b605.webp!color
+      descr: 为世界上所有的美好而战！
+    - name: ClimbingMouse
+      link: https://blog.climbingmouse.top/
+      avatar: https://s3.qjqq.cn/37/655611aa53281.webp!color
+      descr: 纵有疾风起，人生不言弃。
+    - name: UncleCAT4
+      link: https://yuanj.top
+      avatar: https://s3.qjqq.cn/37/655611ac84368.webp!color
+      descr: 思绪来得快去得也快，偶尔会在这里停留
+    - name: 未知之旅
+      link: https://blog.xenosp.cn/
+      avatar: https://s3.qjqq.cn/37/655611ac65d7c.webp!color
+      descr: 在未知中成长，超越自我
+    - name: 盖子的百宝袋
+      link: https://www.connorshen.site
+      avatar: https://s3.qjqq.cn/37/655611ade3b7b.webp!color
+      descr: 目标是星辰大海
+    - name: TKEY
+      link: https://vikeya.com
+      avatar: https://s3.qjqq.cn/37/655611ae1f64d.webp!color
+      descr: 经常用的钥匙，总是闪闪发光。
+    - name: 黑衣执事
+      link: https://hackdeacon.com/
+      avatar: https://s3.qjqq.cn/37/655611b0dd976.webp!color
+      descr: 用心取悦自己
+
 
 - class_name: 失联
   class_desc: 站点头像未显示或不能打开的站点
@@ -126,6 +221,6 @@
   link_list:
     - name: 摘星怪’ blog
       link: https://www.hlsiyy.love/
-      avatar: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/apple.svg
+      avatar: https://api.qjqq.cn/api/MiYouShe
       descr: 时光荏苒，流年似水
-      siteshot: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/apple.svg
+      siteshot: https://api.qjqq.cn/api/MiYouShe

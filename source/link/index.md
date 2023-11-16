@@ -130,20 +130,11 @@ a(href='https://blog.wuyuxi.cn/' rel="external nofollow") Qing
 如果友链出现问题会展示在这里，如果已解决问题还请告知。
 
 ```yml
-- name: 仰止 # 无友链
-  link: https://www.yangzhiblog.com
-  avatar: https://img02.anheyu.com/thumbnails/8d1ad930ec52750239ea6b7d0a3a44f5.png
-  descr: 高山仰止，景行行止
-  siteshot: https://img02.anheyu.com/thumbnails/85e4d93f855e048c75c8cb07b74236bb.png
-- name: 呆鱼 #无友链
-  link: https://daiyu-233.top
-  avatar: https://img02.anheyu.com/adminuploads/1/2022/10/16/634b6ba10c77f.png
-  descr: 命运之所以称为命运，正是因为它无可改变。
-  siteshot: https://img02.anheyu.com/adminuploads/1/2022/10/16/634b6ba10c3a2.png
-- name: 鲸落 #无友链
-  link: https://www.blogog.top/
-  avatar: https://img02.anheyu.com/adminuploads/1/2023/03/26/641ff70c9392c.webp
-  descr: "There is only one heroism in the world: to see the world as it is and to love it."
+    - name: 摘星怪’ blog
+      link: https://www.hlsiyy.love/
+      avatar: https://api.qjqq.cn/api/MiYouShe
+      descr: 时光荏苒，流年似水
+      siteshot: https://api.qjqq.cn/api/MiYouShe
 ```
 
 {% endfolding %}
@@ -214,8 +205,8 @@ a(href='https://blog.wuyuxi.cn/' rel="external nofollow") Qing
 1. 我的名称: `Qing`
 2. 网站地址: `https://blog.wuyuxi.cn/`
 3. 描述: `恰沐春风共同游，终只叹，木已舟。`
-4. 头像: `https://img01.anheyu.com/useruploads/90/2023/04/23/6444e85234e51.jpg`
-5. 站点截图: `https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/anheyu.com.jpg`
+4. 头像: `https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/avatar.svg`
+5. 站点截图: `https://s3.qjqq.cn/37/6555b8e007d48.webp!color`
 
 <p  style="padding: 0px 0px 0px 0.8rem;">
 请<strong>勾选</strong>你符合的条件：
