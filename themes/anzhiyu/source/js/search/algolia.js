@@ -94,8 +94,8 @@ window.addEventListener("load", () => {
     showSubmit: false,
     placeholder: algolia.languages.input_placeholder,
     showLoadingIndicator: true,
-    searchOnEnterKeyPressOnly: true,
-    searchAsYouType: false,
+    searchOnEnterKeyPressOnly: false,
+    searchAsYouType: true,
   });
 
   const hits = instantsearch.widgets.hits({

@@ -17,7 +17,7 @@ ai:
 ```yml
 - name: Qing
   link: https://blog.wuyuxi.cn/
-  avatar: https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/avatar.svg
+  avatar: https://s3.qjqq.cn/37/655779ff22313.webp!color
   descr: 恰沐春风共同游，终只叹，木已舟。
   siteshot: https://s3.qjqq.cn/37/6555b8e007d48.webp!color
 ```
@@ -31,7 +31,7 @@ ai:
   "title": "Qing",
   "screenshot": "https://s3.qjqq.cn/37/6555b8e007d48.webp!color",
   "url": "https://blog.wuyuxi.cn/",
-  "avatar": "https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/avatar.svg",
+  "avatar": "https://s3.qjqq.cn/37/655779ff22313.webp!color",
   "description": "恰沐春风共同游，终只叹，木已舟。",
   "keywords": "Qing"
 }
@@ -46,7 +46,7 @@ ai:
 | 站点名称   | Qing                                                  |
 | 站点截图   | https://s3.qjqq.cn/37/6555b8e007d48.webp!color |
 | 站点链接   | https://blog.wuyuxi.cn/                                          |
-| 站长头像   | https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/avatar.svg |
+| 站长头像   | https://s3.qjqq.cn/37/655779ff22313.webp!color |
 | 站点描述   | 恰沐春风共同游，终只叹，木已舟。                                           |
 | 站点关键词 | Qing, 个人博客， 生活                                      |
 
@@ -59,7 +59,7 @@ ai:
     title: "Qing",
     intro: "恰沐春风共同游，终只叹，木已舟。",
     link: "https://blog.wuyuxi.cn/",
-    image: "https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/avatar.svg",
+    image: "https://s3.qjqq.cn/37/655779ff22313.webp!color",
   }
 ```
 
@@ -70,7 +70,7 @@ ai:
 ```yml
 {
   "title": "Qing",
-  "avatar": "https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/avatar.svg",
+  "avatar": "https://s3.qjqq.cn/37/655779ff22313.webp!color",
   "screenshot": "https://s3.qjqq.cn/37/6555b8e007d48.webp!color",
   "url": "https://blog.wuyuxi.cn/",
   "description": "恰沐春风共同游，终只叹，木已舟。",
@@ -166,7 +166,7 @@ a(href='https://blog.wuyuxi.cn/' rel="external nofollow") Qing
 1. 我的名称: `Qing`
 2. 网站地址: `https://blog.wuyuxi.cn/`
 3. 描述: `恰沐春风共同游，终只叹，木已舟。`
-4. 头像: `https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/avatar.svg`
+4. 头像: `https://s3.qjqq.cn/37/655779ff22313.webp!color`
 5. 站点截图: `https://s3.qjqq.cn/37/6555b8e007d48.webp!color`
 
 参照以下格式留言 📋 即可。
@@ -184,7 +184,7 @@ a(href='https://blog.wuyuxi.cn/' rel="external nofollow") Qing
 ```yml
 昵称：Qing
 网站地址：https://blog.wuyuxi.cn/
-头像图片url：https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/avatar.svg
+头像图片url：https://s3.qjqq.cn/37/655779ff22313.webp!color
 描述：恰沐春风共同游，终只叹，木已舟。
 站点截图:(可选)：https://s3.qjqq.cn/37/6555b8e007d48.webp!color
 ```
@@ -205,7 +205,7 @@ a(href='https://blog.wuyuxi.cn/' rel="external nofollow") Qing
 1. 我的名称: `Qing`
 2. 网站地址: `https://blog.wuyuxi.cn/`
 3. 描述: `恰沐春风共同游，终只叹，木已舟。`
-4. 头像: `https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/avatar.svg`
+4. 头像: `https://s3.qjqq.cn/37/655779ff22313.webp!color`
 5. 站点截图: `https://s3.qjqq.cn/37/6555b8e007d48.webp!color`
 
 <p  style="padding: 0px 0px 0px 0.8rem;">
