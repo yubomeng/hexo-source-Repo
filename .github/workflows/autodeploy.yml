@@ -53,6 +53,7 @@ jobs:
           hexo bangumi -u #bilibili番剧更新
           hexo generate
           hexo algolia
+          hexo deploy
           gulp
 
       - name: 部署到Github
