@@ -7,6 +7,21 @@
   home_essay: true
   top_background: https://s3.qjqq.cn/37/6555a4c05f5db.webp!color
   essay_list:
+    - content: 这个周末，和想象中的不太一样。
+               环境差的鱼火锅自助店，每次告诉自己少去，但还是抱着试一试的心态，终究是自己涉世未深了。
+               很久没打球了，和朋友们一起打一次，一不小心折了。
+               晚上在橘子摊看见十元四斤的橘子，有点想吃橘子，就正好买了十元，朋友说去称重一下，在水果店称到 1.6kg，不足
+               4 斤，又一次吃亏了，上一次买的橘子还是 8 个 15 元，这个更坑一点。
+               大多数时候觉得自己太好说话了，脸上写着天真愚蠢，好骗。
+      date: 2023/11/18
+      video:
+        - https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/202311182313686.mp4
+        - https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/images/202311182336070.mp4
+      image:
+        - https://pic.imgdb.cn/item/6558d3eec458853aefbe8078.jpg
+        - https://pic.imgdb.cn/item/6558d3d5c458853aefbdb037.jpg
+      address: 西安
+      from: Qing
     - content: 在岁月的长河中，有一种奇妙的力量，
                 它能让万物焕发新生的光芒。
                 这是涅槃的魔力，重生的神奇。
