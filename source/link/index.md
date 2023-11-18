@@ -17,12 +17,12 @@ ai:
 ```yml
 - name: Qing
   link: https://blog.wuyuxi.cn/
-  avatar: https://s3.qjqq.cn/37/655779ff22313.webp!color
+  avatar: https://s3.qjqq.cn/37/655887614c2ce.webp!color
   descr: 恰沐春风共同游，终只叹，木已舟。
   siteshot: https://s3.qjqq.cn/37/6555b8e007d48.webp!color
 ```
 
-<!-- endtab --> 
+<!-- endtab -->
 
 <!-- tab ☀️Volantis -->
 
@@ -31,7 +31,7 @@ ai:
   "title": "Qing",
   "screenshot": "https://s3.qjqq.cn/37/6555b8e007d48.webp!color",
   "url": "https://blog.wuyuxi.cn/",
-  "avatar": "https://s3.qjqq.cn/37/655779ff22313.webp!color",
+  "avatar": "https://s3.qjqq.cn/37/655887614c2ce.webp!color",
   "description": "恰沐春风共同游，终只叹，木已舟。",
   "keywords": "Qing"
 }
@@ -41,14 +41,14 @@ ai:
 
 <!-- tab 🌴General -->
 
-| 名称       | 数值                                                         |
-| :--------- | :----------------------------------------------------------- |
-| 站点名称   | Qing                                                  |
+| 名称       | 数值                                           |
+| :--------- | :--------------------------------------------- |
+| 站点名称   | Qing                                           |
 | 站点截图   | https://s3.qjqq.cn/37/6555b8e007d48.webp!color |
-| 站点链接   | https://blog.wuyuxi.cn/                                          |
-| 站长头像   | https://s3.qjqq.cn/37/655779ff22313.webp!color |
-| 站点描述   | 恰沐春风共同游，终只叹，木已舟。                                           |
-| 站点关键词 | Qing, 个人博客， 生活                                      |
+| 站点链接   | https://blog.wuyuxi.cn/                        |
+| 站长头像   | https://s3.qjqq.cn/37/655887614c2ce.webp!color |
+| 站点描述   | 恰沐春风共同游，终只叹，木已舟。               |
+| 站点关键词 | Qing, 个人博客， 生活                          |
 
 <!-- endtab -->
 
@@ -59,7 +59,7 @@ ai:
     title: "Qing",
     intro: "恰沐春风共同游，终只叹，木已舟。",
     link: "https://blog.wuyuxi.cn/",
-    image: "https://s3.qjqq.cn/37/655779ff22313.webp!color",
+    image: "https://s3.qjqq.cn/37/655887614c2ce.webp!color",
   }
 ```
 
@@ -70,7 +70,7 @@ ai:
 ```yml
 {
   "title": "Qing",
-  "avatar": "https://s3.qjqq.cn/37/655779ff22313.webp!color",
+  "avatar": "https://s3.qjqq.cn/37/655887614c2ce.webp!color",
   "screenshot": "https://s3.qjqq.cn/37/6555b8e007d48.webp!color",
   "url": "https://blog.wuyuxi.cn/",
   "description": "恰沐春风共同游，终只叹，木已舟。",
@@ -130,11 +130,11 @@ a(href='https://blog.wuyuxi.cn/' rel="external nofollow") Qing
 如果友链出现问题会展示在这里，如果已解决问题还请告知。
 
 ```yml
-    - name: 摘星怪’ blog
-      link: https://www.hlsiyy.love/
-      avatar: https://api.qjqq.cn/api/MiYouShe
-      descr: 时光荏苒，流年似水
-      siteshot: https://api.qjqq.cn/api/MiYouShe
+- name: 摘星怪’ blog
+  link: https://www.hlsiyy.love/
+  avatar: https://api.qjqq.cn/api/MiYouShe
+  descr: 时光荏苒，流年似水
+  siteshot: https://api.qjqq.cn/api/MiYouShe
 ```
 
 {% endfolding %}
@@ -166,7 +166,7 @@ a(href='https://blog.wuyuxi.cn/' rel="external nofollow") Qing
 1. 我的名称: `Qing`
 2. 网站地址: `https://blog.wuyuxi.cn/`
 3. 描述: `恰沐春风共同游，终只叹，木已舟。`
-4. 头像: `https://s3.qjqq.cn/37/655779ff22313.webp!color`
+4. 头像: `https://s3.qjqq.cn/37/655887614c2ce.webp!color`
 5. 站点截图: `https://s3.qjqq.cn/37/6555b8e007d48.webp!color`
 
 参照以下格式留言 📋 即可。
@@ -184,7 +184,7 @@ a(href='https://blog.wuyuxi.cn/' rel="external nofollow") Qing
 ```yml
 昵称：Qing
 网站地址：https://blog.wuyuxi.cn/
-头像图片url：https://s3.qjqq.cn/37/655779ff22313.webp!color
+头像图片url：https://s3.qjqq.cn/37/655887614c2ce.webp!color
 描述：恰沐春风共同游，终只叹，木已舟。
 站点截图:(可选)：https://s3.qjqq.cn/37/6555b8e007d48.webp!color
 ```
@@ -199,19 +199,17 @@ a(href='https://blog.wuyuxi.cn/' rel="external nofollow") Qing
 
 {% endtip %}
 
-
 {% endfolding %}
 
 1. 我的名称: `Qing`
 2. 网站地址: `https://blog.wuyuxi.cn/`
 3. 描述: `恰沐春风共同游，终只叹，木已舟。`
-4. 头像: `https://s3.qjqq.cn/37/655779ff22313.webp!color`
+4. 头像: `https://s3.qjqq.cn/37/655887614c2ce.webp!color`
 5. 站点截图: `https://s3.qjqq.cn/37/6555b8e007d48.webp!color`
 
 <p  style="padding: 0px 0px 0px 0.8rem;">
 请<strong>勾选</strong>你符合的条件：
 </p>
-
 
 <div id="friendlink_checkboxs" style="padding: 0px 0px 0px 1.6rem;">
   <p>
@@ -230,7 +228,6 @@ a(href='https://blog.wuyuxi.cn/' rel="external nofollow") Qing
     <label class="checkbox"><input type="checkbox" id="checkbox5" onclick="checkForm()">我的网站可以在1分钟内加载完成首屏</label>
   </p>
 </div>
-
 
 <script>
     var twikooSubmit = document.getElementsByClassName("tk-submit")[0];
@@ -263,7 +260,6 @@ a(href='https://blog.wuyuxi.cn/' rel="external nofollow") Qing
     }
 </script>
 
-
 <style>
 .tk-comments > .tk-submit {
   opacity: 0;
@@ -272,4 +268,3 @@ a(href='https://blog.wuyuxi.cn/' rel="external nofollow") Qing
   overflow: hidden;
 }
 </style>
-
