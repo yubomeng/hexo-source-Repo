@@ -21,7 +21,7 @@ if home_top_config.enable
         .categoryGroup
           each item in home_top_config.category
             .categoryItem(style=`box-shadow:${item.shadow}`)
-              a.categoryButton(onclick=`pjax.loadUrl("${item.path}");` href='javascript:void(0);' class=`${item.class}`)
+              a.categoryButton(href=url_for(item.path) class=`${item.class}`)
                 span.categoryButtonText=item.name
                 if (item.icon.startsWith("fa"))
                   i(class=`${item.icon}`)
@@ -30,18 +30,6 @@ if home_top_config.enable
                     use(xlink:href=`#`+ item.icon)
                 else if (item.icon.startsWith("anzhiyu"))
                   i.anzhiyufont(class=`${item.icon}`)
-          else 
-            each item in category
-              .categoryItem(style=`box-shadow: ${item.shadow}`)
-                a.categoryButton(href=item.path class=`${item.class}`)
-                  span.categoryButtonText=item.name
-                  if (item.icon.startsWith("fa"))
-                    i(class=`${item.icon}`)
-                  else if (item.icon.startsWith("icon"))
-                    svg.icon(aria-hidden="true")
-                      use(xlink:href=`#`+ item.icon)
-                  else if (item.icon.startsWith("anzhiyu"))
-                    i.anzhiyufont(class=`${item.icon}`)
       if theme.home_top.swiper.enable
         #swiper_container_blog
           #swiper_container.blog-slider.swiper-container-fade.swiper-container-horizontal

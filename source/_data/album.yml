@@ -27,14 +27,33 @@
         - https://www4.bing.com//th?id=OHR.CamelsAbove_ZH-CN1389810021_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp
         - https://www4.bing.com//th?id=OHR.SkogafossWaterfall_ZH-CN4763253095_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp
         - https://www4.bing.com//th?id=OHR.KitsAspen_ZH-CN2160526845_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp
-
-    - date: 2022-10-25
-      content: 洛阳暴雨后的天空。
-      address: 河南洛阳
-      from: 紫菜卷
+        
+    - date: 2023-11-19
+      content: 西安广仁寺
+      address: 西安市
+      from: yubo
       image:
-        - https://bu.dusays.com/2023/04/09/64329399db122.webp
-        - https://bu.dusays.com/2023/04/09/64329399db2e1.webp
+        - https://pic.imgdb.cn/item/6559e5f0c458853aefd3a8b3.jpg
+        - https://pic.imgdb.cn/item/6559e616c458853aefd410ed.jpg
+        - https://pic.imgdb.cn/item/6559e6abc458853aefd5b0ff.jpg 
+        - https://pic.imgdb.cn/item/6559e6c4c458853aefd5f3c4.jpg
+        - https://pic.imgdb.cn/item/6559e6e0c458853aefd64347.jpg
+        - https://pic.imgdb.cn/item/6559e6f1c458853aefd66dea.jpg
+        - https://pic.imgdb.cn/item/6559e706c458853aefd6a8fb.jpg
+        - https://pic.imgdb.cn/item/6559e717c458853aefd6d705.jpg
+        - https://pic.imgdb.cn/item/6559e72bc458853aefd70881.jpg
+        - https://pic.imgdb.cn/item/6559e740c458853aefd73e2c.jpg
+        - https://pic.imgdb.cn/item/6559e758c458853aefd77dbc.jpg
+        - https://pic.imgdb.cn/item/6559e76fc458853aefd7b931.jpg
+        - https://pic.imgdb.cn/item/6559e78bc458853aefd80e80.jpg
+        - https://pic.imgdb.cn/item/6559e7b5c458853aefd87cf5.jpg
+        - https://pic.imgdb.cn/item/6559e7c8c458853aefd8af71.jpg
+        - https://pic.imgdb.cn/item/6559e7e0c458853aefd8f163.jpg
+        - https://pic.imgdb.cn/item/6559e7fbc458853aefd941bc.jpg
+        - https://s3.qjqq.cn/37/6559e857400be.webp!color
+        - https://pic.imgdb.cn/item/6559e80dc458853aefd974e3.jpg
+        - https://s3.qjqq.cn/37/6559e842005cc.webp!color
+        
 
 - class_name: 日常
   path_name: /dailyPhoto
