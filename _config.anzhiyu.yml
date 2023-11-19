@@ -1267,6 +1267,7 @@ inject:
   head:
     # 自定义css
     # - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
+    - <link rel="stylesheet" href="//at.alicdn.com/t/c/font_4298533_vv4krxj142.css" media="defer" onload="this.media='all'"> # 导航栏字体图标
     - <link rel="stylesheet" href="/css/custom.css">
     - <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/css/cardpolishing.css">     # 首页文章卡片擦亮效果
   bottom:
