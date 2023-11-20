@@ -53,7 +53,8 @@
 
 
 /* 博客文章背景颜色美化 */
-[data-theme="light"] .post {
+[data-theme="light"] .post,
+[data-theme="light"] #random-banner {
     background: linear-gradient(-45deg,
             #f7f1e8,
             #fdf8f6,
@@ -61,7 +62,6 @@
             #f3f3fb,
             #f1e7ed);
 }
-
 
 
 /* nav 图标美化 */
