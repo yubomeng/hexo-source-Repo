@@ -1073,8 +1073,8 @@ css_prefix: true
 home_top:
   enable: true # 开关
   timemode: updated #date/updated
-  title: 希望我们能像， 
-  subTitle: 对方一样勇敢。
+  title: 保持善良与温柔，
+  subTitle: 追求上进与美好。
   siteText: Qing
   category:
     - name: 科技前沿
