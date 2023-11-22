@@ -1268,8 +1268,10 @@ inject:
     # 自定义css
     # - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
     - <link rel="stylesheet" href="//at.alicdn.com/t/c/font_4298533_vv4krxj142.css" media="defer" onload="this.media='all'"> # 导航栏字体图标
-    - <link rel="stylesheet" href="/css/custom.css">
+    - <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/css/sun.css">
     - <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/css/cardpolishing.css">     # 首页文章卡片擦亮效果
+    - <link rel="stylesheet" href="/css/custom.css">
+
   bottom:
     # 自定义js
     # - <script src="/js/xxx"></script>
