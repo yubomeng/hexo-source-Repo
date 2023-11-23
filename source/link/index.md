@@ -18,7 +18,7 @@ ai:
 - name: Qing
   link: https://blog.wuyuxi.cn/
   avatar: https://s3.qjqq.cn/37/655887614c2ce.webp!color
-  descr: 恰沐春风共同游，终只叹，木已舟。
+  descr: 保持善良与温柔，追求上进与美好。
   siteshot: https://s3.qjqq.cn/37/6555b8e007d48.webp!color
 ```
 
@@ -32,7 +32,7 @@ ai:
   "screenshot": "https://s3.qjqq.cn/37/6555b8e007d48.webp!color",
   "url": "https://blog.wuyuxi.cn/",
   "avatar": "https://s3.qjqq.cn/37/655887614c2ce.webp!color",
-  "description": "恰沐春风共同游，终只叹，木已舟。",
+  "description": "保持善良与温柔，追求上进与美好。",
   "keywords": "Qing"
 }
 ```
@@ -47,7 +47,7 @@ ai:
 | 站点截图   | https://s3.qjqq.cn/37/6555b8e007d48.webp!color |
 | 站点链接   | https://blog.wuyuxi.cn/                        |
 | 站长头像   | https://s3.qjqq.cn/37/655887614c2ce.webp!color |
-| 站点描述   | 恰沐春风共同游，终只叹，木已舟。               |
+| 站点描述   | 保持善良与温柔，追求上进与美好。               |
 | 站点关键词 | Qing, 个人博客， 生活                          |
 
 <!-- endtab -->
@@ -57,7 +57,7 @@ ai:
 ```yml
 - {
     title: "Qing",
-    intro: "恰沐春风共同游，终只叹，木已舟。",
+    intro: "保持善良与温柔，追求上进与美好。",
     link: "https://blog.wuyuxi.cn/",
     image: "https://s3.qjqq.cn/37/655887614c2ce.webp!color",
   }
@@ -73,7 +73,7 @@ ai:
   "avatar": "https://s3.qjqq.cn/37/655887614c2ce.webp!color",
   "screenshot": "https://s3.qjqq.cn/37/6555b8e007d48.webp!color",
   "url": "https://blog.wuyuxi.cn/",
-  "description": "恰沐春风共同游，终只叹，木已舟。",
+  "description": "保持善良与温柔，追求上进与美好。",
   "group": ,#根据你的博客来定义
 }
 ```
@@ -165,7 +165,7 @@ a(href='https://blog.wuyuxi.cn/' rel="external nofollow") Qing
 
 1. 我的名称: `Qing`
 2. 网站地址: `https://blog.wuyuxi.cn/`
-3. 描述: `恰沐春风共同游，终只叹，木已舟。`
+3. 描述: `保持善良与温柔，追求上进与美好。`
 4. 头像: `https://s3.qjqq.cn/37/655887614c2ce.webp!color`
 5. 站点截图: `https://s3.qjqq.cn/37/6555b8e007d48.webp!color`
 
@@ -185,7 +185,7 @@ a(href='https://blog.wuyuxi.cn/' rel="external nofollow") Qing
 昵称：Qing
 网站地址：https://blog.wuyuxi.cn/
 头像图片url：https://s3.qjqq.cn/37/655887614c2ce.webp!color
-描述：恰沐春风共同游，终只叹，木已舟。
+描述：保持善良与温柔，追求上进与美好。
 站点截图:(可选)：https://s3.qjqq.cn/37/6555b8e007d48.webp!color
 ```
 
@@ -203,7 +203,7 @@ a(href='https://blog.wuyuxi.cn/' rel="external nofollow") Qing
 
 1. 我的名称: `Qing`
 2. 网站地址: `https://blog.wuyuxi.cn/`
-3. 描述: `恰沐春风共同游，终只叹，木已舟。`
+3. 描述: `保持善良与温柔，追求上进与美好。`
 4. 头像: `https://s3.qjqq.cn/37/655887614c2ce.webp!color`
 5. 站点截图: `https://s3.qjqq.cn/37/6555b8e007d48.webp!color`
 

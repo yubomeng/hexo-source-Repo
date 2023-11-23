@@ -1,0 +1,93 @@
+:root body {
+    --hue: 359deg;
+    --satura: 77%;
+    --light: 90%;
+    --star-shadow-out: hsl(var(--hue) var(--satura) var(--light) / 70%);
+    --sun-color: hsl(var(--hue) var(--satura) var(--light) / 70%);
+    --flow-color: hsl(var(--hue) var(--satura) var(--light) / 70%);
+    --h-bg: var(--h-bg);
+}
+
+:root[theme="dark"] body {
+    --hue: 214deg;
+    --light: 30%;
+    --star-shadow-out: hsl(214deg 77% 30%);
+}
+
+
+.sun-area {
+    position: relative;
+    margin-top: -35px;
+    pointer-events: none;
+    width: 50%;
+    height: 50vh;
+    z-index: 0;
+    inset: 0 0 0 auto;
+    transition: 1s;
+}
+
+.sun-area .flow,
+.sun-area .sun {
+    position: absolute;
+    width: 15vw;
+    height: 15vw;
+    inset: 0;
+    background: var(--sun-color);
+    box-shadow: 0 0 5vw 5vw var(--sun-color);
+    border-radius: 50%;
+    rotate: -40deg;
+    animation: rotate 50s linear infinite;
+}
+
+.sun-area .flow {
+    background: none;
+    box-shadow: none;
+    border: 1px solid var(--flow-color);
+    filter: blur(1px);
+    animation: flow 10s linear infinite;
+}
+
+.sun-area .flow:nth-child(2) {
+    animation-duration: 7s;
+    animation-delay: 3s;
+}
+
+.sun-area .flow:nth-child(3) {
+    animation-duration: 6s;
+    animation-delay: 4s;
+}
+
+.sun-area .satellite {
+    position: absolute;
+    width: 4vw;
+    height: 4vw;
+    left: -4vw;
+    top: -4vw;
+    background: var(--sun-color);
+    box-shadow: 0 0 5vw 2vw var(--star-shadow-out);
+    border-radius: 50%;
+}
+
+.sun-area .satellite:nth-child(2) {
+    bottom: -10vw;
+    top: auto;
+    right: -10vw;
+    left: auto;
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg) scale(0.3);
+    }
+
+    to {
+        transform: rotate(359deg) scale(0.2);
+    }
+}
+
+@keyframes flow {
+    100% {
+        transform: scale(10);
+        opacity: 0
+    }
+}

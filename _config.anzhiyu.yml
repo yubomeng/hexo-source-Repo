@@ -1271,6 +1271,7 @@ inject:
     - <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/css/earth.css">  # 首页太阳卫星动画
     - <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yubomeng/blog-CDN@main/css/cardpolishing.css">     # 首页文章卡片擦亮效果
     - <link rel="stylesheet" href="/css/custom.css">
+    # - <link rel="stylesheet" href="/css/earth.css">
 
   bottom:
     # 自定义js
