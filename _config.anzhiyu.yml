@@ -275,7 +275,8 @@ post_copyright:
 
 # Sponsor/reward
 reward:
-  enable: false
+  enable: true
+  coinAudio: https://npm.elemecdn.com/akilar-candyassets@1.0.36/audio/aowu.m4a
   QR_code:
     - img: https://s3.qjqq.cn/37/6555b378c621f.webp!color
       link:
