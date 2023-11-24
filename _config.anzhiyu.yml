@@ -1045,7 +1045,7 @@ pangu:
 lazyload:
   enable: true
   field: site # site/post
-  placeholder: https://s3.qjqq.cn/37/65576d77eed16.gif!color
+  placeholder: https://s3.qjqq.cn/37/6560b02879e8a.gif!color
   blur: true
   progressive: true
 
@@ -1099,8 +1099,8 @@ home_top:
     swiper_css: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.css #swiper css依赖
     swiper_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.js #swiper js依赖
   banner: # 首页右侧轮播图
-    tips: 逆风而行
-    title: 终日乾乾，与时偕行。
+    tips: 纵然变化，依然故我。
+    title: 来人间一趟，你要看看太阳。
     # image: /img/banner.webp # https://bu.dusays.com/2023/05/13/645fa3cf90d70.webp
     image: https://s3.qjqq.cn/37/655595891b420.webp!color
           # https://bu.dusays.com/2023/05/13/645fa3cf90d70.webp
@@ -1172,12 +1172,12 @@ visitorMail: # 匿名评论
 
 # ptool 文章底部工具
 ptool:
-  enable: false
+  enable: true
   share_mobile: true
   share_weibo: true
   share_copyurl: true
   categories: false # 是否显示分类
-  mode: # 运营模式与责任，不配置不显示
+  mode: /wechat # 运营模式与责任，不配置不显示
 
 # 欢迎语配置
 greetingBox:
