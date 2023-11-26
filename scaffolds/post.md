@@ -1,5 +1,9 @@
 ---
 title: {{ title }}
 date: {{ date }}
-tags:
+type:
+categories:
+cover:
+top_img:
+ai:
 ---
