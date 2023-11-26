@@ -113,3 +113,9 @@
         transform: rotate(360deg);
     }
 }
+
+
+/* 文章页图标位置调整 */
+#post-meta .meta-secondline .post-meta-position .anzhiyu-icon-location-dot {
+    margin-right: 3px;
+}

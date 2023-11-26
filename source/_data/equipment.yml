@@ -6,8 +6,13 @@
     - title: 生产力
       description: 提升自己生产效率的硬件设备
       equipment_list:
+        - name: Mac mini / Redmi 27英寸 4K显示器
+          specification: M2 16G / 256GB 
+          description: 拥有 10.7 亿种绚丽色彩，出色的画面层次感表现，使多彩画面自然过渡。
+          image: https://s3.qjqq.cn/37/6562fd7b782b7.webp!color
+          link:  /macmini
         - name: MacBook Pro 2023 16 英寸
-          specification: M3 Max 128G / 8TB
+          specification: M3 Max 128GB / 8TB
           description: 屏幕显示效果好、色彩准确、对比度强、性能强劲、续航优秀。可以用来开发和设计。
           image: https://s3.qjqq.cn/37/6555a23e88acb.webp!color
           link:  https://www.apple.com.cn/shop/buy-mac/macbook-pro/MUW63CH/A
