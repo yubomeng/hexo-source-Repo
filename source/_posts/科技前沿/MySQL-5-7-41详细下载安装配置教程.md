@@ -1,6 +1,6 @@
 ---
 title: MySQL 5.7.41详细下载安装配置教程
-type: MySQL
+tags: MySQL
 categories: 科技前沿
 cover: 'https://s3.qjqq.cn/37/65649f673d67b.webp!color'
 top_img: 'https://s3.qjqq.cn/37/65649f673d67b.webp!color'
