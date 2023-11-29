@@ -84,7 +84,7 @@ comments: false
       descr: HWiNFO 是一款电脑软硬件检测工具
     - name: PShutDown
       link: https://code.google.com/archive/p/pshutdown/downloads
-      avatar: https://storage.googleapis.com/google-code-archive/v2/code.google.com/pshutdown/logo.png
+      avatar: https://s3.qjqq.cn/37/6565d7a3e3272.webp!color
       descr: 是一个轻量级但是功能强大的电脑开关机管理工具。
     - name: Geek Uninstall 软件卸载神器
       link: https://geekuninstaller.com/
