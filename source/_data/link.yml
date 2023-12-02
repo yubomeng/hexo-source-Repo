@@ -224,6 +224,11 @@
       link: https://blog.marice.top/
       avatar: https://s3.qjqq.cn/37/655e07c042306.webp!color
       descr: 水穷暖春云起处
+    - name: 呆鱼
+      link: https://daiyu.fun/
+      avatar: https://s3.qjqq.cn/37/656b1e418906a.webp!color
+      descr: Hello World！
+
 
 - class_name: 失联
   class_desc: 站点头像未显示或不能打开的站点
