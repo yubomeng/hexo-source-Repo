@@ -4689,10 +4689,10 @@ hexo-server@^3.0.0:
     picocolors "^1.0.0"
     serve-static "^1.14.1"
 
-hexo-swpp@^3.3.1:
-  version "3.3.1"
-  resolved "https://registry.npmmirror.com/hexo-swpp/-/hexo-swpp-3.3.1.tgz"
-  integrity sha512-eeU5BdH6WZIcg/ltrYBiraSLXEQX3trEzssa9jdZZ8cfAw3XPRraJY3ejk/w6qdvcl9FQYc/pmsVnxjVDw11aQ==
+hexo-swpp@^3.3.4:
+  version "3.3.4"
+  resolved "https://registry.npmmirror.com/hexo-swpp/-/hexo-swpp-3.3.4.tgz"
+  integrity sha512-UhVuONHvhFm3b6MYvvWUKafjxxzS0B+SS6MpBVigTGsAzcxTH1S3qBe3Fmk6pTusjVBzJo2lVT/s9DVrrFVWmA==
   dependencies:
     hexo-log "^4.1.0"
     node-fetch "^2.6.12"
@@ -8689,10 +8689,10 @@ svgo@^2.1.0:
     picocolors "^1.0.0"
     stable "^0.1.8"
 
-swpp-backends@^2.1.2, swpp-backends@^2.1.4:
-  version "2.1.4"
-  resolved "https://registry.npmmirror.com/swpp-backends/-/swpp-backends-2.1.4.tgz"
-  integrity sha512-Em+4yvRe2pzELvt3bfkLMAIjr7FYidyvg1t5nGJwm79dviI3Y4wI3Q8a/IyhFA17ewyYeTLATndozug/QuF5FQ==
+swpp-backends@^2.1.2, swpp-backends@^2.3.7:
+  version "2.3.7"
+  resolved "https://registry.npmmirror.com/swpp-backends/-/swpp-backends-2.3.7.tgz"
+  integrity sha512-6fQ4fiWMJEWnn8vgQ8x4dM3aUmwHyId39UD+RixuZJcsMfxrZvXFlh7GiiEgMqNw9VHfyyYFP6cPHvsQSipKOA==
   dependencies:
     fast-html-parser "^1.0.1"
     hexo-log "^4.1.0"

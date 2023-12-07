@@ -1,21 +1,21 @@
 menu:
   文库: 
-    文章列表: /archives/ || anzhiyu-icon-box-archive
-    全部分类: /categories/ || anzhiyu-icon-shapes
-    全部标签: /tags/ || anzhiyu-icon-tags
+    篇章盈卷: /archives/ || anzhiyu-icon-box-archive
+    门类井然: /categories/ || anzhiyu-icon-shapes
+    标标有序: /tags/ || anzhiyu-icon-tags
   专栏:
-    在线工具: /tool/ || icon-gongju
-    音乐馆: /music/ || anzhiyu-icon-music
+    多彩工具: /tool/ || icon-gongju
+    弦歌不辍: /music/ || anzhiyu-icon-music
     # 追番页: /bangumis/ || anzhiyu-icon-bilibili
-    相册集: /album/ || anzhiyu-icon-images
-    游戏世界: /games/ || icon-youxi
+    心灵摄影: /album/ || anzhiyu-icon-images
+    游戏妙趣: /games/ || icon-youxi
   友链:
-    友人帐: /link/ || icon-user-friends
+    友人如星: /link/ || icon-user-friends
     朋友圈: /fcircle/ || icon-pengyouquan1
-    留言板: /comments/ || anzhiyu-icon-envelope
-    小空调: /air-conditioner/ || icon-kongdiao
+    留言有声: /comments/ || anzhiyu-icon-envelope
+    空调如风: /air-conditioner/ || icon-kongdiao
   我的:
-    我的装备: /equipment/ || anzhiyu-icon-dice-d20
+    装备多样: /equipment/ || anzhiyu-icon-dice-d20
     即刻短文: /essay/ || anzhiyu-icon-lightbulb
     关于本站: /about/ || anzhiyu-icon-paper-plane
     # 随便逛逛: javascript:toRandomPost() || anzhiyu-icon-shoe-prints1
@@ -25,7 +25,7 @@ menu:
 nav:
   enable: true
   travelling: false
-  clock: false # 是否启用 nav 左侧和风天气
+  clock: true # 是否启用 nav 左侧和风天气
   menu:  # 移动端侧栏
     - title: 博客
       item:
