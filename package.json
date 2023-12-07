@@ -38,7 +38,7 @@
     "hexo-theme-landscape": "^1.0.0",
     "hexo-wordcount": "^6.0.1",
     "pwa-asset-generator": "^6.3.1",
-    "swpp-backends": "^2.1.4",
+    "swpp-backends": "^2.3.7",
     "workbox-build": "^7.0.0"
   },
   "devDependencies": {
