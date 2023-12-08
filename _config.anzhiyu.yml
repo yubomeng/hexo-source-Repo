@@ -25,7 +25,7 @@ menu:
 nav:
   enable: true
   travelling: false
-  clock: true # 是否启用 nav 左侧和风天气
+  clock: false # 是否启用 nav 左侧和风天气
   menu:  # 移动端侧栏
     - title: 博客
       item:

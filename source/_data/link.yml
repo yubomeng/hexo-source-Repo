@@ -228,7 +228,10 @@
       link: https://daiyu.fun/
       avatar: https://s3.qjqq.cn/37/656b1e418906a.webp!color
       descr: Hello World！
-
+    - name: 阳小楊
+      link: https://blog.yxyang.top
+      avatar: https://s3.qjqq.cn/37/6572fdb590b28.webp!color
+      descr: '无人了解你的灵魂．'
 
 - class_name: 失联
   class_desc: 站点头像未显示或不能打开的站点
