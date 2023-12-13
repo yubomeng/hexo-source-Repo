@@ -75,23 +75,14 @@
       address: 各地动物
       from: yubo1
       image:
-        - https://pic.netbian.com/uploads/allimg/231006/184010-16965888103766.jpg
-        - https://pic.netbian.com/uploads/allimg/230912/210354-1694523834b1b8.jpg
-        - https://pic.netbian.com/uploads/allimg/230130/003956-16750103960871.jpg
-        - https://pic.netbian.com/uploads/allimg/221225/002246-1671898966dd1a.jpg
-        - https://pic.netbian.com/uploads/allimg/221217/233220-16712911400818.jpg 
-        - https://pic.netbian.com/uploads/allimg/221215/151740-167108866053d0.jpg 
-        - https://pic.netbian.com/uploads/allimg/221225/002028-1671898828b946.jpg
-        - https://pic.netbian.com/uploads/allimg/221209/181033-16705806330d54.jpg
-        - https://pic.netbian.com/uploads/allimg/221119/000315-16687873954a62.jpg 
-        - https://pic.netbian.com/uploads/allimg/220702/195226-165676274668dd.jpg
-        - https://pic.netbian.com/uploads/allimg/220702/192630-1656761190c710.jpg
-        - https://pic.netbian.com/uploads/allimg/221203/230342-16700798220aaa.jpg
-        - https://pic.netbian.com/uploads/allimg/210308/224421-1615214661a839.jpg
+        - https://s3.qjqq.cn/37/6579a9ccde1bb.webp!color
+        - https://s3.qjqq.cn/37/6579a9cd09741.webp!color
+        - https://s3.qjqq.cn/37/6579a9ce5102b.webp!color
+    
          
 
 
-- class_name: 4K美女
+- class_name: 4K壁纸
   path_name: /animeBeauty
   type: 2
   description: 可爱、性感、清纯、成熟、卡哇伊
@@ -111,14 +102,6 @@
       address: 未知
       from: yubo2  # 【可选】当前图片的创建人，未填写则不显示
       image:
-        - https://pic.netbian.com/uploads/allimg/231026/001756-169825067614fe.jpg
-        - https://pic.netbian.com/uploads/allimg/231023/170908-169805214802a1.jpg
-        - https://pic.netbian.com/uploads/allimg/231019/203744-1697719064cef3.jpg
-        - https://pic.netbian.com/uploads/allimg/231019/203401-1697718841cefa.jpg
-        - https://pic.netbian.com/uploads/allimg/231016/222058-1697466058faed.jpg 
-        - https://pic.netbian.com/uploads/allimg/231015/232143-1697383303d76c.jpg
-        - https://pic.netbian.com/uploads/allimg/231012/200615-1697112375eae9.jpg
-        - https://pic.netbian.com/uploads/allimg/231011/210256-1697029376283c.jpg
-        - https://pic.netbian.com/uploads/allimg/231011/210154-1697029314c638.jpg
-        - https://pic.netbian.com/uploads/allimg/231011/210006-1697029206966d.jpg
-        - https://pic.netbian.com/uploads/allimg/231003/212519-1696339519be44.jpg
+        - https://s3.qjqq.cn/37/6579a8965ef9d.webp!color
+        - https://s3.qjqq.cn/37/6579a8bc9a898.webp!color
+        - https://s3.qjqq.cn/37/6579a917cf743.webp!color

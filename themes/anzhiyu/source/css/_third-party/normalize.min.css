@@ -2,7 +2,6 @@
 html {
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
-  scroll-padding-top: 60px;
 }
 
 /* 滚动条轨道样式 */
@@ -22,6 +21,7 @@ html {
   0% {
     opacity: 1;
   }
+
   100% {
     opacity: 0;
   }
@@ -106,10 +106,14 @@ img {
   border-radius: 8px;
   max-width: 100%;
   transition: all 0.2s ease 0s;
-  -webkit-user-drag: none; /* WebKit */
-  -khtml-user-drag: none; /* KHTML */
-  -moz-user-drag: none; /* Gecko */
-  -ms-user-drag: none; /* Trident/Edge */
+  -webkit-user-drag: none;
+  /* WebKit */
+  -khtml-user-drag: none;
+  /* KHTML */
+  -moz-user-drag: none;
+  /* Gecko */
+  -ms-user-drag: none;
+  /* Trident/Edge */
   user-drag: none;
 }
 
@@ -152,6 +156,7 @@ button::-moz-focus-inner {
 img.fancybox__image {
   border-radius: 0;
 }
+
 [type="button"]:-moz-focusring,
 [type="reset"]:-moz-focusring,
 [type="submit"]:-moz-focusring,
