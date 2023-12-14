@@ -119,3 +119,13 @@
 #post-meta .meta-secondline .post-meta-position .anzhiyu-icon-location-dot {
     margin-right: 3px;
 }
+
+
+/* 导航栏苹果图标调整 */
+.icon-pingguo {
+    font-size: 24px !important;
+    color: #b63836;
+}
+.anzhiyu-icon-magnifying-glass {
+    color: #b63836;
+}
