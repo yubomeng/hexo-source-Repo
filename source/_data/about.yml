@@ -102,12 +102,12 @@
 ############################################################################
 #      赞赏名单
   reward_list:
+    - name: 什么错误
+      amount: 8.88
+      datatime: 2023-12-18
     - name: 游客1
       amount: 0.00
-      datatime: 2023-11-01
-    - name: 游客2
-      amount: 0.00
       datatime: 2023-11-02
-    - name: 游客3
+    - name: 游客2
       amount: 0.00
       datatime: 2023-11-03

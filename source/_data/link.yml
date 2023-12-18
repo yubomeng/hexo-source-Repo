@@ -30,14 +30,7 @@
       color: speed
       tag: 生活
       recommend: true
-    - name: 青桔气球
-      link: https://blog.qjqq.cn/
-      avatar: https://s3.qjqq.cn/37/6555fa6ec69d2.webp!color
-      descr: 分享网络安全与科技生活
-      siteshot: https://s3.qjqq.cn/37/6555f4e394105.webp!color
-      color: vip
-      tag: 生活
-      recommend: true
+  
     - name: 杜老师说
       avatar: https://s3.qjqq.cn/37/6555fa8ae6118.webp!color
       link:  https://dusays.com
@@ -105,6 +98,10 @@
       avatar: https://s3.qjqq.cn/37/6555f6f02f544.webp!color
       descr: SNTube Studio
       siteshot: https://s3.qjqq.cn/37/6555f6f34bd6c.webp!color
+    - name: 青桔气球
+      link: https://blog.qjqq.cn/
+      avatar: https://s3.qjqq.cn/37/6555fa6ec69d2.webp!color
+      descr: 分享网络安全与科技生活
     - name: 贰猹的小窝
       link: https://noionion.top/
       avatar: https://s3.qjqq.cn/37/6555f7141a79d.webp!color

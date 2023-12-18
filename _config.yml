@@ -9,7 +9,7 @@ description: '一年中和一生中的秋天，时光很短暂，但是更加晴
 keywords:
 author: Qing
 language: zh-CN
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
