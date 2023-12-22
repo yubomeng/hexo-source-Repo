@@ -228,7 +228,12 @@
     - name: 阳小楊
       link: https://blog.yxyang.top
       avatar: https://s3.qjqq.cn/37/6572fdb590b28.webp!color
-      descr: '无人了解你的灵魂．'
+      descr: 无人了解你的灵魂
+    - name: 小鹿的个人网站
+      link: https://siena.zone/?entry_type=blog
+      avatar: https://pic.imgdb.cn/item/65858678c458853aef7cb534.jpg
+      descr: 跳吧，在无比宏大的星系！
+
 
 - class_name: 失联
   class_desc: 站点头像未显示或不能打开的站点
