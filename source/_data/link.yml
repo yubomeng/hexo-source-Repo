@@ -13,11 +13,7 @@
       descr: 生活明朗，万物可爱
       siteshot: https://s3.qjqq.cn/37/6555fa43c5dbb.webp!color
 
-    - name: 风记星辰
-      link: https://www.thyuu.com/
-      avatar: https://s3.qjqq.cn/37/65560a8ce5436.webp!color
-      descr: 热爱你来过的每度温暖
-      siteshot: https://s3.qjqq.cn/37/65560aaaead34.webp!color
+      
 - class_name: 推荐
   flink_style: telescopic
   hundredSuffix: ""
